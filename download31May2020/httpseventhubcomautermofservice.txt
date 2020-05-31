@@ -1,0 +1,57 @@
+RECITALS
+A. Turnkey Hospitality Solutions Pty Ltd (“Turnkey”) is the owner of all Intellectual Property Rights in and pertaining to Event Hub.
+B. You (the “Customer”) wish to use Event Hub and to acquire the Service from Turnkey, and Turnkey has agreed to supply the Service to the Customer on the terms set out in this Agreement.
+1. DEFINITIONS
+In this Agreement unless the context otherwise:
+Commencement Date means the date the Customer commences to pay the Fees.
+Confidential Information means all information provided by one party to the other in connection with this Agreement where such information is identified as confidential at the time of its disclosure or ought reasonably be considered confidential based on its content, nature or the manner of its disclosure, but excluding: (a) information that enters the public domain or is disclosed to a party by a third party, other than through a breach of this Agreement; and (b) information developed independently by a party.
+Enhancements means changes or improvements to the functions or performance of the existing Event Hub release version.
+Event Hub means the event and hospitality end to end cloud computing software platform, and associated Intellectual Property Rights.
+Events and Facilities means the event/s and facility/ies associated with the Customer’s use of Event Hub.
+Expiry Date means the date this Agreement is terminated.
+Express Purpose means the provision of the Service and Event Hub to the Customer at the Events and Facilities.
+Intellectual Property Rights means all intellectual property rights, including all copyright, patents, trade marks, design rights, trade secrets, domain names, know how and any other rights of a similar nature, whether registrable or not and whether registered or not, and any applications for registration or rights to make such an application.
+Service means the provision of Event Hub and associated services.
+Fees means the service, set up and other fee/s payable by the Customer to Turnkey for the Service and use of Event Hub as notified by Turnkey to the Customer.
+Term means the period commencing on the Commencement Date and ending on the Expiry Date.
+Upgrades means any new release versions of Event Hub which provide functions or performance equal or superior to existing Event Hub release version.
+2. SUPPLY OF SERVICE
+2.1 Turnkey agrees to provide, and the Customer agrees to acquire, the Service for use in connection with the Express Purpose for the Term and in accordance with the terms of this Agreement.
+2.2 Turnkey shall provide the Service with all due care, skill, competence and diligence.
+2.3 The Customer shall in a timely manner provide Turnkey with relevant information, documents and other data in its possession or control sufficient to enable Turnkey to provide the Service.
+3. TERM
+3.1 This Agreement commences on the Commencement Date and shall expire on the Expiry Date unless terminated earlier pursuant to this Agreement.
+4. SERVICE FEE
+4.1 The Customer must pay the Fees to Turnkey by electronic transfer.
+4.2 If payment of the Fees is not made to Turnkey within 14 days of its due date, Turnkey may, without limiting its right to terminate under clause 9.1 and without notice to the Customer suspend its performance of its remaining obligations under this Agreement including the provision of the Service.
+5. ENHANCEMENTS AND UPGRADES
+5.1 Turnkey may from time to time in its absolute discretion develop and implement Enhancements and/or Upgrades.
+5.2 All Enhancements and Upgrades made by Turnkey shall be adopted by the Customer as part of the Service and use of Event Hub by the Customer pursuant to this Agreement.
+6. INTELLECTUAL PROPERTY
+6.1 The Customer acknowledges that: (a) it does not now and will not have, own or acquire in the future any Intellectual Property Rights in Event Hub, the Service, any Enhancements or Upgrades; (b) Turnkey owns all Intellectual Property Rights in Event Hub and in any Enhancements and Upgrades; and (c) Event Hub and any Enhancements and Upgrades contain proprietary information and Confidential Information of Turnkey.
+7. LIABILITY
+7.1 The Customer acknowledges that Turnkey’s liability under any statutory right or any condition or warranty implied by any state Fair Trading Act (NSW) or the Competition and Consumer Act 2010 (Cth) is to the extent permitted by law limited at the option of Turnkey to: (a) in the case of any goods, any one or more of the following: (i) the replacement of the goods or the supply of equivalent goods; (ii) the repair of the goods; (iii) the payment of the cost of replacing the goods or of acquiring equivalent goods; or (iv) the payment of the cost of having the goods repaired; and (b) in the case of any services: (i) the supply of the services again; or (ii) the payment of the cost of having the services supplied again.
+7.2 The Customer acknowledges that Turnkey is not liable to the Customer for any incidental, indirect, special, consequential or economic loss or damage (including loss of profits or opportunities and exemplary and punitive damages) whether arising from the failure or omission by Turnkey to comply with its obligations under this Agreement.
+8. CONFIDENTIALITY AND DATA PROTECTION
+8.1 Each party acknowledges that the Confidential Information is secret, proprietary and confidential to the party imparting the information.
+8.2 Each party must keep the Confidential Information secret and confidential and ensure that its employees, shareholders, advisers and agents are aware of and maintain the confidentiality of the Confidential Information.
+8.3 The obligation of confidentiality imposed by this clause does not extend to any part of the Confidential Information which: (a) is in the public domain other than as a result of any breach of this Agreement; (b) was disclosed by a third party other than in breach of an obligation of confidentiality; or (c) is required by any court, government, fiscal or other public body to be disclosed.
+8.4 The obligation of confidentiality imposed by this clause survives the termination of this Agreement.
+8.5 Turnkey must ensure that Event Hub complies with the Privacy Act 1988 (Cth) and any other data protection legislation and that any Enhancements and Upgrades also comply at the date of their installation.
+8.6 The Customer must ensure that any data processed, used or generated by Event Hub complies with the Privacy Act 1988 (Cth) and any other data protection legislation.
+9. TERMINATION
+9.1 Turnkey may immediately terminate this Agreement and cease supply the Service under this Agreement by giving written notice to the Customer if: (a) any payment due from the Customer to Turnkey under this Agreement remains unpaid for a period of 10 Business Days after Turnkey has notified the Customer of non-payment; (b) the Customer fails to remedy (where it is capable of remedy) or persists in any other breach of this Agreement after having been notified by Turnkey to remedy or desist from the breach within a period of 10 Business Days (or such longer time as agreed by Turnkey); or (c) the Customer enters into any transaction concerning or deals in any way with Event Hub with any third party without the prior written consent of Turnkey.
+9.2 The Customer may immediately terminate this Agreement by giving written notice to Turnkey if: (a) Turnkey fails to remedy (where it is capable of remedy) or persists in any other breach of this Agreement after having been notified by the Customer to remedy or desist from the breach within a period of 10 Business Days (or such longer time as agreed by the Customer); or (c) Turnkey commits a material breach of the Agreement.
+9.3 To the extent permitted by law, either party may immediately terminate this Agreement by giving the other party notice if: (a) a receiver, receiver and manager, controller, managing controller, administrator, official manager, trustee or provisional or official liquidator is appointed over the assets or undertaking of the other party; (b) the party: (i) suspends payments of its debts generally; (ii) is or becomes insolvent within the meaning of the Corporations Act 2001; (iii) enters into or resolves to enter into any arrangement, composition or compromise with, or assignment for the benefit of, its creditors or any class of them; or (iv) an application is filed or an order is made or resolution passed for the winding up or dissolution of the party other than for the purposes of reconstruction or amalgamation.
+10. CONSEQUENCES OF TERMINATION
+10.1 Upon the date of any termination under clauses 9: (a) Turnkey’s obligation to provide the Service to the Customer shall immediately cease; (b) the obligation of confidentiality under clause 8 continues in full force and effect.
+10.2 Turnkey must: (a) at the Customer’s cost, deliver up to the Customer or, at the direction of the Customer, destroy all copies in its possession or control of the Customer Data, Intellectual Property, and any works (including all written materials, artworks, copyright works, plans, concepts, ideas or other subject matter created, developed or conceived by or on behalf of Turnkey or the parties in the course of performing this Agreement); (b) promptly return to the Customer all Customer Data, confidential information, and any other property of the Customer.
+11. ASSIGNMENT
+The Customer may not assign, sub-licence, charge or otherwise deal with any of its rights or obligations under this Agreement without the prior written consent of Turnkey which may be granted or withheld in its absolute discretion.
+12. GENERAL
+12.1 This agreement is governed by the laws of New South Wales, Australia. Each party submits to the exclusive jurisdiction of the courts of the state in relation to all matters arising under this Agreement.
+12.2 This agreement contains the entire agreement of the parties with respect to its subject matter. It sets out the only conduct relied on by the parties and supersedes all earlier conduct by the parties with respect to its subject matter.
+12.3 The Customer must ensure that any data provided by it and processed, used or generated by Event Hub complies with the Privacy Act 1988 (Cth) and any other data protection legislation.
+12.4 Any variation of this document must be in writing and signed by the parties.
+12.5 Any notice to be given to one party by the other under this Agreement must be delivered to the recipient by email. Turnkey’s email address for service is info@eventhub.com.au
+https://eventhub.com.au/term-of-service/

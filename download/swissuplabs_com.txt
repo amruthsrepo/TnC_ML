@@ -1,0 +1,4 @@
+Go to Admin > Stores > Terms and Conditions You should see somethimg similar to this:
+Create new condition using Add New Condition button Fill all fields carefully , enable and assign it to required StoreView Use Aplied = Manually to let the customer check the checkbox
+Then follow to Stores > Configuration > Sales > Checkout section and in Checkout options set Enable Terms and Conditions = Yes
+https://docs.swissuplabs.com/m2/extensions/firecheckout/faq/creating-terms-and-conditions/

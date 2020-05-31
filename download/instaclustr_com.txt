@@ -1,0 +1,526 @@
+Effective Date: 21 November 2019
+BY CLICKING ON THE “ACCEPT” BUTTON, YOU OR THE ENTITY THAT YOU REPRESENT (“YOU”) ARE UNCONDITIONALLY CONSENTING TO BE BOUND BY, AND ARE BECOMING A PARTY TO, A SUPPLY CONTRACT AND AN ORDER CONSISTING OF THE SERVICE SCOPE, THIS PARAGRAPH, THE SERVICE LEVEL AGREEMENT AND THE FOLLOWING STANDARD TERMS OF SERVICE (THE “AGREEMENT”) FOR THE PROVISION OF SERVICES BY US TO YOU.
+IF A SEPARATE WRITTEN AGREEMENT AND SOW ABOUT THE SERVICES ALREADY EXISTS BETWEEN YOU AND US, THE TERMS OF THAT WRITTEN AGREEMENT (EXCLUDING THE PRE-PRINTED TERMS OF ANY PURCHASE ORDER, CONFIRMATION OR SIMILAR DOCUMENT, WHICH WILL HAVE NO EFFECT AND WILL NOT BE CONSIDERED AGREED TO BY US) WILL TAKE PRECEDENCE OVER THIS AGREEMENT, AND YOU ACKNOWLEDGE THAT YOU ARE BOUND BY THE TERMS OF THAT WRITTEN SERVICES AGREEMENT RATHER THAN THESE TERMS.
+IF YOU DO NOT UNCONDITIONALLY AGREE TO THE TERMS SET OUT IN THIS AGREEMENT, AND WE HAVE NO WRITTEN AGREEMENT AND SOW ALREADY IN PLACE BETWEEN US, CLICK THE “CANCEL” BUTTON AND THE SERVICE PROVISIONING PROCESS WILL NOT CONTINUE. IF YOU CONTINUE WITH SERVICE PROVISIONING, YOU ARE REPRESENTING AND WARRANTING THAT YOU ARE AUTHORIZED TO DO SO.
+Supply Contract
+1.1 Formation of Supply Contract
+A Supply Contract between the parties will consist of:
+1.1.1 any Special Conditions to the relevant Statement of Work;
+1.1.2 the relevant Statement of Work;
+1.1.3 the terms and conditions of this Agreement;
+1.1.4 the schedules to this Agreement; and
+1.1.5 any of Instaclustr’s standard form documents (including policies and procedures) incorporated by reference.
+1.2 Priority of Documents
+In the event and to the extent of any ambiguity, inconsistency or discrepancy between two or more documents which form part of the Supply Contract, a descending order of priority will apply to those documents so that a document appearing higher in the list of documents in clause 1.1 will prevail over a document appearing lower in the list.
+1.3 Entire Agreement and Variation
+1.3.1 The Supply Contract constitutes the entire agreement between the parties and supersedes all communications, negotiations, arrangements and agreements, whether oral or written, between the parties with respect to the subject matter of the Supply Contract.
+1.3.2 No agreement or understanding varying or extending the Supply Contract will be legally binding upon either party unless in writing and signed by both parties, or submitted by the Customer as an Order and accepted by Instaclustr.
+1.4 Benefit of Supply Contract
+The Customer:
+1.4.1 acknowledges that Instaclustr enters into the Supply Contract for the benefit of each of the Instaclustr Entity; and
+1.4.2 agrees that Instaclustr holds the benefit of the Supply Contract (including the right to recover any Liability) for itself and on trust for each Instaclustr Entity and is entitled to enforce the Supply Contract (including any indemnity), whether by way of equitable, legal or statutory relief, for itself and on behalf of any Instaclustr Entity.
+2. Appointment and Term
+2.1 Appointment
+2.1.1 The Customer appoints Instaclustr, and Instaclustr accepts the appointment, to deliver the Services and Deliverables specified in a Statement of Work in accordance with the Supply Contract.
+2.1.2 In consideration of Instaclustr delivering to the Customer the Services and Deliverables specified in a Statement of Work, the Customer will pay to Instaclustr the Fees in accordance with the Supply Contract.
+2.2 Term
+2.2.1 This Agreement commences on the Effective Date and continues for the Initial Term, unless terminated earlier in accordance with this Agreement.
+2.2.2 The Initial Term will be automatically extended for the rolling further periods specified in the applicable Statement of Work, unless either party gives written notice to the other party no less than 30 days before the expiry date of the Agreement that the rolling further period will not apply.
+2.2.3 Notwithstanding anything else in this Agreement, the expiry of this Agreement shall not terminate any Statement of Work, and the terms of this Agreement remain effective as to any such Statement of Work, until that Statement of Work or Order has been completed or has terminated.
+2.3 Term of Statements of Work
+The term of a Statement of Work will be the term specified in the Statement of Work, including any extensions, renewals or amendments.
+2.4 Issuing a Statement of Work
+2.4.1 A Statement of Work entered into during the Term of this Agreement has effect according to its terms, pursuant to this Agreement.
+2.4.2 If, after having received a draft Statement of Work from Instaclustr, the Customer instructs Instaclustr to commence the provision of Services described in the draft Statement of Work, then the Customer will be deemed to have agreed to and accepted that draft Statement of Work in its entirety, and that draft Statement of Work will form a Statement of Work under a Supply Contract.
+2.5 Compliance with Statements of Work
+The parties must comply with the requirements of any Statement of Work in relation to the provision of the Services pursuant to the Supply Contract.
+3. Services and Delivery
+3.1 Delivery of Services
+3.1.1 Instaclustr will:
+(a) provide the Services and any Deliverables to the Customer in accordance with the Supply Contract; and
+(b) use reasonable commercial endeavours:
+(i) to ensure that the Services and Deliverables comply with the applicable Statement of Work; and
+(ii) where applicable, to achieve the Service Levels or acceptance criteria as specified in a SOW or Order when performing the Services.
+3.1.2 Instaclustr, in its sole discretion, may nominate any Instaclustr Entity to provide the Services or any part of the Services.
+3.2 Performance Methods
+Subject to compliance with the Supply Contract, Instaclustr:
+3.2.1 will select the means, manner, mode, methods and location of; and
+3.2.2 may provide and use its own equipment and/or use the Customer Equipment in, providing the Services.
+4. Changes to Statements of Work
+4.1 . The Customer may request that a change to the Services or Deliverables be made at any time prior to completion of the Services specified in a SOW (Change Request).
+4.2 Unless otherwise specified in the relevant Statement of Work, all Change Requests must be made via one of the following mechanisms:
+4.2.1 where the Change Request will result in increase in the Fees payable or delay in the completion of the Services, the parties must agree in writing, detailing the changes and the effect on the costs and timing of completion;
+4.2.2 an Order; or
+4.2.3 the Customer raises a Change Request in the console or through their account.
+4.3 Instaclustr will notify the Customer in writing within 5 days of receipt of the Change Request whether it:
+4.3.1 approves the Change Request, in which case either:
+(a) if the Change Request has been submitted as an Order or is made via the console or through their account, Instaclustr will accept the Change Request; or
+(b) the parties will execute a document to vary the terms of the Supply Contract or any applicable Statement of Work to give effect to the Change Request; or
+4.3.2 rejects the Change request, in which case Instaclustr may, where appropriate, make professional recommendations in respect of the Change Request (Recommendations) and request the Customer to accept Recommendations in writing. Where the Customer:
+(a) accepts the Recommendations in writing, then the parties will execute a document to terms of the Supply Contract or any applicable Statement of Work to give effect to the Change Request; or
+(b) rejects the Recommendations and elects to resubmit an amended Change Request, then the Customer must follow the requirements set out in clause 4.2.
+4.4 If Instaclustr does not notify the Customer within the timeframe specified in clause 3 above, Instaclustr is deemed to have rejected the Change Request.
+4.5 The document referred to in clause 3.1 must be executed by each party in order to be binding on the parties.
+5. Customer Premises and Equipment
+5.1 If Instaclustr requires access to any Customer premises or Customer Equipment in connection with the provision of Services or Deliverables under the Supply Contract, the Customer must provide Instaclustr with access to such premises or Customer Equipment at the times required by Instaclustr. Instaclustr will not be responsible for the failure to provide the Services or Deliverables to the extent that such access is not provided.
+5.2 Instaclustr will comply with:
+5.2.1 the reasonable Customer policies and procedures applicable to access to the Customer’s premises or Customer Equipment, including all occupational health and safety related policies and all confidentiality and security related policies, provided such policies have been provided to Instaclustr in writing before Instaclustr accesses the premises or Customer Equipment; and
+5.2.2 any reasonable direction of any authorised representative of the Customer in relation to such policies.
+5.3 Unless otherwise agreed by the parties in writing in the applicable Statement of Work, the Customer is responsible, at its cost, for obtaining any approvals or licences that are necessary or required by any contract or Law for the performance of the Services under the Supply Contract.
+5.4 The term ‘access’ in this clause 5 includes access by any means including technology.
+6. Use of Services
+6.1 Customer’s Obligations
+The Customer must:
+6.1.1 make adequate and appropriate qualified Personnel available to perform the Customer’s duties as set out in the Supply Contract;
+6.1.2 cooperate with Instaclustr and provide Instaclustr with such information and assistance reasonably necessary to enable Instaclustr to provide the Services; and
+6.1.3 provide Instaclustr with reasonable access to the Customer’s premises or Equipment as required to perform the Services.
+6.2 Prohibited Conduct
+The Customer must not use the Services, and permit the Services be used:
+6.2.1 in a way that would cause Instaclustr to breach any applicable export control Laws of any jurisdiction (including those under Australian, UK and US Law).
+6.2.2. to engage in fraud, fraudulent or illegal behaviour;
+6.2.3 to, or attempt to, circumvent any security measures or otherwise gain unauthorised access to or interfere with any third party’s online resources or systems including by any form of hacking;
+6.2.4 to distribute, view or create any material that:
+(a) is or may be violent, pornographic, defamatory, offensive, obscene, illegal or unlawful; or
+(b) intentionally infringes any third party’s Intellectual Property Rights;
+6.2.5 in a way that poses a material security risk to the Services or the Instaclustr Equipment or may have a material adverse impact on the Services or the Instaclustr Equipment;
+6.2.6 . to distribute unsolicited emails to third parties including bulk unsolicited emails;
+6.2.7 in a way that would intentionally infringe any third party’s Intellectual Property Rights;
+6.2.8 in a way that would intentionally disrupt, misuse or excessively use the hardware, bandwidth access, storage space or other resources of the Instaclustr or Instaclustr’s other customers; or
+6.2.9 to send unsolicited email from another network that appears to have been sent using the Services or from the Instaclustr Equipment used to provide the Services.
+6.3 Customer to Comply
+6.3.1. The Customer must comply with any reasonable policies of Instaclustr (including any acceptable use policy and privacy policy relating to the Services and the Security Policy) notified or made available by Instaclustr to the Customer from time to time.
+6.3.2. The Customer acknowledges and agrees that if it does not comply with clause 6.3.1 above at any time during the Term then Instaclustr may be unable to provide the Services to the Customer.
+6.4 Services Capacity Limitation
+The Customer acknowledges that the Services may be provided with capacity limits, as specified in a SOW or on Instaclustr’s website, and agrees to pay for any and all excess usage over the service capacity, on a monthly basis, at the rate set out in the relevant SOW without any right of set-off or deduction.
+6.5 Acknowledgement
+The Customer acknowledges and agrees that, if the Customer does not have the resources necessary to receive the Services, including hardware, software, telecommunications resources and internet access of a standard acceptable to Instaclustr (acting reasonably) then the Services may not function as intended (or at all).
+6.6 Export Compliance
+6.6.1 . The Customer represents and warrants, and undertakes that it will not:
+(a) possess, use, import, export or resell, and
+(b) permit the possession, use, importation, exportation or resale,
+of the Services, Deliverables, information or technical data provided by Instaclustr to Customer under the Supply Contract in any manner which would cause Instaclustr to breach any applicable export control Law of any jurisdiction (including those under Australian, UK and US Law).
+6.6.2 Without limiting clause 6.6.1 above, the Customer represents, warrants and undertakes that it will not provide access to the Services to, or permit use of the Services by, any Entity (including government or private entity) that is located in or is a national of any country that is embargoed or highly restricted under any export control Law of Australia, United Kingdom or US.
+6.7 Ownership of Instaclustr Equipment
+Unless otherwise specified in a Statement of Work, ownership of and title to all Instaclustr Equipment remain with Instaclustr.
+7. Third Party Services
+7.1 Use of Third Party Services
+7.1.1 The parties agree that the Services may operate on or with or using products and/or services operated or provided by third parties (Third Party Services) which will be specified to the extent applicable in an SOW.
+7.1.2 Unless specified in a SOW, the Customer is responsible for procuring any rights necessary (including licences) for the Customer to access Third Party Services.
+7.1.3 For the avoidance of doubt, any reference to Third Party Services in this clause 7 includes the Cloud Provider, but does not include any Open Source Software.
+7.2 Customer Acknowledgement
+7.2.1 Despite any other provisions in the Supply Contract, the Customer acknowledges and agrees that, in respect of any Third Party Services procured or made available by Instaclustr:
+(a) its access to and use of such Third Party Services, and its interaction with the relevant service provider (including data exchange), whether or not through Instaclustr, are governed solely by the terms and conditions of such Third Party Services;
+(b) it may be required to register for or log into such Third Party Services (whether via Instaclustr or the third party service provider’s website) in order to use such Third Party Services, and by registering for or logging into such Third Party Services, the Customer is deemed to:
+(i) have authorised the disclosure by Instaclustr of its login, as well as Service Data (to the extent necessary), to the third party service provider to facilitate the use or enablement of such Third Party Services; and
+(ii) have accepted and agree to be bound by the terms and conditions of such Third Party Services;
+(c) it will comply with any applicable terms or conditions of such Third Party Services; and
+(d) it irrevocably waives any Claim against Instaclustr in connection to such Third Party Services.
+7.3 No Warranty
+7.3.1 Instaclustr does not make any representations or warranties in connection with any Third Party Services procured or made available by it or the relevant services providers that provide such Third Party Services.
+7.3.2 Without limiting clause 7.3.1 above, Instaclustr:
+(a) does not endorse, and is not responsible or liable for, any aspect of such Third Party Services, including their content or the manner in which they handle, protect, manage or process data (including Service Data) or any interaction (if applicable) between the Customer and the service provider of such Third Party Services;
+(b) does not guarantee the continued availability of any Third Party Services, and may cease to provide the Customer with access to any such Third Party Services without any refund, credit or compensation; and
+(c) is not liable for, and the Customer indemnifies Instaclustr against, any damage or Loss caused or alleged to be caused by or in connection with the Customer’s enablement, access or use of any such Third Party Services, including the Customer’s reliance on the privacy practices, data security processes or other policies of such Third Party Services.
+8. Payment and Invoicing
+8.1 Fees
+8.1.1 Subject to the Supply Contract, the Customer must pay Instaclustr:
+(a) the Fees specified in the applicable SOW; and
+(b) for any Expenses pre-approved by the Customer in writing, such approval not to be unreasonably withheld,
+upon submission of a tax invoice to the Customer by Instaclustr in accordance with the timeframes specified in the applicable SOW.
+8.1.2 The Customer must make the payment within 14 days of receipt of Instaclustr’s invoice, unless otherwise specified in the applicable SOW.
+8.2 Fee Increase
+Unless stated to the contrary in an applicable SOW, if the Customer continues to engage Instaclustr for provision of Services after the Initial Term, then on each anniversary of the Effective Date, Instaclustr may increase the amount of the Fees payable for the upcoming year by giving the Customer no less than 90 days written notice.
+8.3 Payment Methods
+8.3.1 Upon registration of a credit card account with Instaclustr via its website, the Customer authorises Instaclustr to debit Customer’s credit card for all Fees.
+8.3.2 Where the Customer provides Instaclustr with its direct debit details, the Customer consents to Instaclustr deducting Fees from Customer’s account monthly in arrears.
+8.3.3 If Instaclustr receives notice of a chargeback, declined or reversed payment in connection with payments made by or on behalf of the Customer for the Services, Instaclustr may (without limiting Instaclustr’s rights under the Supply Contract and without any liability and compensation to the Customer) suspend the provision of Services to Customer until Instaclustr receives the required payment (including any bank charges Instaclustr incurs, late payment fees, interest, debt recovery charges and reactivation fees) in full.
+8.3.4 If the Customer elects to pay by credit card, the Customer consents to Instaclustr obtain a report from a credit reporting agency on the Customer’s credit worthiness.
+8.4 Customer Responsible for All Taxes
+8.4.1 Fees under the Contract are exclusive of all taxes, including national, state or provincial and local use, sales, value-added, property and similar taxes, if any. The Customer agrees to pay such taxes. In the case of any withholding requirements, the Customer will pay any required withholding itself and will not reduce the amount paid to Instaclustr on account of such withholding.
+8.4.2 The Customer must pay Instaclustr the amount of any applicable sales, use or service tax which Instaclustr may be required to collect in connection with the provision of the Services, provided that Instaclustr must identify any such tax as a separate line item on the relevant invoice.
+8.5 Unpaid Amount
+8.5.1 Unpaid Fees and Expenses are subject to an interest charge equal to one per cent per month from the due date of the payment, or the maximum default interest rate permitted by law, whichever is lower, plus all expenses of collection, including reasonable legal fees, collection agency charges or any other reasonable costs.
+8.5.2 Without prejudice to Instaclustr’s other rights and remedies under the Supply Contract and without liability to the Customer, if any amount payable is not paid on or before the due date, Instaclustr reserves the right to suspend the provision of the Services to the Customer until Instaclustr receives the required payment (including any late payment fees, interest and debt recovery charges) in full.
+9. Warranties and Acknowledgement
+9.1 No Warranty by Instaclustr
+9.1.1 To the maximum extent permitted by Law Instaclustr does not give any guarantee, indemnity or warranty nor make any representation, express or implied, in respect of the Services or the Deliverables supplied in connection with the Supply Contract.
+9.1.2 Without limiting clause 9.1.1 above, Instaclustr does not warrant that during the Term:
+(a) the Services:
+(i) will be of merchantable quality and comply with applicable Laws and standards;
+(ii) will be uninterrupted or completely secure;
+(iii) will be free from all defects or errors;
+(iv) will be fit for purposes other than those expressly set out in the Supply Contract;
+(v) will produce any particular results, data, sales or other return; or
+(vi) will be delivered in accordance with all applicable Laws and standards; and
+(b) the Deliverables:
+(i) will be of merchantable quality and comply with applicable laws and standards;
+(ii) will be free from all defects or errors;
+(iii) will be fit for purposes other than those expressly set out in the Supply Contract; or
+(iv) do not, and the use of any Deliverables will not, infringe any right of any third party (including Intellectual Property Rights).
+9.2 Customer Warranty
+9.2.1 The Customer warrants that:
+(a) if, and to the extent that, any consent, notification, permission, approval authorisation or licence of any kind (Consent) is required from a third party (including any employee, officer, contractor or service provider of the Customer) in respect of the performance of Services, the Customer has obtained that Consent;
+(b) it is not relying on any representation made by Instaclustr which has not been stated expressly in this Agreement, or on any descriptions or specifications contained in any other document, including any catalogues, web site or publicity material which Instaclustr has produced;
+(c) it has the legal right and power to enter into the Supply Contract; and
+(d) the Supply Contract and each document forming the Supply Contract is a valid and binding agreement on it and enforceable in accordance with its terms.
+9.2.2 The Customer indemnifies Instaclustr against (and must pay Instaclustr for) any costs, including legal costs, relating to its breach of this warranty.
+10. Indemnities
+10.1 General Indemnity
+The Customer indemnifies Instaclustr from and against any Losses, costs (including legal costs on a full indemnity basis), expenses, or liability that Instaclustr may incur, suffer or become liable for arising (directly or indirectly) from or in connection with:
+10.1.1 any negligent or unlawful acts or omissions of the Customer or its Personnel;
+10.1.2 any failure on the part of the Customer or its Personnel to comply with the Supply Contract; or
+10.1.3 any Customer data or content the Customer or its Personnel uploads to or stores in the Instaclustr Equipment.
+10.2 Customer Indemnity
+Subject to Instaclustr complying with clause 10.4, the Customer:
+10.2.1 is liable for, and indemnifies Instaclustr from any amount awarded in favour of a third party by the final judgment of a court of competent jurisdiction in a Claim by a third party that use of the Customer’s Pre-Existing Intellectual Property by Instaclustr, or the Customer’s use of the Services or the Instaclustr Intellectual Property in breach of the Supply Contract, infringes the Intellectual Property Rights of that party in a jurisdiction in which Instaclustr provides Services; and
+10.2.2 must defend Instaclustr against any Claim or allegation by a third party that the Customer’s Pre-Existing Intellectual Property or the Customer’s use of the Services or the Instaclustr Intellectual Property in breach of the Supply Contract infringes the Intellectual Property Rights of a third party in a jurisdiction in which Instaclustr provides Services.
+10.3 Instaclustr Indemnity
+10.3.1 Subject to clause 11 below and the Customer complying with clause 10.4, Instaclustr:
+(a) is liable for, and indemnifies the Customer from any amount awarded in favour of a third party by the final judgment of a court of competent jurisdiction in a Claim by a third party that use of the Instaclustr Intellectual Property by the Customer in accordance with the Supply Contract infringes the Intellectual Property Rights of that party in a jurisdiction in which Instaclustr provides Services; and
+(b) must defend the Customer against any claim or allegation by a third party that the use of the Instaclustr Intellectual Property by the Customer infringes the Intellectual Property Rights of a third party in a jurisdiction in which Instaclustr provides Services.
+10.3.2 Clause 10.3.1 does not apply if a claim results from:
+(a) modification made to the Instaclustr Intellectual Property by the Customer or at the Customer’s direction; or
+(b) the Customer using Instaclustr Intellectual Property other than as permitted by the Supply Contract.
+10.4 Conditions of Indemnity
+If a party (Indemnified Party) becomes aware of a third party Claim against it of the kind described in clause 10.2 or 10.3:
+10.4.1 notify the other party as soon as is practicable and provide the other party with all information available to the Indemnified Party;
+10.4.2 permit the Indemnified Party to conduct the defence or settle the Claim;
+10.4.3 takes all reasonable steps to mitigate loss or damage related to the Claim;
+10.4.4 provide any assistance reasonably requested by the Indemnified Party at the other party’s cost; and
+10.4.5 not make any statement or admission in relation to the Claim without the Indemnified Party’s prior consent.
+10.5 Sole Remedy
+10.5.1 If a court of competent jurisdiction finds that the Instaclustr Intellectual Property infringes the Intellectual Property Rights of a third party, or Instaclustr settles a Claim or allegation of such infringement on terms that impact Instaclustr’s rights to continue to licence the Instaclustr Intellectual Property to the Customer, then Instaclustr may, at its sole election:
+(a) modify the Instaclustr Intellectual Property so that it no longer infringes third party rights; or
+(b) terminate the Supply Contract by notice to the Customer, and refund Fees paid in advance by the Customer on a pro rata basis.
+10.5.2 The refund in clause 10.5.1(b) is the sole remedy available to the Customer in the event of termination under that clause.
+10.6 Continuing Obligation
+Each indemnity contained in the Supply Contract is a continuing obligation notwithstanding:
+10.6.1 any settlement of account; or
+10.6.2 the occurrence of any other thing,
+and it is not necessary for a party to incur expense or make payment before enforcing or making a claim under an indemnity.
+11. Liabilities and Exclusions
+11.1 . To the extent Instaclustr is legally permitted to limit the remedies available to the Customer under the Supply Contract, Instaclustr expressly limits its liability for breach of the Supply Contract (including clause 1.1) to the following remedies (at its election):
+11.1.1 the supply of the Services and Deliverables again; or
+11.1.2 payment of the cost of having the Services and Deliverables supplied again.
+11.2 . If clause 1 does not apply, then Instaclustr’s total aggregate liability (to the extent permitted by Law) for any Loss or damage arising under or in connection with the Supply Contract or the performance of the Services whether arising out of breach of contract, in tort (including negligence), under a statute or otherwise will be limited to an amount equal to the Fees actually received by Instaclustr from the Customer in the 3 months prior to the event giving rise to the liability occurring. Any Claim must be notified to Instaclustr within one year of it arising.
+11.3 . Instaclustr is not liable to the Customer for any Consequential Loss in connection with the Supply Contract.
+11.4 . To the extent permitted by Law, all warranties, terms and conditions which save for this clause would be implied by use, statute or otherwise are excluded.
+12. Open Source License
+In the event Instaclustr distributes or otherwise provides for Customer use any Open Source Software to Customer as part of the Services and/or Deliverables, then such Open Source Software is subject to the terms of the applicable open source licence. To the extent there is a conflict between the terms and conditions of the Supply Contract and the terms and conditions of the applicable open source licence, the terms and conditions of the open source licence shall prevail.
+13. Intellectual Property
+13.1 Open Source Contribution
+13.1.1 The parties acknowledge that:
+(a) the Services include the provision of support for Apache Software Foundation licensed technology and other open source technology; and
+(b) bug fixes, patches and features developed for open source technologies (Open Source Contribution), whether or not as a result of the Services, may be released by the developing party (Instaclustr or the Customer) to the Apache Software Foundation project or other relevant open source project at any time.
+13.1.2 The parties agree that, despite any other provision in the Supply Contract, neither the Customer nor Instaclustr has any right (including Intellectual Property Rights), title or interest in the Open Source Contribution.
+13.2 Pre-Existing Intellectual Property
+13.2.1 Each party will retain ownership of its Pre-Existing Intellectual Property.
+13.2.2 Customer grants to Instaclustr a non-exclusive, worldwide, irrevocable and royalty-free license to use the Customer’s Pre-Existing Intellectual Property required to provide the Services for the purposes described in the applicable SOW, or if no purpose is stated, the purpose for which the Customer’s Pre-Existing Intellectual Property would ordinarily be used.
+13.3 Instaclustr Intellectual Property
+13.3.1 Except as expressly provided in a SOW, all Intellectual Property Rights in the Instaclustr Intellectual Property will be owned by or vest in Instaclustr immediately upon creation.
+13.3.2 To the extent that any rights to or interest in the Instaclustr Intellectual Property do not vest in or assign to Instaclustr under clause 13.3.1, the Customer must do all things reasonably necessary and required by Instaclustr for the proper vesting or assignment of such rights, including executing all documents or assignments and providing all necessary information, records or materials to Instaclustr.
+13.3.3 Instaclustr grants to the Customer during the Term a non-exclusive, non-transferable, fully paid, worldwide, irrevocable licence to use the Instaclustr Intellectual Property for the purposes described in the applicable SOW, or if no purpose is stated, the purpose for which the Instaclustr Intellectual Property would ordinarily be used.
+13.3.4 The Customer warrants that it will not copy, distribute, reproduce or use any of the Instaclustr Intellectual Property except as expressly permitted under the Supply Contract.
+14. Data, Security and Privacy
+14.1 Customer Data
+14.1.1 The Customer:
+(a) retains ownership to the Customer Data, including all Intellectual Property Rights incorporated in the Customer Data;
+(b) is solely responsible for the collection, submission, usage and deletion of the Customer Data; and
+(c) grants to Instaclustr a worldwide, perpetual, irrevocable and royalty-free licence to use and reproduce the Customer Data in connection with the provision of Services.
+14.1.2 The Customer agrees that Instaclustr may monitor the Customer Data and if Instaclustr believes that the Customer Data may contain or allege to contain Prohibited Material, then Instaclustr may, without notice, liability or compensation to the Customer, remove any Customer Data.
+14.1.3 In addition to any other rights Instaclustr may have under the Supply Contract, Instaclustr may, without notice, liability or compensation to the Customer, amend, alter or take down any Customer Data if Instaclustr:
+(a) is required to do so by an order from a court or other competent body; or
+(b) is directed to do so by any government or regulatory body or authority, or industry association.
+14.2 Ownership of Service Data
+The parties acknowledge and agree that Instaclustr owns the Service Data, including all Intellectual Property Rights incorporated in the Service Data. These ownership rights vest in Instaclustr upon creation of the Service Data. To the extent necessary to give effect to this clause 14.2, the Customer assigns to Instaclustr all of its rights (including Intellectual Property Rights), title and interest in the Service Data.
+14.3 Feedback Data
+14.3.1 The Customer acknowledges and agrees that:
+(a) it may provide Instaclustr with Feedback Data; and
+(b) by submitting any Feedback Data to Instaclustr, the Customer assigns to Instaclustr all right (including Intellectual Property Rights), title and interest in and to:
+(i) the Feedback Data; and
+(ii) any and all Enhancements that may result from the Feedback Data.
+14.3.2 Instaclustr acknowledges and agrees that:
+(a) the Customer provides Feedback Data on an as is, where is basis, and the Customer disclaims all representations and warranties; and
+(b) it uses Feedback Data at its own risk.
+14.4 Security
+Instaclustr will use reasonable endeavours to ensure the Services are free from external intruders, virus or worm attack, denial of service attack or unauthorised access, provided that the Customer must comply with the Security Policy at all times during the Term. Where Services are within the scope of Instaclustr security accreditations, Services will be subject to annual external audit for compliance in accordance with the best practice standards as adopted by Instaclustr and detailed in our Security Policy.
+14.5 Handling of Information
+14.5.1 The Customer agrees that Instaclustr may collect, hold, use and disclose personal information and other data provided to it by the Customer for the purposes of delivering the Services and related purposes.
+14.5.2 The Customer acknowledges and agrees that it has provided all necessary notifications for, and obtained all necessary consents to, the collection, holding, use and disclosure of any personal information by Instaclustr as contemplated by the Supply Contract.
+14.5.3 Both parties agree to comply with all applicable requirements of the Privacy Law when performing the Supply Contract.
+15. Confidentiality
+15.1 Disclosure of Confidential Information
+No Confidential Information of a party (Disclosing Party) may be used or disclosed by the party receiving the Confidential Information (Receiving Party) to any person except:
+15.1.1 to Representatives of the Receiving Party requiring the information for the purposes of the Supply Contract;
+15.1.2 with the written consent of the Disclosing Party;
+15.1.3 if the Receiving Party is required to do so by Law; or
+15.1.4 for the purposes of obtaining legal or professional advice or in connection with legal proceedings.
+15.2 Excluded Information
+Clause 15.1 does not apply to information which:
+15.2.1 is in or becomes part of the public domain otherwise than through breach of the Supply Contract or an obligation of confidence owed to the Disclosing Party or any Related Entity of the Disclosing Party; or
+15.2.2 was already known to it at the time of disclosure by the Disclosing Party, by any of its Related Entity, or by any of their Representatives (unless such knowledge arose from disclosure of information in breach of an obligation of confidentiality); or
+15.2.3 the Receiving Party acquires from a source other than the Disclosing Party, any of its Related Entity, or any of their Representatives, where such source is entitled to disclose it.
+15.3 Preservation of Confidential Information
+Each party must take all measures that are reasonably necessary to prevent the disclosure or misuse of Confidential Information, including:
+15.3.1 complying with all security measures established to safeguard Confidential Information from unauthorised access or use; and
+15.3.2 keeping Confidential Information under the party’s control.
+15.4 Return or Destruction of Confidential Information
+A party must immediately on termination of the Supply Contract or on the other party’s written request at any other time:
+15.4.1 return to the other party Confidential Information provided to or obtained or accessed by the party under the Supply Contract; or
+15.4.2 destroy Confidential Information so that it is incapable of being revived; and
+15.4.3 provide a statutory declaration to the other party that all Confidential Information has been returned or destroyed in accordance with this clause.
+16. Subcontracting
+Instaclustr may subcontract with third parties to undertake any part of the provision of the Services or Deliverables. Instaclustr will remain responsible for all acts and omissions of its subcontractors in relation to the Supply Contract.
+17. Termination
+17.1 Termination for Material Breach
+If a party materially breaches the Supply Contract, then the other party may, without prejudice to all other remedies and rights under the Supply Contract, in law and in equity, terminate the Supply Contract and/or any Statement(s) of Work, in whole or in part, if the breaching party fails to cure any such material breach within 14 days after receipt of notice of such breach.
+17.2 Termination for Convenience
+17.2.1 Subject to the applicable Statement of Work, the Customer may terminate the Supply Contract and/or any Statement(s) of Work, in whole or in part, at any time without cause by the provision of 30 days written notice to Instaclustr.
+17.2.2 In the event the Customer exercises the foregoing right of termination for convenience, the Customer shall remain obligated for all Fees outstanding as of the date of termination, and any other charges (including the Cancellation Fees) as specified in the relevant SOW.
+17.3 Termination for Cause
+17.3.1 Either party may terminate the Supply Contract and any SOW immediately by giving written notice to the other party if:
+(a) the other party breaches any of its warranties under the Supply Contract; or
+(b) the other party suffers an Insolvency Event.
+17.3.2 Instaclustr may terminate the Supply Contract and any SOW immediately by giving written notice to the Customer if the Services have been suspended under clause 8.3.3, 8.5.2 or 17.4.1 for14 days or more.
+17.4 Suspension
+17.4.1 Without limiting any other right Instaclustr has under the Supply Contract, Instaclustr may suspend the provision of the Services under the Supply Contract and any SOW with immediate effect at any time without notice if:
+(a) there is an attack on the Customer’s Equipment or the Customer’s Equipment is accessed or manipulated by a third party without the Customer’s consent;
+(b) there is an event for which Instaclustr reasonably believes that the suspension of the Customer’s account or Service is necessary to protect Instaclustr’s network or Instaclustr’s other customers; or
+(c) the Customer (including its Personnel) is in breach of the Supply Contract, including in breach of clause 6.2.
+17.4.2 Instaclustr may suspend the Services or deny the Customer’s access to the Service without notice during any technical failure, modification or maintenance in respect of the Services. Instaclustr will use reasonable endeavours to procure the resumption of the Services as soon as reasonably practicable. The Customer agrees that:
+(a) Instaclustr’s liability in respect of the circumstance descried in this clause 17.4.2 will be limited to that specified in the Service Level Agreement; and
+(b) the Customer will remain liable for all Fees due throughout the period of suspension.
+17.5 Consequences of Termination or Expiry
+17.5.1 Termination of the Supply Contract or a Statement of Work is without prejudice to any rights which may have acquired to either party before termination.
+17.5.2 Upon termination or expiry of the Supply Contract, the Customer must:
+(a) immediately cease to use and/or access the Services, Instaclustr Equipment and Instaclustr Intellectual Property; and
+(b) pay to Instaclustr all amounts owing, including any applicable Cancellation Fees.
+17.5.3 The Customer will not be entitled to a refund of any amount paid in advance unless the Supply contract has been terminated due to Instaclustr’s breach of the Supply Contract.
+18. Force Majeure
+18.1 If a party is substantially unable to perform its obligations (other than an obligation to pay money) under the Supply Contract because of a Force Majeure Event, the affected obligations are suspended for period that is required to overcome the effect of the Force Majeure Event.
+18.2 If a party is substantially prevented from performing its obligations by a Force Majeure Event for 30 consecutive days or more, then either party may terminate the Supply Contract immediately by giving written notice to the other party.
+19. Disputes
+19.1 Negotiation
+19.1.1 If a party has a dispute or complaint against the other, that party (Notifying Party) must give notice to the other party setting out brief details of the dispute (Dispute Notice). Within 10 days of receiving the Dispute Notice the receiving parties must respond to the Notifying Party in writing, setting out brief details of the receiving party’s position on the dispute.
+19.1.2 Senior representatives of each party will enter into good faith discussions with the objective of settling the dispute.
+19.2 Arbitration
+If the senior representatives do not resolve the dispute within 30 days, the dispute must be submitted to arbitration in accordance with the arbitration process as provided in Schedule 1.
+19.3 Exceptions
+Nothing in this clause prevents either party from seeking urgent interlocutory relief.
+19.4 Continuing Obligations
+The parties agree to continue to perform their obligations under the Supply Contract despite the existence of a dispute.
+20. Notices and Other Communications
+20.1 Delivery
+20.1.1 All notices, certificates, consents, approvals, waivers and other communications in connection with the Supply Contract must be:
+(a) left at the addresses for the parties set out in the Details;
+(b) sent by prepaid ordinary post (airmail if appropriate) to the addresses for the parties set out in the Details;
+(c) sent by email to the email address for the parties set out in the Details; or
+(d) given in any other way permitted by Law.
+20.1.2 If the intended recipient has notified a changed address or email address, then communications must be to that address or email address.
+20.2 When Effective
+Communications take effect from the time they are received or taken to be received under clause 20.3 (whichever happens first) unless a later time is specified.
+20.3 When Taken To Be Received
+Communications are taken to be received:
+20.3.1 if hand delivered at an address, upon delivery;
+20.3.2 if sent by post, six days after posting; or
+20.3.3 if sent by email, at the time the email containing the notice left the sender’s email system, unless the sender receives notification that the email containing the notice was not received by the recipient.
+20.4 Receipt Outside Business Hours
+Despite clauses 20.2 and 20.3, if communications are received or taken to be received after 5.00pm in the place of receipt or on a non-Business Day in the place of receipt, they are taken to be received at 9.00am on the next Business Day in the place of receipt and take effect from that time unless a later time is specified.
+21. Assignment
+21.1 Customer’s Assignment
+The Customer must not assign or otherwise transfer its rights or obligations under the Supply Contract or any Statements of Work without Instaclustr’s prior written consent, which consent must not be unreasonably withheld. Any request to assign or transfer must include details of the assignee or transferee.
+21.2 Instaclustr’s Assignment
+21.2.1 Instaclustr may assign or otherwise novate or transfer its rights and obligations under the Supply Contract to:
+(a) an Instaclustr Entity, including as part of a change in how Instaclustr provide Services or as part of a partial or full restructuring of Instaclustr’s business; and/or
+(b) another person as part of the sale, or restructuring, of all or part of Instaclustr business,
+(Proposed Assignee),
+and subject to clause 21.2.2 below, the Customer agrees that Instaclustr may transfer all necessary information (including personal information and credit card details) to the Proposed Assignee, and the Proposed Assignee may use that information for the purpose of continuing the provision of the Services to Customer.
+21.2.2 The Customer may terminate the Instaclustr exercises its right under clause 21.2.1, and Instaclustr will refund to the Customer any remaining unused credit on the Customer’s account.
+22. General
+22.1 Non-Solicitation
+During the Term in which Services are being provided, neither party will directly or indirectly recruit, solicit, or assist in the recruiting or soliciting for employment (including as a consultant) any technical or professional employees or contractors of the other party personally involved in the services within the preceding six months. This provision will not prohibit the placement of mass media advertisements, utilization of non-targeted third party recruiting efforts, or conduct of job fairs for the purpose of recruiting employees generally. This provision also will not prohibit the hiring of any person in the absence of solicitation in violation of this clause.
+22.2 Anti-Bribery
+The Customer agrees that it has not received or been offered any illegal or improper bribe, kickback, payment, gift, or thing of value from any Instaclustr employees or agents in connection with the Supply Contract. Reasonable gifts and entertainment provided in the ordinary course of business do not violate the above restriction. If the Customer is, or ought to be, aware of, any violation of the such restriction, the Customer must use its best endeavours to promptly notify Instaclustr at legal@instaclustr.com.
+22.3 Severability
+Any provision of the Supply Contract which is or becomes illegal, void or unenforceable will be ineffective to the extent only of such illegality, voidness or unenforceability and will not invalidate the remaining provisions.
+22.4 Representations
+Instaclustr and all persons signing this Agreement for Instaclustr, and the Customer and all persons signing this Agreement for the Customer, represent that this Agreement and the Supply Contract have been fully authorised and no further internal or third party approvals are required. Each party will be liable for breach of the Supply Contract by such party’s representatives.
+22.5 Waiver and Exercise of Rights
+22.5.1 A single or partial exercise or waiver of a right relating to this document does not prevent any other exercise of that right or the exercise of any other right.
+22.5.2 No party will be liable for any loss or expenses incurred by another party caused or contributed to by the waiver, exercise, attempted exercise, failure to exercise or delay in the exercise of a right.
+22.6 No Agency
+No agency, partnership, joint venture, or employment relationship is created as a result of the Supply Contract and the Customer does not have any authority of any kind to bind Instaclustr in any respect.
+22.7 No Merger
+The warranties, undertakings, agreements and continuing obligations in the Supply Contract do not merge on completion.
+22.8 Publicity
+22.8.1 The Customer agrees to participate in press announcements, case studies, trade shows, or other forms reasonably requested by Instaclustr.
+22.8.2 Instaclustr is permitted to use the Customer’s name and logos in sales and marketing materials, including social media and Instaclustr may disclose that the Customer is one of its customers to any third-party at its sole discretion.
+22.9 Survival
+All sections of this Agreement and the Supply Contract which by their nature should survive termination will survive termination, including restrictions, accrued rights to payment, confidentiality obligations, intellectual property rights, warranty disclaimers, and limitations of liability.
+22.10 Electronic Delivery
+The parties may sign and deliver the Supply Contract or any amendment as complete documents or in separate counterparts (which will constitute one agreement), and either party may deliver the same by email.
+22.11 Cost
+Each party will bear its own costs and disbursements of or incidental to the negotiation, preparation, execution, stamping and registration of this Agreement, and all other matters and agreements referred to in the supply Contract.
+22.12 Governing Law
+The Supply Contract is governed by, takes effect and will be construed in accordance with the laws of the Australian Capital Territory. The parties irrevocably and unconditionally submit themselves to the exclusive jurisdiction of the courts of the Australian Capital Territory.
+23. Definitions and Interpretation
+23.1 Definitions
+In this agreement:
+Agreement means this agreement together will all schedules and annexures.
+Apache Software Foundation is an American non-profit corporation (classified as a 501(c)(3) organization in the United States) established to support Apache software projects, including the Apache HTTP Server and other open source projects.
+Business Day means, unless specified otherwise in a SOW, a day other than a Saturday, Sunday or public holiday in Canberra, Australia.
+Cancellation Fees means, unless specified otherwise in a SOW, the cancellation fees as detailed in Instaclustr’s Cancellation Policy.
+Claim includes any allegations, debt, cause of action, liability, claim, proceeding, suit or demand of any nature howsoever arising.
+Cloud Provider means the selected cloud provider as detailed in the Statement of Work or Order.
+Confidential Information means all information disclosed to the Receiving Party by the Disclosing Party, or information disclosed by another party which the Disclosing Party is required to keep confidential, including:
+(a) information which, either orally or in writing, is designated or indicated as being the proprietary or confidential information of the Disclosing Party or any of its Related Entity or a third party to whom the Disclosing Party owes an obligation of confidentiality;
+(b) information derived or produced partly or wholly from the information including any calculation, conclusion, summary or modelling; and
+(c) information which is capable of protection at law or in equity as confidential information,
+whether the information was disclosed:
+(d) orally, in writing or in electronic or machine readable form;
+(e) before, on or after the date of this Agreement; or
+(f) by the Disclosing Party, by any of its Related Bodies Corporate, by any of their Representatives or by any other person.
+Control the direct or indirect power to direct or cause the direction of the management and policies of a company or other business entity, whether through ownership of fifty per cent (50%) or more of the voting interest, or the right to appoint a majority of the board of directors, by contract, or otherwise, and Controlled and Controlling each has a corresponding meaning.
+Consequential Loss means any Loss or damage which does not arise in the ordinary course of events from the breach, action or inaction in question, whether or not a party has been advised of or is aware of that Loss or damage, including any loss of revenue, profit, data, opportunity, business, goodwill or future reputation, any failure to realise anticipated savings, any business interruption, any downtime costs, any damage to credit rating.
+Consultant IP means any and all Intellectual Property Rights in any materials owned by Instaclustr or a third party and provided by or on behalf of Instaclustr to the Customer in connection with the provision of the Consulting Services under a Supply Contract.
+Consulting Services means the consulting services to be provided by Instaclustr to the Customer, as described in the relevant Statement of Work
+Customer Data means any data provided by the Customer in connection with the provision of Services under the Supply Contract, but does not include Service Data.
+Customer Equipment means any equipment, hardware. systems, infrastructure, platforms or servers belong to the Customer or to which the Customer has the right to use.
+Deliverable means a deliverable that Instaclustr is required to deliver or provide under and in accordance with a Supply Contract and that forms part of the Services.
+Details means the section at the beginning of this Agreement headed “Details”.
+Disclosing Party has the meaning given in clause 15.1.
+Effective Date means:
+(a) the date this Agreement is signed by the Parties; or
+(b) the Supply Commencement Date, if this Agreement is not signed.
+Enhancement means any modifications, bug fixes, new code, new or amended tools, know-how, processes, methodologies, specifications, designs, inventions, functionality, graphics, techniques, methods, applications, libraries, documentation or other technology and materials developed by or on behalf of Instaclustr that enhance the Services, Deliverables or the Instaclustr Equipment and ‘Enhance’ has a corresponding meaning.
+Entity means any of the following:
+(a) a natural person;
+(b) a body corporate;
+(c) a partnership; and
+(d) a trust (including the trustee of the trust).
+Expenses means any out-of-pocket costs incurred in the provision of the Services or Deliverables.
+Feedback Data means any data, bug reports, suggestions or other information provided by the Customer in relation to the Services, Deliverables or Instaclustr Equipment that may be used to Enhance the provision of Services.
+Fees mean all fees and charges payable by Customer to Instaclustr for the Services and Deliverables under the Supply Contract, as set out in a Statement of Work.
+Firmware means a set of coded instructions embedded within a device or component of a device that performs functions or provides data to enable the device to operate in a specified manner.
+Force Majeure Event means any event or circumstances that is outside the reasonable control of a party and includes acts of gods, sabotage, terrorism, war, invasion and any change in Law which means that the cost of providing Services becomes unviable for Instaclustr
+Initial Term means the greater of two (2) years or the period specified in a SOW.
+Insolvency Event means, in relation to a person, any of the following:
+(a) the person, being an individual, commits an act of bankruptcy;
+(b) the person becomes insolvent;
+(c) the person assigns any of its property for the benefit of creditors or any class of them;
+(d) a receiver, receiver and manager, administrator, controller, provisional liquidator or liquidator is appointed to the person or the person enters into a scheme of arrangement with its creditors or is wound up;
+(e) the holder of a security interest takes any step towards taking possession of or takes possession of any assets of the person or exercises any power of sale;
+(f) a judgment or order is made against the person in an amount exceeding $10,000 (or the equivalent in any other currency) and that judgment or order is not satisfied, quashed or stayed within 30 days after being made;
+(g) any step is taken to do anything listed in the above paragraphs; and
+(h) any event that is analogous or has a substantially similar effect to any of the events specified in this definition in any jurisdiction.
+Instaclustr Equipment means any equipment, hardware, systems, infrastructure, platforms or servers belong to Instaclustr or to which Instaclustr has the right to use.
+Instaclustr Entity means Instaclustr Pty Limited ACN 159 571 605 and any of its Related Entity.
+Instaclustr Intellectual Property means any and all Intellectual Property Rights in any materials (including Services, Instaclustr Software, Deliverables (including any Consultant IP that are used or embedded in the Deliverables), Enhancement, technology, techniques, system, know how or trade marks) owned by Instaclustr or a third party and provided by or on behalf of Instaclustr to the Customer under a Supply Contract, including as specified in a Statement of Work.
+Instaclustr Software means:
+(a) all Software used by Instaclustr as part of providing the Services, including as specified in an applicable SOW; and
+(a) all updates, new releases or new versions of the Instaclustr Software.
+Intellectual Property Rights means all and any patents, patent applications, trade marks, service marks, trade names, circuit layout rights, domain names, registered designs, unregistered design rights, copyrights, know how, trade secrets and rights in confidential information, URLs and all and any other intellectual property rights, whether registered or unregistered, and including all applications and rights to apply for any of the same.
+Item means an item as set out in the Details.
+Law means any law, statute, regulation, rule, ordinance, by-law, order or proclamation, and the common law.
+Loss means any loss, cost, expense, damage or liability (including any fine or penalty) whether direct or indirect, present or future, fixed or unascertained, actual or contingent and whether arising under contract (including any breach of the Supply Contract), in equity (including breach of an equitable duty, breach of confidentiality or breach of fiduciary duty), under statute (including breach of statutory duty to the maximum extent possible), in tort (including for negligence or negligent misrepresentation) or otherwise (including in restitution).
+Managed Platform Services means the managed platform services to be provided by Instaclustr to the Customer, as described in the relevant Statement of Work.
+Open Source Software means software for which the original source code is made freely available to the public under a designated open source licence which permits users to use, change, and improve the software, and to redistribute it in modified or unmodified form.
+Order means an in-ticket agreement, a click accept agreement, or variation to a Statement of Work, submitted via the Instaclustr console or a customer support channel.
+Personnel means the employee, agents, contractors and subcontractors of a party (except that Instaclustr and its Personnel will not be Personnel of the Customer).
+Pre-existing Intellectual Property means any and all Intellectual Property Rights in materials created before the Supply Commencement Date under the relevant Statement of Work or created independently of a Statement of Work.
+Privacy Law means any legislation or other regulatory instrument, whether Australian or otherwise, which affects privacy or personal information (including the collection, storage, use or possession of such information), and includes:
+(a) the Privacy Act 1988 (Cth);
+(b) the European Union General Data Protection Regulation (commonly referred to as the ‘GDPR’);
+(c) any legislation from time to time in force in any:
+Australian jurisdiction (which includes the Commonwealth of Australia and any State or Territory of Australia); and non-Australian jurisdiction (to the extent that Instaclustr is subject to the laws of that jurisdiction),
+
+affecting privacy, personal information or the collection, handling, storage, processing, use or disclosure of data; and
+(d) any ancillary rules, guidelines, orders, directions, directives, codes of conduct or other instruments made or issued under the above, as amended from time to time.
+Prohibited Material means any material that:
+(a) is or may be violent, pornographic, defamatory, offensive, obscene, illegal or unlawful; or
+(b) intentionally infringes any third party’s Intellectual Property Rights.
+Receiving Party has the meaning given in clause 15.1.
+Related Entity means, in relation to an Entity (First Entity):
+(a) an Entity which is Controlled by the First Entity;
+(b) an Entity which Controls the First Entity; and
+(c) an Entity which is Controlled by the same Entity that Controls the First Entity.
+Representatives means the Customer’s Representative and Instaclustr’s Representative specified in a SOW, or such other person notified from one party to the other party in writing.
+Security Policy means any security policies Instaclustr provides to or otherwise makes available to the Customer from time to time in respect of the Services.
+Service Data means any data, other than Customer Data, generated, produced or collected in connection with the provision of Services and includes data in respect of aggregate response rate and other aggregate measures of performance of the Services and Feedback Data.
+Services means one or more of the following services which Instaclustr is required to deliver under a Supply Contract:
+(a) the Managed Platform Services;
+(b) the Support Services; and
+(c) the Consulting Services.
+Services Levels means the service levels set out in the relevant Statement of Work.
+Software means a set of coded instructions that performs functions or provides working data or parameters to enable a device or system to operate in a specified manner, and be loaded into a system or device dynamically by a user and includes all Firmware and operating systems required by a system or subsystem to perform in a specified manner.
+Special Conditions means any special conditions set out in an applicable Statement of Work.
+Statement of Work (or SOW) means:
+(a) a written document detailing the Services and/or Deliverables to be provided by Instaclustr under a Supply Contractor and which has been executed by the Parties;
+(b) an Order received by Instaclustr; or
+(a) a statement of work or Order that the parties have agreed will form a Statement of Work under a Supply Contract.
+Supply Commencement Date means:
+(a) the date a Statement of Work commences, as specified in the applicable Statement of Work; or
+(b) the date the Customer instructs Instaclustr to commence the provision of the Services, if the applicable Statement of Work does not specify the date the Statement of Work commences.
+Supply Contract has the meaning given in clause 1.1 of this Agreement.
+Support Services means the supporting services to be provided by Instaclustr to the Customer, as described in the relevant Statement of Work
+Term means the Initial Term plus any continuation or extension of the Term in accordance with clause 2.
+23.2 Interpretation
+In this Agreement:
+1.1.1 . headings are for convenience only and will not affect its interpretation; and
+1.1.2 . unless the context otherwise requires:
+a. “person” includes an individual, the estate of an individual, a corporation, an authority, an association or a joint venture (whether incorporated or unincorporated), a partnership, a trust and government authorities;
+b. a reference to a party includes that party’s executors, administrators, successors, permitted substitutes and assigns, including persons taking by way of novation;
+c. a reference to a document (including this Agreement) is to that document as varied, novated, ratified or replaced from time to time;
+d. a reference to a statute includes its delegated legislation and a reference to a statute or delegated legislation or a provision of either includes consolidations, amendments, re-enactments and replacements;
+e. words importing the singular will include the plural (and vice versa) and words denoting a given gender will include all other genders;
+f. a reference to a clause or schedule is a reference to a clause of or schedule to this Agreement, and references to paragraphs are references to paragraphs within the clause of this Agreement in which they are situated, in each case unless expressly stated otherwise;
+g. a reference to a “day” is a reference to a calendar day (and includes weekends and public holidays);
+h. where any word or phrase is given a defined meaning any other part of speech or other grammatical form in respect of such word or phrase has a corresponding meaning;
+i. the word “including” or any other grammatical form of that word is not a word of limitation; and
+j. a reference to “$” or “dollar” is to US currency.
+Schedule 1 Jurisdiction specific arbitration process
+Australia
+The arbitration process will be conducted in accordance with the Australian Centre for International Commercial Arbitration (ACICA) Arbitration Rules.
+Japan
+The arbitration process will be conducted in accordance with the Singapore International Arbitration (SIAC) Rules.
+Brazil
+The arbitration process will be conducted in accordance with the Australian Centre for International Commercial Arbitration (ACICA) Arbitration Rules.
+New Zealand
+The arbitration process will be conducted in accordance with the Australian Centre for International Commercial Arbitration (ACICA) Arbitration Rules.
+Singapore
+The arbitration process will be conducted in accordance with the Singapore International Arbitration (SIAC) Rules.
+Canada
+The arbitration process will be conducted in accordance with the AAA Commercial Arbitration Rules and Mediation Procedures.
+United States
+The arbitration process will be conducted in accordance with the AAA Commercial Arbitration Rules and Mediation Procedures.
+European Union
+The arbitration process will be conducted in accordance with the International Chamber of Commerce (ICC) Arbitration Rules.
+Schedule 2. Supplemental Subscription Terms
+1. General
+1.1 Where Instaclustr is engaged under a Statement of Work or Order to provide any subscription service, these supplemental clauses [1.1 – 1.3 inclusive] apply.
+1.2 Customer is solely responsible for dealing with persons who access Customer’s data and Customer will not refer complaints or inquiries in relation to such access to Instaclustr. Instaclustr is not responsible to Customer or any third party for unauthorised access to Customer’s data or the unauthorised use of the services. Customer is responsible for the use of the services by any employee of Customer’s, any person Customer authorises to use the services, any person to whom Customer have given access to the services, and any person who gains access to Customer’s data or the services as a result of Customer’s failure to use reasonable security precautions, even if such use was not authorised by Customer.
+1.3 . If required, Customer will register and create an account for accessing the Services.
+2. Managed Platform
+2.1 Provision of services
+Where Instaclustr is engaged under a Statement of Work or Order to provide Managed Services, these supplemental clauses [2.1 – 2.5 inclusive] apply.
+2.2 S ervice Levels and Credits
+(a) Service Level Agreement
+Unless otherwise specified in the applicable SOW or Order, Service Levels are set out in Instaclustr’s Service Level Agreement policy, available at https://www.instaclustr.com/company/policies/.
+(b) Service Credits
+Unless otherwise specified in the applicable SOW or Order, fees may be adjusted by the application of service credits for breach of the Service Level Agreement for the services in accordance with the Service Level Agreement policy.
+2.3 Archiving and Backup of Customer’s Data
+Instaclustr will archive Customer’s data on a regular basis for the purposes of disaster recovery. While Instaclustr will use its best endeavours to maintain an up to date back-up of Customer’s data, Instaclustr does not guarantee that Instaclustr will hold the latest version at the time of equipment failure or data corruption. In the event of equipment failure or data corruption, Instaclustr will restore from the last known good archive of Customer’s data that it holds.
+2.4 Customer’s Responsibilities
+Upon termination of Customer’s service, Customer must directly shut down their account running in Instaclustr’s managed platform or provide notice to Instaclustr’s support team to commence this process.
+2.5 Third Party Software
+If, in the course of receiving our services, you obtain a third party’s software and provide that software to us to be used in connection with our services to you, without limiting any of your other obligations to us, you are responsible for ensuring that we are provided sufficient permissions to be able to host and maintain that third party software. You agree to indemnify us against any claim by a third party in connection with any alleged breach of the third party’s licence conditions for the use of that third-party software.
+3. Retainer Support Subscriptions
+3.1 Provision of services
+Where Instaclustr is engaged under a Statement of Work or Order to provide Support Services on a retainer basis, these supplemental clauses [3.1-3.2] apply.
+3.2 Support tiers
+If the Customer’s number of supported nodes increases during the Service Term to the next Support Tier, then the Customer’s Service will move the next tier and the Customer will be charged the applicable increased rates and receive the additional retainer inclusions at that tier.
+The Support Tiers are as follows:
+(i) Basic: <20 production nodes;
+(ii) Premier: 20-49 production nodes; and
+(iii) Enterprise: 50+ production nodes.
+https://www.instaclustr.com/company/policies/terms-conditions/

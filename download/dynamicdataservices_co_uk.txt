@@ -1,0 +1,54 @@
+Please find below our Terms and Conditions
+1. DEFINITIONS
+“The Company” means Dynamic Data Services Limited (registered in England and Wales under Number 10820020)
+“The Customer” means any person or persons who requests the Company, either verbally or in writing, to provide services.
+“The Services” means the services or goods set out in the Quotation/Order Confirmation or Contract or those which have been agreed and accepted between the Company and the Customer.
+“The Contract” means the contract between the company and the customer to provide the services to which these terms and conditions apply.
+“Writing” includes telex, cable, facsimile transmission, e-mail and comparable means of communication.
+2. QUOTATIONS, CREATION OF, AND TERMS OF CONTRACT
+All orders are subject to the terms and conditions current at time of order.
+All quotations made by the company to the customer will be deemed to be subject to these terms and conditions of trading.
+No variation to these terms and conditions shall be binding unless agreed in writing between the authorised representatives of the Customer and the Company.
+The Company reserves the right to refuse any order or contract without prior notice.
+All quotations are subject to VAT at the prevailing rate on the date of invoicing.
+A contract on these terms shall be created between the company and the customer upon receipt of the signed quotation/order confirmation by the company from the customer by a means acceptable to the company or a request from the customer to the company, by any acceptable means, to begin processing.
+It shall be taken that by sending their data to the company the customer is accepting in full the company’s terms and conditions of trading.
+Settlement shall be due within thirty days of the date of the invoice . Late payment will be subject to the penalties and interest as laid down in the ‘Late payment of Commercial Debts Regulations 2013’
+3. THE COMPANY’S OBLIGATIONS
+In consideration of the customer paying sums due to the company under the contract, the company will:
+Perform the service(s) specified in the contract on the input provided.
+Send the output and carry out the customer’s instructions regarding input received.
+Archive the output for a period of 90 days, commencing from the date of dispatch of the output to the customer, or any other period which has been agreed in writing between the parties. Customer data will be backed up during normal backup procedures.
+4. THE CUSTOMER’S OBLIGATIONS
+The customer shall provide the company with input data in a format and by a means acceptable to the company. If the customer fails to do this the company may, at its own discretion, correct the data at its own expense or (subject to prior notification to the customer) at the customer’s expense.
+The customer shall clearly define any instruction with regard to the processing of the input.
+5. COPYRIGHT, DATA PROTECTION AND CONFIDENTIALITY
+The use of data supplied by the company and its suppliers are subject to various restrictions, including but not restricted to:
+The Customer must not use the data for any unlawful purpose or any purpose likely to bring the company or its suppliers into disrepute.
+The customer agrees to abide by the Telephone Preference Service scheme which enables businesses to comply with the Data Protection (direct marketing) Telecommunications regulation or any such regulations which may replace them.
+Storage of the data by the customer must comply with the Data Protection Act.
+All marketing or telemarketing data supplied to the customer is supplied on a single use basis unless otherwise agreed in writing.
+The customer must not disclose copy or distribute to any third party any portion of the data supplied by the company and will only use the data for their own internal purposes.
+Each party will keep confidential all information or lists belonging to the other party and will not disclose it to any third party unless instructed to do so in writing by the other party.
+6. LIABILITY
+The company will carry out the services with reasonable skill and care.
+The company’s liability to the customer for any breach of this contract, negligence, misrepresentation or otherwise shall be limited to the price payable by the customer under this contract. In no circumstances shall the company be responsible for any consequential loss, however incurred, including without limitation loss of profit, business or anticipated saving.
+For any changes, agreed by the customer, outside of the signed specification, the company reserves the right to change any agreed schedules and charges agreed under the contract.
+Whilst every effort is made to ensure the accuracy of the data, the company cannot, in any circumstances, accept liability for any loss, inconvenience or damage (including loss of profits) occasioned by any error in the data, including such errors caused where customer’s data is found to contain foreign addresses which have not been clearly marked.
+Where there are any inaccuracies, omissions, errors or defects arising from data, equipment or software supplied by a third party (e.g. Royal Mail NCOA or USS or PAF, MortaScreen, Read GAS or Bereavement Register etc), under no circumstances shall the liability of the Company exceed the actual price of the Goods.
+Any claim by the customer based on any defect in the quality of the services or their failure to correspond with specification shall (whether or not delivery is refused by the customer) be notified to the company within seven days from the date of delivery or (where the defect or failure was not apparent on reasonable inspection) within a reasonable time after discovery of the defect or failure. If delivery is not refused, and the customer does not notify the Company accordingly, the customer shall not be entitled to reject the services and the Company shall have no liability for any defect or failure, and the customer shall be bound to pay the price as if the services had been delivered in accordance with the Contract.
+Save as herein provided or warranted all conditions, whether implied by statute or otherwise are excluded from the contract, provided that nothing shall restrict or exclude liability for death or personal injury caused by the negligence of the Company or affect the statutory rights of a customer dealing as consumer.
+7. CARRIAGE, DELIVERY AND INSURANCE
+The customer is responsible for the delivery of the input to, and for the collection of the output from, the company’s premises. Transport arranged by the company on the customer’s behalf should be at the customer’s risk. Proof of sending does not constitute proof of receipt.
+Unless otherwise agreed, while in the possession of the company, all input and output materials shall be deemed to be held at the customer’s own risk. The customer should arrange insurance cover accordingly.
+In the absence of a written agreement to the contrary, any delivery date quoted is an estimate only. All timescales quoted shall commence on completion of receipt of data and complete once output data commences transmission. The company shall not be liable for any loss resulting from delay in delivery however caused.
+Without prejudice to these terms and conditions of trading, the company will accept no liability for failing to meet delivery dates quoted, where the input has not been delivered to the company in sufficient time or does not conform to the requirements of the contract or if the company is prevented from processing the input by circumstances beyond its reasonable control including but not restricted to, restrictions on the supply of energy, national emergencies, strikes, lockouts, trade disputes, fires, machinery or equipment breakdowns or staff shortages.
+8. GENERAL CONTRACT TERMS AND TERMINATION
+No variance of these terms and conditions of trading shall be binding on the company unless in writing and signed by the customer and a director of the company.
+Any service provided by the company to the customer in excess of that specified in the quotation shall be subject to an additional charge and will be performed as soon as reasonably practical.
+In the event of any breach of the terms of this contract by either party which, if a breach is capable of rectification, is not rectified for a period of 30 days after written notification, then the injured party may (without prejudice to any other remedy or right of action it may have) forthwith terminate the contract by written notice to the guilty party.
+In the event of either party being wound up, or have a receiver or administrator appointed over any of its assets who remains in possession of those assets for more than 14 days, the other party may (without prejudice to any other remedy or right of action it may have) forthwith terminate the contract by written notice to the other party.
+If any provision of these conditions is held by any competent authority to be invalid or unenforceable in whole or in part the validity of the other provisions of these conditions and the remainder of the provisions in question shall not be affected thereby.
+Any dispute arising under or in connection with these conditions, or the sale of the services, shall be referred to arbitration by a single arbitrator appointed by agreement.
+All aspects of this contract shall be governed by English law.
+https://www.dynamicdataservices.co.uk/terms-and-conditions/

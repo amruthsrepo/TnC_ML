@@ -1,0 +1,40 @@
+On April 27, 2020, the Health Resources and Services Administration (HRSA), a component of the U.S. Department of Health and Human Services (HHS), announced guidance for health care providers regarding HRSA COVID-19 Claims Reimbursement to Health Care Providers and Facilities for Testing and Treatment of the Uninsured Program (Uninsured Testing and Treatment Program). The Uninsured Testing and Treatment Program is authorized via:
+The Families First Coronavirus Response Act (FFCRA) and the Paycheck Protection Program and Health Care Enhancement Act (PPPHCE), both of which appropriated $1 billion to reimburse providers for conducting COVID-19 testing for the uninsured; and
+The Coronavirus Aid, Relief and Economic Security (CARES) Act, which made $100 billion in funds available to hospitals and other health care providers for health care-related expenses or lost revenues attributable to COVID-19 through the Public Health and Social Services Emergency Relief Fund (Provider Relief Fund). HHS has announced that it will allocate an unspecified amount of money from the Provider Relief Fund for testing and treatment of uninsured COVID-19 patients.
+Under the Uninsured Testing and Treatment Program, eligible health care providers can apply for reimbursement of costs related to testing or treatment of uninsured individuals with a COVID-19 diagnosis on or after February 4, 2020. According to HHS, reimbursement will generally be equivalent to Medicare rates. Reimbursements under this program are claims reimbursements submitted for individuals in the United States without health insurance, not loans to health care providers, and will not need to be repaid, provided applicable terms and conditions are met. Payments received from the program should be treated in the same manner as are reimbursements received from commercial insurance, Medicaid and Medicare, including the manner in which revenues or losses are determined. All reimbursements are subject to available funding.
+Timeline
+April 27, 2020: Providers can begin signing up for the Uninsured Testing and Treatment Program via the COVID-19 Uninsured Program Portal.
+April 29, 2020: HRSA and its contractor will provide technical assistance, and on-demand training will start.
+May 6, 2020: Providers can begin submitting claims.
+May 18, 2020: Providers will begin to receive electronic reimbursement (generally within 7-10 days of claim processing and approval).
+More detailed reimbursement information is available from HRSA.
+Process
+Beginning April 27, 2020, eligible providers can begin to sign up for the Uninsured Testing and Treatment Program via the COVID-19 Uninsured Program Portal. Providers should begin the registration and verification process on the COVID-19 Uninsured Program Portal, as this process can take some time. These steps include:
+Registering an account with the HHS payment provider (can take 7-10 days)
+Verification of provider roster (can take 5-7 days)
+Validating your organization’s taxpayer identification number (1-2 days)
+Starting May 6, 2020, enrolled health care providers can electronically submit reimbursement claims using an 837 EDI transaction set outside of COVID-19 Uninsured Program Portal. Enrolled providers will need to provide the following information:
+Payer ID: 95964
+Payer name: COVID19 HRSA Uninsured Testing and Treatment Fund
+Temporary member ID for each patient
+Interim bills, corrected claims, late charges, voided claim transactions and appeals will not be accepted.
+Services Eligible for Reimbursement
+Qualifying health care providers can submit claims information for COVID-19 testing and treatment of uninsured individuals with a primary COVID-19 diagnosis. HRSA released detailed coverage and coding guidelines. Claims will be subject to Medicare timely filing requirements. All claims submitted must be complete and final. The following items are subject to reimbursement:
+Specimen collection, diagnostic and antibody testing.
+Testing-related visits in the following settings: office, urgent care or emergency room, or telehealth.
+The following treatments: office visits (including telehealth); emergency room; inpatient; outpatient/observation; skilled nursing facility; long-term acute care; acute inpatient rehabilitation; home health; DME (e.g., oxygen, ventilator); emergency ambulance transportation, nonemergency patient transfers via ambulance, and FDA-approved drugs as they become available for COVID-19 treatment and administered as part of an inpatient stay.
+FDA-approved vaccines will also be reimbursable once they are available.
+Services not covered by traditional Medicare will not be covered under this program. In addition, the following services are excluded:
+Any treatment without a COVID-19 primary diagnosis, except for pregnancy, when the COVID-19 code may be listed as secondary.
+Hospice services.
+Outpatient prescription drugs.
+Providers will be generally reimbursed at Medicare rates (including any amounts that would have been due to the provider as patient cost sharing). If there is no Medicare standard rate, a calculated average rate will be used.
+Terms and Conditions
+Providers who receive a payment must accept the terms and conditions for testing and treatment and make certain attestations. HHS created two sets of terms and conditions for providers who submit claims for payment. The FFCRA Relief Fund Payment Terms and Conditions are applicable to providers conducting COVID-19 testing for uninsured individuals, whereas the Uninsured Relief Fund Payment Terms and Conditions are applicable to providers treating uninsured patients with a diagnosis of COVID-19. Both of these terms and conditions are similar to the terms and conditions that apply to other previous allocations HHS made from the Provider Relief Fund. As of the publication date, the HHS attestation portal that providers are expected to use refers only to the initial $30 billion tranche of funds that HHS allocated from the Provider Relief Fund. We anticipate that HHS will clarify the attestation process in the coming days.
+Providers that participate in the Uninsured Testing and Treatment Program must be in good standing with Medicare, and must certify that:
+They have checked for health care coverage eligibility and have confirmed that the patient is uninsured.
+They have verified that the patient does not have coverage, such as individual, employer-sponsored, or Medicare or Medicaid coverage, and no other payer will reimburse COVID-19 testing and/or care for that patient.
+They will not engage in “balance billing” or charge any type of cost sharing in connection with any reimbursable expenses.
+Providers must also provide consent for the Department of Health and Human Services to publicly disclose the payment that the provider may receive and must agree that all claims they submit will be full and complete (i.e., no interim bills or corrected claims). There will be no adjustments to payments once claims reimbursements are made. Providers should also cancel outstanding bills and refund payments received for COVID-19-related care or treatment of uninsured patients if the provider (1) issued the bill or received payment prior to signing these terms and conditions, and (2) has since been reimbursed for such care. Additionally, providers must agree to comply with any program audit.
+The Uninsured Testing and Treatment Program has reporting requirements similar to other Provider Relief programs, as we discussed here.
+https://www.faegredrinker.com/en/insights/publications/2020/5/hhs-issues-guidance-on-covid-19-uninsured-reimbursements

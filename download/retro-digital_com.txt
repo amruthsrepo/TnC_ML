@@ -1,0 +1,65 @@
+1. Definitions:
+1.1. The following terms have the following meanings:
+Agreement: Contract outlining the Scope of Service and Fee
+Client: the person identified as the client in the Agreement
+Contract: the agreement for services entered into between the Client and Retro Digital comprising the Agreement and these Terms and Conditions of Use.
+Fee: the fees set out in the Agreement or as amended from time to time pursuant to the provisions of clause 2.1.
+Initial Term: the period of time for which Retro Digital provides the Service to the Client as specified in the Agreement.
+Scope of Service: the services to be provided to the Client by Retro Digital as specified in the Agreement, which may be amended from time to time.
+VAT: value added tax chargeable under Irish law for the time being and any similar additional tax.
+Retro Digital: Retro Digital Limited, 68 St. Patricks Park, Stepaside, Co. Dublin Company Number 613551
+2. Fees
+2.1. All Fees agreed in the Agreement are final. Retro Digital may change the Fees if extra services are added, or if more than 1 hours worth of edits is required. Should the scope of services exceed Retro Digital’s fair use policy, Retro Digital reserve the right to increase prices accordingly.
+2.2. All Fees quoted for Service by Retro Digital are valid for one month only from the date of the quote having been given to the Client.
+2.3. Should extra services be ordered on a bank holiday or after standard office hours (Monday – Friday 09:00 – 17:00), a 25% surcharge will be added.
+2.4. Retro Digital shall issue invoices monthly at the end of the month in which Services were completed, in respect of the provision of the Services unless otherwise agreed. The Client shall pay each invoice submitted to it by Retro Digital in full, and in cleared funds, within 14 days of receipt, unless agreed otherwise.
+2.5. All fees are non-refundable unless gross misconduct has been carried out on the part of Retro Digital. Should the Client wish to cancel the Service provided under the Agreement at any time during the Period, no part of the Fee is refundable to the Client.
+2.6. If any part of a Fee has not been received within the credit period stated on the contract, then Retro Digital may (without prejudice to any other remedies) suspend the Service until such time as full payment is received. Retro Digital is not obliged to extend the term of the Agreement for the time the Services were suspended.
+2.7. If Retro Digital does not receive any payment of Fees in full by the due date, Retro Digital shall be entitled (without prejudice to any other remedies) to charge interest on all sums outstanding after the due date on a daily basis at the rate of 10 euros per day.
+2.8. The Client shall be liable for any legal or other costs incurred by Retro Digital in pursuing any outstanding Fees or interest on late payment of Fees of the Client.
+3. Term
+3.1. The Agreement shall continue for the Initial Term and, after the end of the Initial Term, until such time as it is terminated by one or other of the parties in accordance with the provision of clause 8.
+4. Client’s obligations
+4.1. The Client shall:
+4.1.1. co-operate with Retro Digital in all matters relating to the Services;
+4.1.2. provide in a timely manner such access to the Client’s website and data, as is requested by Retro Digital; and
+4.1.3. provide in a timely manner such information as Retro Digital may request, and ensure that such information is accurate in all material respects
+4.1.4. Retro Digital will not be held responsible for any delays which were caused due to a delay in receiving requested information from the Client.
+5. Confidentiality and Supplier’s property
+5.1. The Client shall keep in strict confidence all technical or commercial know-how, specifications, inventions, processes or initiatives which are of a confidential nature and have been disclosed to the Client by Retro Digital, and any other confidential information concerning Retro Digital’s business or its products which the Client may obtain. The Client shall restrict disclosure of such confidential material to such of its employees, agents or sub-contractors as need to know it for the purpose of discharging the Client’s obligations to Retro Digital, and shall ensure that such employees, agents or sub-contractors are subject to obligations of confidentiality corresponding to those which bind the Client.
+5.2. Retro Digital shall keep in strict confidence all technical or commercial know-how, specifications, inventions, processes or initiatives which are of a confidential nature and have been disclosed by the Client to Retro Digital or its agents, and any other confidential information concerning the Client’s business or its products which Retro Digital may obtain. Retro Digital shall restrict disclosure of such confidential material to such of its employees, agents or sub-contractors as need to know it for the purpose of discharging Retro Digital’s obligations to the Client, and shall ensure that such employees, agents or sub-contractors are subject to obligations of confidentiality corresponding to those which bind the Client.
+5.3. This condition 5 shall survive termination of the Contract, however arising.
+6. Non-Solicitation
+6.1. The Client shall not (whether directly or indirectly) at any time during the term of this Contract of for a period of 12 months following the termination of this Contract:
+6.1.1. solicit or offer employment to, enter into a contract for the services of, enter into partnership with or otherwise in any manner attempt to entice away from Retro Digital any individual who was during the term of this Contract employed or directly or indirectly engaged by Retro Digital; or
+6.1.2. procure or facilitate the making of any such offer or attempt by any other person.
+7. Limitation of liability
+7.1. The following provisions set out the entire financial liability of Retro Digital (including without limitation any liability for the acts or omissions of its employees, agents and sub-contractors) to the Client in respect of any breach of the Contract howsoever arising, any use made by the Client of the Services, the Deliverables or any part of them; and/or any representation, misrepresentation (whether innocent or negligent), statement or tortious act or omission (including without limitation negligence) arising under or in connection with the Contract.
+7.2. All warranties, conditions and other terms implied by statute or common law are, to the fullest extent permitted by law, excluded from the Contract.
+7.3. Retro Digital shall not in any circumstances be liable, whether in tort (including without limitation for negligence or breach of statutory duty howsoever arising), contract, misrepresentation (whether innocent or negligent) or otherwise for loss of profits; loss of business; depletion of goodwill or similar losses; loss of anticipated savings; loss of contract; loss or corruption of data or information; or any special, indirect, consequential or pure economic loss, costs, damages, charges or expenses.
+7.4. Retro Digital’s total liability in contract, tort (including without limitation negligence or breach of statutory duty howsoever arising), misrepresentation (whether innocent or negligent), restitution or otherwise, arising in connection with the performance or contemplated performance of the Contract shall be limited to the price paid for the Services by the Client in the 6 month period preceding the event giving rise to such a claim.
+8. Termination and Suspension
+8.1. Approaching the end of the Period, either party may terminate this Contract by giving not less than 30 days’ notice in writing to the other party.
+8.2 After the Initial Term, if the client wishes to temporarily suspend activity, they may do so by giving not less than 30 days written notice.
+8.3. Without prejudice to any other rights or remedies to which the parties may be entitled, either party may terminate the Contract without liability to the other if:
+8.3.1. the other party commits a material breach of the Contract and (if such a breach is remediable) fails to remedy that breach within 30 days of that party being notified in writing of the breach; or
+8.3.2. an order is made or a resolution is passed for the winding up of the other party, or circumstances arise which entitle a court of competent jurisdiction to make a winding-up order of the other party; or
+8.3.3. the other party ceases, or threatens to cease, to trade; or
+8.3.4. the other party takes or suffers any similar or analogous action to any of the foregoing in any jurisdiction in consequence of debt.
+8.4. Termination of the Contract, however arising, shall not affect or prejudice the accrued rights of the parties as at termination or the continuation of any provision expressly stated to survive, or implicitly surviving, termination.
+9. Waiver
+9.1. A waiver of any right under the Contract is only effective if it is in writing and it applies only to the party to whom the waiver is addressed and the circumstances for which it is given. Unless specifically provided otherwise, rights arising under the Contract are cumulative and do not exclude rights provided by law.
+10. Entire agreement
+10.1. Each of the parties acknowledges and agrees that in entering into the Contract, it does not rely on any statement, representation (whether innocent or negligent), assurance or warranty (Representation) (whether in writing or not) of any person (whether party to this agreement or not) other than as expressly set out in the Contract.
+10.2. Each party agrees that the only rights and remedies available to it arising out of or in connection with a Representation shall be for breach of contract as expressly provided in the Contract.
+10.3. Nothing in this clause shall limit or exclude any liability for fraud.
+11. Assignment
+11.1. The Client shall not, without the prior written consent of Retro Digital, assign, transfer, charge, sub-contract or deal in any other manner with all or any of its rights or obligations under the Contract.
+11.2. Retro Digital may at any time assign, transfer, charge, sub-contract or deal in any other manner with all or any of its rights or obligations under the Contract.
+12. Notices
+12.1. Any notice under the Contract shall be in writing and shall be delivered by email, fax or sent by pre-paid post or recorded delivery post to the other party at its Address as set out in the Contract form, or such other address as may have been notified by that party for such purposes, or sent by fax to the other party’s fax number or email as set out in the Contract.
+12.2. A notice delivered by hand shall be deemed to have been received when delivered (or if delivery is not during business hours, at 9.00 am on the first business day following delivery). A correctly addressed notice sent by pre-paid post or recorded delivery post shall be deemed to have been received at the time at which it would have been delivered in the normal course of post. A notice sent by fax shall be deemed to have been received at the time of transmission (as shown by the timed printout obtained by the sender).
+13. Governing law and jurisdiction
+13.1. The Contract and any disputes or claims arising out of or in connection with it or its subject matter or formation (including without limitation non-contractual disputes or claims) are governed by and construed in accordance with the law of Ireland.
+13.2. The parties irrevocably agree that the courts of Ireland have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with the Contract or its subject matter or formation (including without limitation non-contractual disputes or claims).
+https://retro-digital.com/terms-and-conditions/

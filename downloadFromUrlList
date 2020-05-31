@@ -1,0 +1,27 @@
+
+from newspaper import fulltext
+from newspaper import Article
+from tld import get_tld
+import re
+
+query = '"terms and conditions" "terms of service" -template, -sample, -what, -pdf inurl:term'
+loaded = failed = 0
+startFrom = 471
+
+with open('/Users/amruthnag/Documents/VS Python/Text extraction/Loaded urls/urlMaster.txt') as openFile:
+    urlList = openFile.read().split('\n')
+    for link in urlList:
+        linkLower = ''.join(e for e in link if e.isalnum())
+        article = Article(link)
+        article.download()
+        try:
+            fullText = re.sub('\n+','\n',(fulltext(article.html) + '\n' + link))
+        except:
+            failed += 1
+            print(f'Loaded {loaded} \t Failed {failed} \t Total: {failed+loaded}')
+            continue
+        with open(("/Users/amruthnag/Documents/VS Python/Text extraction/download31May2020/"+ linkLower +".txt"),"w") as openFile:
+            openFile.write(fullText)
+            loaded += 1
+            print(f'Loaded {loaded} \t Failed {failed} \t Total: {failed+loaded}')
+print(f"\n\n\nTotal loaded: {loaded}\nTotal failed: {failed}")

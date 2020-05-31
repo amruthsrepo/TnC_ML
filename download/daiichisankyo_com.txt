@@ -1,0 +1,26 @@
+This Website https://www.daiichisankyo.com/ (hereinafter referred to as "the Website") is operated by DAIICHI SANKYO COMPANY, LIMITED. Before using the Website, we would like you to read the terms and conditions (hereinafter referred to as "Terms"),and use the Website if you agree with the Terms. After you have begun using the Website, you are deemed to have agreed with the Terms as set out below.
+We may change the Terms without prior notice. In this case, the revised Terms will be posted, and we kindly ask you to confirm the latest Terms.
+All matters relating to use of the Website and Terms are governed by the laws of Japan. All disputes arising from use of the Website are to be filed with the Tokyo District Court as the exclusive jurisdiction for the initial hearing.
+Daiichi Sankyo Corporate Slogan
+Right to use the registered trademark symbol (®) on the Daiichi Sankyo corporate slogan, "Passion for Innovation. Compassion for Patients." in Japan and on this website is based on decision of registration (i.e. approval) obtained from the Japan Patent Office (JPO).
+Recommended Viewing Environment
+The following environment is recommended for browsing our website. In environments other than those recommended below, the site may not display or function correctly.
+When Using a Windows PC OS： Windows 7 or later Flash Player： Latest version (Download the latest version here ) Adobe Reader： Latest version (Download the latest version here ) Browsers： Microsoft Internet Explorer (latest version) Microsoft Edge (latest version) Google Chrome (latest version) Mozilla Firefox (latest version)
+When Using an Apple PC OS： Mac 10.8 or later Flash Player： Latest version (Download the latest version here ) Adobe Reader： Latest version (Download the latest version here ) Browsers： Safari (latest version) Google Chrome (latest version) Mozilla Firefox (latest version)
+When Using a Mobile Device iOS： Latest version Android： Latest version
+* Note that some iOS or Android devices may not display or function correctly based on individual model characteristics
+JavaScript
+Please enable JavaScript in your browser to access all website contents. If JavaScript is not enabled, some website contents may not function or display correctly.
+Violation of the Terms
+If users violate these Terms, we will erase personal information obtained from them, and thereafter may take measures to stop them using the Website. In the case of taking such measures, we are not responsible for any inconvenience or damage to users. Moreover, if the Company suffers damage due to a violation of the Terms by users, we may demand appropriate compensation.
+Links to the Website
+As a general rule, please create links using the method shown below. The name of the link is any of the following: "DAIICHI SANKYO", "DAIICHI SANKYO COMPANY, LIMITED" or "DAIICHI SANKYO (KK)."
+The link <a href="https://www.daiichisankyo.com/">DAIICHI SANKYO COMPANY, LIMITED</a> can be any of the following: "DAIICHI SANKYO", "DAIICHI SANKYO COMPANY, LIMITED" or "DAIICHI SANKYO (KK)".
+It is prohibited to use the company’s logo in the link.
+Publication of this Website
+If you wish to use this Website for publications such as magazines books or advertisements, or in media such as a mail magazine, we would like you to inform us before publication.
+URL Display
+When you insert the URL of the Website for web contents, published material, printed material, documents, etc., we would like you to use either of the following:
+https://www.daiichisankyo.com/
+www.daiichisankyo.com
+https://www.daiichisankyo.com/terms_and_conditions/

@@ -1,0 +1,57 @@
+DUALOG STANDARD TERMS AND CONDITIONS
+This document details the standard terms and conditions for the use of Dualog's software and related services.
+The “Order Agreement” details the services purchased by the Customer. Throughout this document, "Dualog" or "we" means Dualog AS, including any subsidiaries or representatives. “Customer” or "you” means the entity which has entered into an Order Agreement. "Software" means Dualog's software and "Documentation" means Dualog's documentation for our software and services. "Agreement" refers to the Order Agreement and this document. Any amendments to the standard terms and conditions should be specified in writing.
+The Standard terms and conditions are standard for all our services and for all customers. We may update the Standard Terms and Conditions from time to time. This version is valid from 13 February 2020.
+1 OWNERSHIP OF SOFTWARE AND DATA
+We own the software licensed under the Agreement. You are granted a non-exclusive and non-transferable right to use the software. You can install and use the Software specified in the signed Order Agreement at the site(s) specified and on the number of terminals specified in the Order Agreement. You may make a full and complete copy of the Software for archival or re-build purposes. You may use the Software to export information for data processing in other applications. Any improvements or additions to our Software is owned by Dualog.
+
+You may not copy, adapt, reverse engineer, decompile, disassemble, or modify any part of our Software or Documentation. You may not make available, distribute any part of the Software or Documentation to any third party in any way. You may not conceal or remove any title, trademark, copyright or restricted rights notices contained in the Software or the Documentation. If the Order Agreement is terminated for any reason, you shall immediately cease to use all the Software in your possession.
+You own your data. We can anonymise your data and use it to improve our software and services and for data analytics purposes. We cannot sell or reveal your data to any outside party. We can sell or reveal anonymised data or anonymised data analytics. We will comply with court orders demanding access to data.
+2 DUALOG'S RESPONSIBILITIES
+We will make available all the Software and related Documentation as specified in the Order Agreement. We are responsible for the stability and uptime of the services covered in the Order Agreement as detailed in our standard Service Level Agreement. The Software is deemed activated, and monthly payments are due when the installed Software connects to the Dualog shore servers.
+
+We have no obligation under the Agreement to provide any hardware or software installation services. You will purchase hardware and installation services at your own expense.
+
+We are responsible for any IP infringements by our Software on any other products or services.
+
+3 ACCESS AND USE
+You are solely responsible for all information retrieved, stored and transmitted through the Software. All employees registered or authorised to use the Software must comply with the Agreement.
+
+You must notify Dualog if you become aware of or believe that there is any unauthorised use of the Software or any other breach of security. You must co-operate with Dualog in all such investigations and comply with all notices, directions or instructions given by Dualog from time to time in respect of the use of the Software. If you engage in any unlawful use of the Software, you are wholly responsible.
+
+4 SUPPORT SERVICES
+You are entitled to Support Services specified in our standard Service Level Agreement (SLA). As part of the Support Services, you are entitled to all new official releases of the Software described in the Order Agreement.
+
+We may use sub-contractors for delivering support services. Telephone calls may be recorded for training purposes. Any attendance at the Customer’s premises is purchased separate of the Agreement.
+5 PAYMENTS AND FEES
+Fees are invoiced quarterly and in advance. Payment is due fourteen calendar days after the invoice date. Prices are set in the Order Agreement. All payments shall be made in cleared funds, without any deduction for withholding tax or other fees. If you are compelled to make any such deduction, you will pay the additional amounts necessary to ensure we receive the full amount invoiced. Any additional service charges will be invoiced separately as agreed in writing upon purchase. Late payment interest will accrue at 1% per month. Dualog may suspend delivery until full payment is received.
+Prices will be frozen for the first twelve months after signing the Order Agreement. Thereafter, prices will be adjusted annually with CPI inflation rate Norway. For any other price increase, we will provide a 3-month written notice.
+
+6 SUSPENSION AND TERMINATION
+The contract period is specified in the Order Agreement. It is renewed automatically for one calendar year. Each party has the right to terminate the Agreement without cause by providing (3) three months’ written notice beyond the initial term of the Order Agreement.
+
+If the Agreement is terminated, all advanced fees paid for months exceeding the relevant notice periods will be credited to the Customer from Dualog. There is a (1) one-month termination notice if a single vessel within a fleet is terminated, due to vessel being sold, scrapped or leaving management.
+
+Dualog may terminate the Agreement with immediate effect if Dualog believes the Customer has breached any of the terms or conditions of the Agreement or provided any false or incomplete information to Dualog or if the Customer dies or is declared bankrupt or declared insolvent or ceases to carry on business.
+
+Termination of the Agreement shall not affect the accrued rights of the parties.
+
+7 DISCLAIMER
+Due to the inherent hazards of electronic products, you agree and accept that the Software may be unavailable from time to time due to required maintenance, systems failures, malfunction or other disruptions. We are not liable for any loss suffered by you as a result thereof. The Software and Documentation are provided 'as is'. You are required to ensure that the Software and Documentation meets your purposes and requirements.
+
+In no event shall our aggregate liability for any claims under or pursuant to the Agreement exceed six times the monthly charge for the software licenses.
+
+We will not be liable for loss when you fail to apply a remedy or advice provided by us. We are not liable for any indirect or consequential loss such as loss of business, profits, salary, revenue, data or anticipated savings. Neither party shall be liable for any loss resulting from Force Majeure.
+
+8 GOVERNING LAW AND DISPUTE RESOLUTION
+Any dispute arising in connection with the Agreement shall be governed by the laws of Norway and referred to and finally resolved by arbitration in accordance with the Arbitration Rules of the Arbitration and Dispute Resolution Institute of the Oslo Chamber of Commerce. The language of the arbitration shall be English. Arbitration hearings shall be held in Oslo.
+
+All costs, legal fees and other expenses incurred by either party in negotiating and enforcing the Agreement shall be paid by the party incurring such costs.
+
+9 DATA PROTECTION
+Dualog is responsible for privacy and data protection as dictated by EU's General Data Protection Regulation (GDPR). The Customer must likewise ensure its responsibility under the GDPR.
+10 CONFIDENTIALITY
+The Customer is obliged to keep confidential information relating to Software, Support Services and Documentation the Customer receives from Dualog, any test findings associated with beta testing or development projects.
+
+Both Dualog and the Customer must keep confidential all communications between the Customer and Dualog and all other information deemed to be of importance to keep secret in relation to any of the parties.
+https://www.dualog.com/legal/terms-and-conditions

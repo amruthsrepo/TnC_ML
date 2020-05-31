@@ -1,0 +1,179 @@
+General
+These Terms and Conditions govern and are incorporated in to the Buyer’s purchase of Fuel as specified in each Fuel Sale Agreement.
+It is Your responsibility to review these Terms and Conditions carefully before entering into any Fuel Sale Agreement.
+1. DEFINITIONS AND INTERPRETATION
+1.1 For the purpose of these Terms and Conditions the following terms shall have the following meanings, unless the context otherwise requires:
+Affiliate means in respect of:
+the Buyer, any of its Group Companies; and
+the Seller, any of its Group Companies.
+Buyer means the party defined as such in the Fuel Sale Agreement.
+Credit Limit has the meaning given in clause 4.3.
+Data Protection Legislation: the Jersey and Guernsey Data Protection Legislation and (where applicable) the GDPR and any other directly applicable European Union regulation relating to privacy.
+Defuel means to remove fuel from tanks irrespective of the circumstances or the quantities involved.
+Delegates means Affiliates, representatives, sub-contractors, directors, officers, employees, agents or volunteers.
+Fuel means kerosene used as heating oil.
+Fuel Sale Agreement means collectively:
+the Seller’s application form for sale of fuel completed and signed by the Buyer and delivered to the Seller, which incorporates these Terms and Conditions;
+each Purchase Order, which incorporates these Terms and Conditions; and
+the Seller’s form of invoice issued by the Seller to the Buyer pursuant to each Purchase Order, which incorporates these Terms and Conditions.
+GDPR means the General Data Protection Regulation ((EU) 2016/679).
+Group Company means any subsidiary, subsidiary undertaking, holding company or holding undertaking of a relevant company, or any company or undertaking which has the same ultimate holding company or parent undertaking as such relevant company (whether directly or indirectly) as defined in part 2 of the Companies (Jersey) Law 1991.
+Interest Rate means either:
+LIBOR plus three per cent; or
+such other interest rate as the Seller and Buyer may agree from time to time.
+Jersey and Guernsey Data Protection Legislation: any data protection legislation from time to time in force in the Jersey or Guernsey including the Data Protection (Jersey) Law, 2018, the Data Protection Authority (Jersey) Law, 2018 , the Data Protection (Bailiwick of Guernsey) Law, 2017 or any successor legislation.
+LIBOR means the London inter-bank offered rate for one month GBP deposits at 11:00 a.m. fixing on the due date as published by Reuters or, if the due date is not a London banking day, on the immediately preceding London banking day.
+Posted Price means the standard price for Fuel quoted by the Seller.
+Purchase Order means communication in writing, by telephone or by email from the Buyer to the Seller to purchase Fuel, setting out:
+the premises for delivery of Fuel; and
+the volume of Fuel to be delivered.
+Seller means the party defined as such in the Fuel Sale Agreement.
+Seller’s Suppliers means any body or person by whom directly or indirectly the Fuel to be purchased and sold under the Fuel Sale Agreement is supplied to the Seller.
+Tanks means storage tanks, containers or other receptacles to be used for storing Fuel.
+You or Your means the Buyer.
+Unless a contrary indication appears, any reference in these Terms and Conditions to:
+words in the singular include the plural and vice versa and words in one gender include any other gender;
+where a word or phrase is defined, its other grammatical forms have a corresponding meaning;
+clauses are references to clauses in these Terms and Conditions;
+any form of legal entity includes all other forms of legal entity;
+writing includes printing, typing, lithography and other modes of reproducing words in a visible form;
+any statute or statutory provision includes any statute or statutory provision which amends, extends, consolidates or replaces it, or which has been amended, extended, consolidated or replaced by it, and any orders, regulations, instruments or other subordinate legislation made under it;
+a party means each of the Seller and the Buyer and their successors in title, permitted transferees and permitted assigns; and
+any provision of these Terms and Conditions is to that provision as amended, varied, or supplemented in accordance with the terms of these Terms and Conditions.
+1.2 Clause headings are for ease of reference only.
+1.3 GBP, Sterling and £ denote the lawful currency of Britain.
+1.4 These express Terms and Conditions shall apply in place of all guaranties, warranties, other conditions, other terms, representations, statements, undertakings and obligations whether expressed or implied by statute, common law, custom, usage or otherwise, all of which are excluded to the fullest extent permitted by law.
+2. DELIVERY
+2.1 Unless otherwise agreed, Fuel supplied under the Fuel Sale Agreement shall be delivered into the Tanks at the premises specified in the Purchase Order provided that the Buyer:
+(a) provides adequate and appropriate Tanks for accepting delivery;
+(b) ensures access to the Tanks is clear and available;
+(c) ensures the Tanks are safe and suitable for the Fuel and are clearly marked with the product name, safe working capacity and identification number; and
+(d) ensures the Tanks comply with any and all applicable laws and regulations.
+2.2 Risk in and property to Fuel supplied under the Fuel Sale Agreement shall pass to the Buyer as the Fuel supplied passes the hose connection of the receiving Tank which the Buyer has provided for receiving delivery; or at the point otherwise agreed by Seller and Buyer in writing prior to delivery.
+2.3 The Seller shall use all reasonable endeavours to deliver the Fuel by the date specified in the Purchase Order or, if no date is specified, within a reasonable period of time subject to operational requirements imposed by other delivery commitments.
+2.4 In respect of any delivery made by the Seller, the Seller’s measurements and quality analysis of the Fuel supplied shall be treated as conclusive, however, the conclusiveness of the results may be displaced to the extent that it can be shown that the results are incorrect. Any claim or complaint in respect of a shortage in quantity or defect in the quality of any Fuel supplied under the Fuel Sale Agreement shall only be considered by the Seller if notice in writing of such claim is received by the Seller within 14 days of the date of the delivery in question and such notice is followed by a fully documented claim to be received by the Seller within 60 days of the date of the delivery in question. If the Buyer fails to give notice or to submit any such claim within the time limits, the Buyer’s claim shall be deemed to be waived and any liability on the part of the Seller extinguished.
+2.5 Unless otherwise agreed, the Seller shall provide the Buyer at the time of delivery with a copy of a delivery receipt specifying the grade and quantity of Fuel delivered. Where possible, the delivery receipt shall be signed by the representatives of the Seller and the Buyer.
+3. PRICES, DUTIES, TAXES AND CHARGES
+3.1 Subject to clause 6 and the following provisions of this clause 3, the prices payable for Fuels to be supplied under the Fuel Sale Agreement shall be (as applicable) either:
+(a) those specified in the relevant Fuel Sale Agreement;
+(b) the Posted Price; or
+(c) as otherwise agreed by the Seller and Buyer in writing;
+and, in each case, shall, unless otherwise stated, be exclusive of applicable consumption tax, sales tax or any other tax of a similar nature that may be levied in the jurisdiction of the delivery premises.
+3.2 Buyer shall (against the production of a valid tax or other invoice) pay any duty, tax, fee or charge of any kind imposed by any national, local or other authority on the supply, delivery, sale, inspection, storage or use of Fuels, or on Defuelling, or in respect of payment for Fuels supplied under the Fuel Sale Agreement and not included in the price for the Fuels, except for taxes on Seller’s income and taxes on raw material. These duties, taxes, fees and other charges shall be charged in accordance with the relevant regulations in force, and at the rate current, at the time of making the supply and, to the extent allowed, stated by the Seller as separate items on the invoice for the account of Buyer.
+3.3 Third party charges included in the price of Fuels at the date of this Agreement shall be as stated in the applicable Fuel Sale Agreement (if any) or as otherwise agreed between the parties from time to time in writing
+3.4 The prices of Fuels may be varied by the Seller to reflect wholly, and from the effective date, any changes in any duty, tax, fee or charge of any kind included in the prices of Fuels (or any new duty, tax, fee or charge of any kind to be included in the price of Fuels) that the Seller incurs in order to fulfil its obligations under this Agreement
+3.5 The Seller shall endeavour promptly to advise the Buyer of the imposition, or increase in, any duty, tax, fee or charge payable by the Buyer pursuant to clauses 3.2 or 3.4 when such information becomes known to the Seller but the Seller’s inability so to do shall not excuse the Buyer from its obligation to pay any such duty, tax, fee or charge from its effective date of application
+3.6 In cases where the Buyer is entitled to a complete or partial exemption from or refund of any duty, tax, fee or charge referred to in clause 3.2 or 3.4 deliveries shall, so far as may be reasonably practicable, be made by the Seller in the manner required for obtaining such exemptions or refund and the Buyer shall deliver to the Seller a valid exemption certificate in respect of the same.
+4. PAYMENT AND SECURITY
+4.1 Subject only to the deduction of any amount in dispute, which shall be notified before the due date for payment by the Buyer to the Seller in writing, payment of the full amounts shown on all invoices rendered by the Seller to the Buyer under the Fuel Sale Agreement shall be made in accordance with the Terms and Conditions set out in the applicable Fuel Sale Agreement (if any), failing which payment shall be due within fourteen days of the date of the invoice.
+4.2 Subject to clause 4.1, if the Buyer fails to pay any invoice by its due date for payment the Seller may at its option:
+(a) surcharge each future invoice at the time of preparation at the Interest Rate, which amount will be refunded only if payment is received by the due date; and
+(b) charge interest at the Interest Rate on any amount overdue for payment.
+4.3 The Seller may (at the Seller’s option) notify the Buyer of its credit limit (inclusive of applicable consumption tax, sales tax or any other tax of a similar nature that may be levied in any jurisdiction) (Credit Limit), which may be revised from time to time.
+4.4 Subject to Clause 4.1, if at any time:
+(a) the Buyer fails to pay any invoice by its due date for payment;
+(b) the reliability or the financial responsibility of the Buyer (or of any guarantor or other person furnishing security in support of the Buyer), in Seller’s assessment, is becomes impaired or unsatisfactory; and/or
+(c) the Buyer exceeds its current Credit Limit;
+(d) the Seller may at its option:
+(i) immediately withhold future deliveries until all sums due have been paid in full;
+(ii) require the Buyer to make cash payment at the Posted Price at the time of any future delivery;
+(iii) receive from the Buyer, upon demand, immediate payment, in advance of the due date or of delivery or collection, in respect of each or any invoice, delivery or collection or any proportion of the same; and/or
+(iv) require the Buyer to provide any security satisfactory to the Seller.
+4.5 After any demand or requirement set out in clause 4.4 (d), the Seller may (without prejudice to any other right to suspend delivery) cease delivery of part or all of the Fuels to be supplied under the Fuel Sale Agreement until such payment or security shall have been received by it.
+5. PAYMENT
+5.1 Unless required by law and unless the parties agree otherwise, all payments made by either party under the Fuel Sale Agreement shall be made in Pounds Sterling, free and clear of and without any deduction for or on account of any tax, set-off or counterclaim.
+6. DEFUELLING
+6.1 Provided that Defuelling and storage of the Defuelled Fuel can be carried out in accordance with the quality control and operations procedures (as amended from time to time) applicable to the Seller’s operations, Defuelling of Buyer’s tanks shall be undertaken as soon as possible after the Buyer’s request taking into account the Seller’s other operational activities.
+6.2 The Seller shall have absolute discretion to:
+(a) receive back into its own storage the quantity of Fuel Defuelled, or
+(b) segregate and store the Defuelled Fuel for re-delivery to the Buyer’s tanks from which it was Defuelled or to another Buyer’s tanks, or
+(c) dispose of the Defuelled Fuel and credit the Buyer with any proceeds thereby obtained less any costs, charges, duties or taxes incurred by the Seller in arranging such disposal.
+6.3 The Seller reserves the right to charge the Buyer a fee for the services set out in clauses 6.1 and 6.2.
+7. DELIVERIES OUTSIDE NORMAL ARRANGEMENTS
+7.1 If the Buyer requests the Seller to make deliveries:
+(a) by a different method than the one normally used for supplies of Fuels to the Buyer’s tanks; or
+(b) outside the Seller’s normal service hours (as published by the Seller from time to time),
+(c) then the Seller reserves the right to charge the Buyer the additional costs and expenses incurred by the Seller in making such deliveries.
+8. LIABILITY
+8.1 Except where expressly provided in these Terms and Conditions, neither the Seller nor the Buyer shall be liable to the other under or in connection with any Fuel Sale Agreement for the other party’s:
+(a) loss of actual or anticipated profit;
+(b) losses caused by business interruption;
+(c) loss of goodwill or reputation; or
+(d) for any indirect, special or consequential cost, expense, loss or damage,
+even if such cost, expense, loss or damage was reasonably foreseeable or might reasonably have been contemplated by the parties and whether arising from breach of contract, tort, negligence, breach of statutory duty or otherwise.
+9. FORCE MAJEURE
+9.1 Neither the Seller nor the Buyer shall be responsible for any failure to fulfil their respective obligations under this Agreement (other than the payment of money) if fulfilment has been delayed, hindered, interfered with, curtailed or prevented by:
+(a) any circumstances whatsoever which are not within the reasonable control of the Seller or of the Seller’s Suppliers or of the Buyer as the case may be; or
+(b) any curtailment, failure or cessation of the supplies of the Fuels from any of the Seller’s or the Seller’s Suppliers’ sources of supply (whether in fact sources of supply for the purposes of the Fuel Sale Agreement or not); or
+(c) any compliance with any order, demand or request of any international, national, port, transportation, local or other authority or agency or of any body or person purporting to be or to act for such authority or agency; or
+(d) any strike, lock-out or labour dispute (whether or not the Seller, the Seller’s Suppliers or the Buyer as the case may be are party to the same or would be able to influence or procure the settlement of the same).
+9.2 If by reason of any of the causes referred to in clause 9.1 either the availability from any of the Seller’s or the Seller’s Suppliers’ sources of supply of the Fuels or the normal means of transport of such Fuels is delayed, hindered, interfered with, curtailed, or prevented, the Seller shall be at liberty either to:
+(a) withhold, reduce or suspend deliveries under the Fuel Sale Agreement to such extent as the Seller may in its absolute discretion think fit in which case the Seller shall not be bound to purchase or otherwise make good shortages resulting from any such cause, although the Seller will endeavour to arrange an equitable distribution of supplies which continue to be normally available in the events referred to above; or
+(b) offer the Buyer a restated price for supplies of the Fuels for deliveries with effect from the date (whether or not before the date of such restatement) on which the circumstances specified in clause 9.1 affected the deliveries concerned. If within 10 days of such notice the Buyer does not accept any restated price then the Seller may immediately terminate deliveries to the Buyer’s premises but any such restated price shall, notwithstanding any failure to agree, be payable in respect of any Fuel delivered under the Fuel Sale Agreement from the date of the Seller’s notice.
+9.3 If the circumstances which have given rise to the operation of clause 9.2(b) become improved or cease, thereby enabling a revision to be made in whole or in part to the Seller’s or the Seller’s Suppliers’ normal sources of supply and/or routes and means of transportation, the Seller shall give written notice of the same to the Buyer together with appropriate adjustments to the restated price.
+9.4 The performance of any obligation, whether arising out of any contract, arrangement or otherwise, by which any authority, agency, body or person is entitled to require and does require any of the Fuels by way of royalty in kind, shall be deemed to constitute a compliance with an order or request as provided in clause 9.1(c), notwithstanding any agreement on the part of the Seller or the Seller’s Suppliers to repurchase the same or any part of the same.
+9.5 If the Seller withholds, reduces or suspends deliveries of Fuels under the Fuel Sale Agreement pursuant to clause 9.2(a) the Buyer shall be free, for so long as deliveries under the Fuel Sale Agreement are withheld, suspended or reduced, to purchase from other suppliers on its own account any deficiencies in the supply of Fuels arising as a result.
+10. TERMINATION
+10.1 The Seller may terminate this Agreement by notice to the Buyer, without prejudice to any rights of action or claims that it may have under this Agreement or otherwise, if:
+(a) subject to clause 4.1, the Buyer:
+(b) fails to pay any invoice by its due date for payment; and/or
+(c) fails to provide any payment or security mentioned in clause 4.5 within a period of 3 days after such being demanded or required;
+(d) commits a breach of any of the other conditions or any other term of the Fuel Sale Agreement, the effect of which breach is material, and which is either incapable of remedy, or, if capable of remedy is not remedied within 30 days of service of notice by the Seller requiring remedy;
+(e) whether or not such event or breach would otherwise qualify as a repudiatory breach at common law; or
+(f) the Buyer begins negotiations for, takes any proceedings concerning, proposes or makes any agreement for the deferral, rescheduling or other readjustment, general assignment of or an arrangement or composition with or for the benefit of some or all of its creditors of all or substantially all of its debts, or for a moratorium in respect of or affecting all or substantially all of its debts; or
+(g) any step is taken by any person (including the Buyer) with a view to the administration, bankruptcy or winding up of the Buyer; or
+(h) any step is taken to enforce security over or a distress, execution or other similar process is levied or served against all or substantially all of the assets or undertaking of the Buyer, including the appointment of a receiver, administrative receiver, trustee in bankruptcy, manager or similar officer; or
+(i) any event or circumstance occurs which under the law of any relevant jurisdiction has an analogous or equivalent effect to any of the termination events listed in clause 10; or
+(j) any event or circumstance referred to in this clause occurs in relation to any person who has Control of the Buyer or who has provided security for the Buyer in respect of the Fuel Sale Agreement.
+For the purposes of the Fuel Sale Agreement, Control of a company means: the power (whether by way of ownership of shares, proxy, contract, agency or otherwise) to:
+(a) cast, or control the casting of more than 50 per cent. of the maximum number of votes that might be cast at a general meeting of the company; or
+(b) appoint or remove all, or the majority, of the directors or other equivalent officers of the company; or
+(c) give directions with respect to the operating and financial policies of the company with which the directors or other equivalent officers of the company are obliged to comply; and/or
+(d) the holding beneficially of more than 50 per cent. of the issued share capital of the company (excluding any part of that issued share capital that carries no right to participate beyond a specified amount in a distribution of either profits or capital).
+11. ASSIGNMENT
+11.1 The Buyer shall not transfer or assign the Fuel Sale Agreement or any benefit or rights under the Fuel Sale Agreement without the consent in writing of the Seller. The Seller may assign its rights and obligations under this Agreement to its Affiliate. Any such assignment shall be effected by notice in writing from the assignor countersigned by the assignee to signify its acceptance of the obligations under the Fuel Sale Agreement.
+11.2 Except as provided in clause 11.1 the Seller shall not transfer or assign the Fuel Sale Agreement or any benefit or rights under the Fuel Sale Agreement without the consent in writing of the Buyer.
+12. CONFIDENTIALITY
+12.1 The Fuel Sale Agreement, the information that it contains and all information exchanged relating to it are confidential between the Buyer and the Seller. Neither the Buyer nor the Seller shall, without the other’s written consent, disclose such information on any basis to any person other than its employees, its Affiliates or its Affiliates’ employees except to the extent that disclosure may be compulsory under applicable law or to any governmental authority. Any disclosure by the Buyer or the Seller to their employees, or their Affiliates shall be on a confidential basis.
+13. INFORMATION
+13.1 Where the Seller or the Seller’s Affiliates receive, collect or handle personal information or data in the course of processing and administering the Buyer’s account, the Seller shall ensure that it and its Affiliates have taken and continue to take all reasonable technical and organisational measures against unauthorised or unlawful processing or disclosure of the personal information and data.
+13.2 All personal information and data supplied by You and/or collected by the Seller or the Seller’s Affiliates will be used and processed: (i) in accordance with applicable laws; (ii) with these Terms and Conditions; (iii) with the Seller’s Data Protection Policy Statement (LINK); and (iv) with the Seller’s Customer Privacy Notice (LINK). You warrant that any data provided by You is accurate.
+14. DATA PROTECTION AND DATA PROCESSING
+14.1 Both parties will comply with all applicable requirements of the Data Protection Legislation. This clause 14 is in addition to, and does not relieve, remove or replace, a party’s obligations under the Data Protection Legislation. In this clause 14, Applicable Laws means (for so long as and to the extent that they apply to the Supplier) the law of the European Union, the law of any member state of the European Union and/or Domestic Jersey or Guernsey Law; and Domestic Jersey or Guernsey Law means the Jersey and Guernsey Data Protection Legislation and any other law that applies in Jersey or Guernsey.
+14.2 The parties acknowledge that for the purposes of the Data Protection Legislation, the Customer is the data controller and the Supplier is the data processor (where Data Controller and Data Processor have the meanings as defined in the Data Protection Legislation).
+14.3 Without prejudice to the generality of clause 14.1, the Customer will ensure that it has all necessary appropriate consents and notices in place to enable lawful transfer of the Personal Data (as defined in the Data Protection Legislation) to the Supplier for the duration and purposes of the Contract.
+14.4 Without prejudice to the generality of clause 14.1, the Supplier shall, in relation to any Personal Data processed in connection with the performance by the Supplier of its obligations under the Contract:
+(a) process that Personal Data only on the written instructions of the Customer unless the Supplier is required by Applicable Laws to otherwise process that Personal Data. Where the Supplier is relying on laws of a member of the European Union or European Union law as the basis for processing Personal Data, the Supplier shall promptly notify the Customer of this before performing the processing required by the Applicable Laws unless those Applicable Laws prohibit the Supplier from so notifying the Customer;
+(b) ensure that it has in place appropriate technical and organisational measures, reviewed and approved by the Customer, to protect against unauthorised or unlawful processing of Personal Data and against accidental loss or destruction of, or damage to, Personal Data, appropriate to the harm that might result from the unauthorised or unlawful processing or accidental loss, destruction or damage and the nature of the data to be protected, having regard to the state of technological development and the cost of implementing any measures (those measures may include, where appropriate, pseudonymising and encrypting Personal Data, ensuring confidentiality, integrity, availability and resilience of its systems and services, ensuring that availability of and access to Personal Data can be restored in a timely manner after an incident, and regularly assessing and evaluating the effectiveness of the technical and organisational measures adopted by it);
+(c) ensure that all personnel who have access to and/or process Personal Data are obliged to keep the Personal Data confidential; and
+(d) not transfer any Personal Data outside of the European Economic Area unless the prior written consent of the Customer has been obtained and the following conditions are fulfilled:
+(i) the Customer or the Supplier has provided appropriate safeguards in relation to the transfer;
+(ii) the Data Subject (as defined in the Data Protection Legislation) has enforceable rights and effective legal remedies;
+(iii) the Supplier complies with its obligations under the Data Protection Legislation by providing an adequate level of protection to any Personal Data that is transferred; and
+(iv) the Supplier complies with reasonable instructions notified to it in advance by the Customer with respect to the processing of the Personal Data;
+(e) assist the Customer , at the Customer’s cost, in responding to any request from a Data Subject and in ensuring compliance with its obligations under the Data Protection Legislation with respect to security, breach notifications, impact assessments and consultations with supervisory authorities or regulators;
+(f) notify the Customer without undue delay on becoming aware of a Personal Data breach;
+(g) at the written direction of the Customer, delete or return Personal Data and copies thereof to the Customer on termination of the agreement unless required by Applicable Law to store the Personal Data; and
+(h) maintain complete and accurate records and information to demonstrate its compliance with this clause 14.
+14.5 The Customer consents to the Supplier appointing third-party processors of Personal Data under the Contract. Such third party processors may include without limitation: (i) a credit reference agency where it may be accessed by other financial institutions to assist assessment of any application for credit made to the Seller and for debt tracing and fraud prevention; (ii) any agent or sub-contractor of the Seller performing services in connection with the Buyer’s account; (iii) any person to whom the Seller proposes to transfer any of its rights and/or duties under a Fuel Sale Agreement; (iv) any guarantor or person providing security in relation to the Buyer’s obligations under a Fuel Sale Agreement; (v) any Affiliate of the Seller; (vi) as required or permitted by law or any regulatory authority; or (vii) as otherwise considered necessary or appropriate by the Seller.
+14.6 The Supplier confirms that it has entered or (as the case may be) will enter with any third-party processor into a written agreement substantially on that third party’s standard terms of business. As between the Customer and the Supplier, the Supplier shall remain fully liable for all acts or omissions of any third-party processor appointed by it pursuant to this clause 14.
+14.7 Either party may, at any time on not less than 30 days’ notice, revise this clause 14 by replacing it with any applicable controller to processor standard clauses or similar terms forming part of an applicable certification scheme (which shall apply when replaced by attachment to the Fuel Sale Agreement).
+15. WAIVER
+15.1 The rights, powers and remedies conferred on any party by the Fuel Sale Agreement and the remedies available to any party are cumulative and are additional to any right, power or remedy which it may have under general law or otherwise
+15.2 Any party may, in whole or in part, release, compound, compromise, waive or postpone, in its absolute discretion, any liability owed to it or right granted to it in the Fuel Sale Agreement by the other party without in any way prejudicing or affecting its rights in respect of that or any other liability or right not so released, compounded, compromised, waived or postponed
+15.3 No single or partial exercise, or failure or delay in exercising any right, power or remedy by any party shall constitute a waiver by that party of, or impair or preclude any further exercise of, that or any right, power or remedy arising under the Fuel Sale Agreement or otherwise
+16. VARIATIONS
+16.1 No purported variation of the Fuel Sale Agreement shall be effective unless it is in writing and signed by or on behalf of each of the parties.
+17. NOTICES
+17.1 Every notice or other communication made under a Fuel Sale Agreement shall unless otherwise stated be in writing (including by written electronic communication) in English and shall be given to the respective party at its address, email, or facsimile number set out in the Purchase Order, or such other contact address or details as advised from time to time by one party to the other.
+17.2 Every notice or other communication shall be deemed to have been received:
+(a) in the case of a letter when delivered personally or two days after its posting by first class post; and
+(b) in the case of an electronic communication when sent.
+18. GOVERNING LAW AND ARBITRATION
+18.1 Unless otherwise agreed between the Seller and the Buyer in writing, these Terms and Conditions, any Fuel Sale Agreement and any dispute or claim of whatever nature, whether contractual or non-contractual, arising out of or in connection with it is to be governed by the laws of Jersey, without giving effect to its rules on conflicts of law and the Fuel Sale Agreement shall be construed in accordance with Jersey law.
+19. THIRD PARTY RIGHTS
+19.1 No term or condition contained in the Fuel Sale Agreement shall be enforceable by any person who is not a party to this Agreement.
+19.2 The Fuel Sale Agreement may be varied or terminated by the parties without notice to or the consent of any third party.
+20. ENTIRE AGREEMENT
+20.1 The Fuel Sale Agreement and all of the documents referred to in it, in the agreed form, sets out the entire agreement and understanding between the parties and supersedes all prior agreements, understandings or arrangements (whether oral or written) in respect of the subject matter of the Fuel Sale Agreement.
+https://atf.je/terms-and-conditions-for-sale-of-fuel/

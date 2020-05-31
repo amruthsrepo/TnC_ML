@@ -1,0 +1,52 @@
+Last updated 9 March 2016
+The service “eHour” is offered over the internet in the form of Software-as-a-Service by the company TE-CON B.V.
+The use of eHour is subject to the below terms and conditions. Using eHour constitutes acceptance of these terms and conditions.
+Deviations from these terms and conditions is possible only by means of written confirmation by eHour.
+Article 1. Use of the service
+1.1 The service eHour is offered for the purpose of office automation within your company, using the tools available from eHour. You choose yourself how to employ the tools and for which specific purposes.
+1.2 To use eHour, you first need to register. After completing registration, you can directly log into your account and use the servce.
+1.3 Access to your account is secured with a password. You must keep the password strictly confidential. eHour assumes that all actions undertaken from your account, after logging in with your username and password, is authorized and supervised by you. This means you are liable for these actions, unless and until you have notified eHour that someone else knows your password.
+1.4 eHour allows you to process personal data. eHour acts as a processor as that term is defined in the Dutch Data Protection Act; you are the controller. You indemnify and hold harmless eHour against all claims by third parties in connection with this Act.
+Article 2. Terms of use
+2.1 It it is not permitted to use eHour for any purpose that violates Dutch or other applicable law or regulation. This includes (among others) the storage or transmission of data using the service that is slanderous, libelous or racist.
+2.2 In particular it is not permitted to use eHour in a manner that causes a nuisance or hindrance for other users. This includes (among others) the use of personal scripts or programs for up- or downloading large amounts of data or excessively often accessing the service.
+2.3 Should eHour discover that you violate any of the above, or receive a complaint alleging the same, eHour will issue a warning. If the warning does not lead to an acceptable resolution, then eHour may intervene to end the violation. In urgent of serious cases eHour may intervene without warning.
+2.4 If in the opinion of eHour the continued functioning of the computer systems or network of eHour or third parties is actually or under threat of being damaged or jeopardized, for example through excessive transmission of e-mail or other data, leaks of personal data or virus activity, eHour may take all steps it deems reasonably necessary to end or avert such damage or jeopardy.
+2.5 eHour may recoup from you all damages it suffers as a result of your violation of these terms of use. You agree and hold harmless eHour from all third-party claims arising out of your violation of these terms of use.
+Article 3. Availability and maintenance
+3.1 eHour shall use reasonable endeavours to maintain the availability of eHour to the Customer, but does not guarantee 100% availability. Our goal is 99.5% uptime during European business hours (9:00-18:00 CET).
+3.2 eHour actively maintains eHour. In case maintenance is reasonably expected to negatively impact availability, eHour carries out such maintenance outside European business hours (9:00-18:00 CET). Maintenance is announced in advance whenever possible.
+3.3 eHour may from time to time adapt eHour. Your feedback and suggestions are welcome but ultimately eHour decides which adaptations to carry out (or not).
+Article 4. Intellectual property
+4.1 The service eHour, the accompanying software as well as all information and images on the website is the intellectual property of eHour. None of these items may be copied or used without prior written permission of eHour, except and to the extent permitted by mandatory law.
+4.2 Information you store or process using the service is and remains your property (or the property of your suppliers or licensors). eHour receives a limited license to use this information for the service, including for future aspects thereof. You can cancel this license by removing the information in question and/or terminating the agreement.
+4.3 If you send information to eHour, for example a bug report or suggestion for improvement, you grant eHour a perpetual and unlimited license to use this information for the service. This does not apply to information you expressly mark as confidential.
+4.4 eHour shall refrain from accessing data you store or transfer using eHour, unless this is necessary for a good provision of the service or eHour is forced to do so by law or order of competent authority. In these cases eHour shall use its best efforts to limit access to the information as much as possible.
+Article 5. Compensation for the service
+5.1 The use of certain functions of eHour is subject to fees. All fees listed are exclusive of all taxes or duties imposed by governing authorities. You are solely responsible for payment of all such taxes or duties.
+5.2 Payment is possible by credit card or, in case of an annual plan by invoice.
+5.3 The fee is billed in advance on a monthly or yearly plan. There will be no refunds for partial months or years.
+5.4 Because the service is started directly at your express request, a payment cannot be refunded under the Distance Selling Act.
+5.5 When you’re located within the EU region we’re required to have your VAT number for VAT exemption.
+Article 6. Limitation of liability
+6.1 Except in case of intentional misconduct or gross negligence the liability of eHour shall be limited to the amount paid by you in the three months prior to the moment the cause of the damage occurred.
+6.2 eHour in no event is liable for indirect damages, consequential damages, lost profits, missed savings or damages through business interruption.
+6.3 Damages may only be claimed if reported in writing to eHour at most two months after discovery.
+6.4 In case of force majeure eHour is never required to compensate damages suffered by you. Force majeure includes among others disruptions or unavailability of the internet, telecommunication infrastructure, power interruptions, riots, traffic jams, strikes, company disruptions, interruptions in supply, fires and floods.
+Article 7. Term and termination
+7.1 This agreement enters into force as soon as you first use the service and then remains in force until terminated.
+7.2 You can terminate the agreement at any time although there will be no refunds for partial months or years.
+7.3 eHour is entitled to terminate the agreement if you have not used the service at all in the last 18 months. In such an event eHour shall first send a reminder mail to the e-mail address connected to your account.
+7.4 You can export the you store or process using the service at any time through the service interface.
+Article 8. Changes to terms
+8.1 eHour may change or add to these terms and conditions as well as any prices at the start of a new payment period (as defined in 5.1).
+8.2 eHour shall announce through the service changes or additions at least thirty days before their taking effect.
+8.3 If you do not want to accept a change or addition, you can terminate the agreement until the date the changes take effect. Use of eHour after the date of effect shall constitute your acceptance of the changed or added-to terms and conditions.
+Article 9. Miscellaneous provisions
+9.1 Dutch law applies to this agreement.
+9.2 Except to the extent determined otherwise by mandatory applicable law all disputes arising in connection with eHour shall be brought before the competent Dutch court for the principal place of business of eHour.
+9.3 For any clause in these terms and conditions that demand that a statement must be done “in writing” to be legally valid, a statement by e-mail or communication through the eHour service shall be sufficient provided with sufficient certainty the authenticity of the sender can be established and the integrity of the statement has not been compromised.
+9.4 The version of any communication of information as recorded by eHour shall be deemed to be authentic, unless you supply proof to the contrary.
+9.5 In case any part of these terms and conditions are declared legally invalid, this shall not affect the validity of the whole of the agreement. The parties shall in such an event agree on one or more replacement provisions that approximate the original intent of the invalid provision(s) within the limits of the law.
+9.6 eHour is entitled to transfer its rights and obligations under this agreement to a third party as part of an acquisition of eHour or the associated business activities.
+https://getehour.com/terms-and-conditions/

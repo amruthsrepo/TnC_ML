@@ -1,0 +1,4 @@
+Enter store using password:
+Password Enter
+Are you the store owner? Log in here
+https://jrwinkel.com/pages/term-of-service

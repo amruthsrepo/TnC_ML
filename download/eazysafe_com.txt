@@ -1,0 +1,169 @@
+EazySAFE Limited Standard Terms and Conditions
+THE FOLLOWING TERMS AND CONDITIONS FORM THE BASIS OF YOUR CONTRACT WITH THE COMPANY. PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY. BY ACCESSING OR USING EazySAFE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THE SOFTWARE.
+1. DEFINITIONS
+1.1. In these terms and conditions (referred to as Terms from now on) reference to:
+“Company”: means EazySAFE Limited, The Digital Hub, 10-13 Thomas Street, Dublin 8, Ireland and any servants, employees, agents or sub-contractors of the Company;
+“Content”: means the course material, whether generic or provided by the Customer;
+“Contract”: means your Order and the Company’s acceptance of it in accordance with Clause 3 incorporating these Terms;
+“Customer”: means you or your means the person named in the Contract;
+“EULA”: means the End User License Agreement, a copy of which is available upon request from the Company or downloadable from our website;
+“Intellectual Property Rights”: means any patents, rights to inventions, copyright and related rights, trademarks, trade names, domain names, rights in get-up, rights in goodwill or to sue for passing off, unfair competition rights, rights in designs, rights in computer software, database rights, topography rights, moral rights, rights in confidential information (including without limitation know-how and trade secrets) and any other intellectual property rights, in each case whether registered or unregistered and including all applications for and renewals or extensions of such rights and all similar or equivalent rights or forms of protection in any part of the world;
+“License”: means the license provided by EazySAFE to use our Platform and associated software;
+“Order”: means an order for Goods or Services which has been accepted by the Company in accordance with Clause 2 incorporating these Terms;
+“Platform”: means the EazySAFE Learning Centre platform;
+“Primary contact”: means the person in a customer organisation acting as a single point of contact;
+“Services”: means the services to be provided by the Company under the Contract as set out in your Order or where applicable on the quotation and / or the Project Specification Document together with any other services which the Company provides, or agrees to provide, to you;
+“Software”: means the software supplied under license in the contract;
+“Specification”: means the written specification (if any) which is applicable to the Content and the Services and provided to you by the Company.
+“Subscription”: is the right to access the Platform for 1 year;
+“User”: (or User Account) represents a person who has access to the Learning Centre;
+“Documentation”: means the EazySAFE User Documentation relating to use of the software and the Learning Centre;
+1.2. Unless the context otherwise requires, references to the singular include the plural and vice versa.
+1.3. The headings contained in these Terms are for convenience only and do not affect their interpretation.
+2. GENERAL
+2.1. The Company provides access to the various websites and all current and future services, software and data accessed via the Websites, including the Company Services. The Website and the Services are referred to together in these Terms & Conditions as the Platform.
+2.2. These Terms & Conditions govern your use of the Platform. By accessing or using the Platform (including but not limited to accepting, uploading, submitting or downloading any information or content from or to the Website and/or use of the Services) you agree to be bound by these Terms & Conditions.
+3. APPLICATION OF TERMS AND PURCHASE ORDERS
+3.1. Each Order for Services you make to the Company shall be an offer by you to purchase the Services and these Terms will apply. The Contract between you and the Company for the Services will be on these Terms only (unless changed by Clause 3.2) and no other terms and conditions will apply.
+3.2. These Terms apply to all Orders you make and any variation to these Terms and any other statement made by the Company or its employees about the Services shall not be binding on the Company unless set out in writing and signed by the Company. Nothing in this Clause shall exclude or limit the Company’s liability for fraudulent misrepresentation.
+3.3. Your Order shall not be considered accepted by the Company until a written acknowledgement of order is issued to you by the Company or (if earlier) the Company delivers the Services to you.
+4. QUOTATIONS
+4.1. Unless otherwise stated in writing, any quotation from the Company is valid for thirty (30) days from the date of the quotation. The Company may withdraw a quotation at any time by notice to you.
+4.2. Any quotation is given on the basis that no agreement will come into existence until the provisions under Clause 3.3 are satisfied, that is of an offer by you and acceptance of it by the Company.
+5. SPECIFICATIONS AND BESPOKE WORK
+5.1. The policy of the Company is one of continuous development and improvement, and the Company reserves the right to make alterations to the relevant Specification, provided that the basic nature, quality and performance of the relevant Services are not adversely affected. The Company will endeavour to notify you of any changes.
+5.2. All information, Specifications, performance figures, samples, drawings, descriptive matter and advertising and any illustrations issued by the Company or contained in the Company’s web site, price lists, brochures, promotional literature or advertising matter are intended to present only a general description of the Services and their approximate performance at the time of issue. These may be altered, varied or cancelled at any time without notice to you. None of them shall be taken as forming any part of any Order or Contract unless specifically so stated, nor do they provide any warranty (expressed or implied) that the specific results of performance stated in any of them will be obtained.
+5.3. The quantity and description of the Services shall be as set out in the Company’s acknowledgement of order or (if there is no acknowledgment of order) quotation or Project Specification Document as the case may be.
+5.4. The Company reserves the right to discontinue the supply of Services or to alter the design or construction of any Goods. The Company shall use its reasonable endeavours to give you at least one (1) months’ written notice of its intention to discontinue or to alter any of its Services.
+5.5. Upon your request the Company may develop bespoke content or Services on your behalf. In the event that you require bespoke Services the Company may provide such bespoke work under terms to be agreed between the parties.
+5.6. The Company reserve the right to swap images or animations provided in the Content without prior notice with images with a similar description.
+6. CANCELLATION OF SERVICES
+6.1. Where you have purchased the Services via telephone, internet, post or other non-face to face situation you may cancel the Contract:
+6.1.1. at any time within seven working days, beginning on the day after you ordered the Services; or
+6.1.2. at any time within seven working days from the date of conclusion of the contract, in the case of the provision of the Services, unless you have agreed to the Services starting before the end of this period in which case your right to cancel will end when the Company starts to perform the Services;
+and in each case, you will receive a full refund of any price paid by you for the Services less any costs incurred by the Company in developing Content or the provision of the Services up to that point in time.
+6.2. To cancel the Contract, you must inform the Company in writing.
+7. CUSTOMER’S OBLIGATIONS
+7.1. Prior to the provision of the quotation you may have supplied or shall provide to the Company any information required by the Company to enable the delivery of the Services under the Contract.
+7.2. You acknowledge that you are solely responsible for providing the information required under Clause 7.1 and that the Company shall rely on such information in determining and selecting the appropriate Services for you.
+7.3. You confirm that the information you provide as required under Clause 7.1 and any further information supplied by you and/or your representative to the Company under the Contract is complete and accurate in all respects.
+7.4. You shall:
+7.4.1. co-operate with the Company in all matters relating to the Services including providing without charge and within a reasonable time, all relevant data and information in your possession to enable the Company and where applicable the developer to supply the Content and perform the Services;
+7.4.2. You are responsible for all activity occurring under your User accounts and shall abide by all applicable local, national and foreign laws, treaties and regulations in connection with your use of the Service, including those related to data privacy, international communications and the transmission of technical or personal data. You and/or your Users shall:
+notify The Company immediately of any unauthorised use of any password or account or any other known or suspected breach of security;
+report to The Company immediately and use reasonable efforts to stop immediately any copying or distribution of Content that is known or suspected by you or your Users; and
+not impersonate another Company user or provide false identity information to gain access to or use the Service.
+7.5. The Company does not own any data, information or material that you submit to the Service in the course of using the Service (”Customer Data”). You, not The Company, shall have sole responsibility for the accuracy, quality, integrity, legality, reliability, appropriateness, and intellectual property ownership or right to use of all Customer Data, and The Company shall not be responsible or liable for the deletion, correction, destruction, damage, loss or failure to store any Customer Data. In the event the Contract is terminated (other than by reason of your breach), The Company will make available to you a file of the Customer Data within 30 days of termination if you so request at the time of termination. The Company reserves the right to withhold, remove and/or discard Customer Data without notice for any breach, including, without limitation, your non-payment. Upon termination for cause, your right to access or use Customer Data immediately ceases, and The Company shall have no obligation to maintain or forward any Customer Data.
+7.7. Any costs, claims or charges incurred by the Company under this Clause shall be reimbursed to the Company;
+8. PRICES
+8.1. Unless otherwise agreed by the Company in writing all prices shall be as stated in the Company’s quotation, acknowledgement of order or Project Specification Document as the case may be.
+8.2. All quotations, tenders and estimates are based on current prices and are subject to amendment, on or after acceptance by the Company. The Company reserves the right, by giving notice to you at any time before delivery, to increase the price of the Goods or the Services as has not been delivered or provided to reflect:
+8.2.1. any increase in the cost to the Company which is due to any factor beyond the control of the Company (including any foreign exchange fluctuation, currency regulation, alteration of duties, change in legislation, significant increase in the costs of labour, materials or other costs of manufacture);
+8.2.2. any change in delivery dates, quantities or Specifications which is requested by you; or
+8.2.3. any delay caused by your instructions or your failure to give the Company adequate information or instructions.
+8.3. In the event that the Company is required to provide the Services outside normal working hours or delivery of the Goods or provision of the Services is delayed or disrupted by you which incurs additional costs of such overtime, delay or disruption then you shall pay any additional costs incurred by the Company on a time spent basis at the Company’s then current daily rate or as the case may be pro rata amount.
+9. WEB-BASED LICENSE
+9.1. the Company grants to the Client, Client Users and the Client accepts a limited, non-transferable, nonexclusive license and right to access the Platform and associated Services via the Internet and use the Platform and Services as detailed in the User Documentation and as authorized in these Terms and Conditions, for its own purpose and operations, during the Contract Term.
+9.2. Client acknowledges that its access and use of the Platform will be web-based only.
+9.3. The Platform will be hosted by the Company and accessed and used by the User through the use of the Internet and Clients computers.
+9.4. All Users must accept the terms of the Company’s EULA and acknowledge thus when first accessing the Platform.
+10. PAYMENT
+10.1. Payment of the Subscriptions for the Services is due within 30 working days of the date of invoice or as otherwise specified in the Contract.
+10.2. No payment shall be deemed to have been received until the Company has received cleared funds.
+10.3. If you fail to pay the Company any sum due then unless such sum is disputed by you, you may be liable to pay interest to the Company on such sum from the due date for payment at the annual rate of 4% above the ECB interest rates or 1% per month, whichever is the greatest.
+10.4. Time for payment of the price shall be of the essence of the Contract. This means that if you fail pay for the Services in the time specified, then unless the Company is in breach the Company is entitled to terminate the Contract
+11. DELIVERY DATE
+11.1. Any dates specified by the Company for delivery of the Content and performance of the Services are intended to be an estimate only and time shall not be of the essence of the performance of the Services. This means that if the Company fails to deliver the Services in the time specified, the Customer is not entitled to terminate the Contract.
+11.2. The Company will do all that it reasonably can do to meet any date given for performance of the Services. If no dates are so specified, delivery shall be within a reasonable time of acceptance of the Order. The Company cannot be held responsible for delays in delivery due to circumstances beyond its control. In this case the Company will deliver the Service as soon as reasonably possible.
+11.3. The Company reserves the right to make partial deliveries.
+11.4. You must notify the Company as soon as reasonably possible following delivery of the Services of any shortcomings failing which the Company is discharged from any liability.
+12. ACCESSIBILITY
+12.1. The Company will make the Platform available for Client’s use during the Contract Term on computer systems and browsers that meet the Company System Recommendations for the Software, published at https://eazysafe.com/requirements/ which Client acknowledges it has reviewed.
+12.2. The Company will provide Client with access to the latest supported version of the Platform via the Internet from the hosting facility that the Company leases from a third-party hosting vendor on a 24×7 basis, except for scheduled system back-up or other on-going maintenance as required and scheduled in advance by the Company.
+12.3. The Company will provide a single administrator user account for administrator access. The Company will also provide this administrator user the necessary tools to create other users for access to the Platform.
+13. MAINTENANCE WINDOWS
+13.1. The Company and/or its hosting vendor(s) may perform system maintenance during the following “Maintenance Windows”, and the Company will announce all planned upgrades and outages in advance as follows:
+“Security Maintenance Window” – Nightly between 10 p.m. and 1 a.m. CET with twelve (12) hours advance notice for application of frequently distributed security updates as provided by operating system, network, and firewall vendors,
+“System Maintenance Window” – Sunday mornings between 10 p.m. and 2 a.m. CET with seventy-two (72) hours advance notice,
+“Upgrade Window” – Sunday morning between 10 p.m. and 1:00 a.m. CET with fifteen (15) days advance notice.
+13.2. Maintenance Windows start and end times specified herein may be amended to within two hours, with the same duration, provided the Company has given thirty (30) days advance notice to Client. Notifications of planned system maintenance shall be delivered to Client’s Primary Contact via electronic mail.
+13.3. Client understands and agrees that there may be instances where the Company needs to interrupt access to the Software without notice in order to protect the integrity of the Software or Services due to security issues, virus attacks, spam issues or other unforeseen circumstances.
+14. AVAILABILITY
+14.1. The Company will endeavour to provide constant “availability” to the Software during the Contract Term.
+14.2. For purposes of these Terms and Conditions, “availability” exists unless the Software is not accessible to Client due to
+a hardware failure of the server at the Hosting Site, or
+a connection failure between the server hosting the Software and the closest Internet router, in each case excluding Maintenance Windows defined above. Software bugs, errors or other problems are not relevant to availability.
+14.3. Services may be subject to limitations, delays and other problems inherent in the use of the internet and electronic communications. The Company is not responsible for any delays, delivery failures, or other damage resulting from such problems.
+15. SOFTWARE MODIFICATIONS
+15.1. Client shall not make any modifications to the Software. Any modifications that Client makes to the Software will void any warranty obligations contained in these Terms and Conditions.
+16. WARRANTY
+16.1. The Company warrants that except as otherwise provided in this Clause 16, that it will provide the Services with all due care, skill and diligence, in accordance with good industry practice.
+16.2. You acknowledge that:
+16.2.1. the Services have not been developed to meet your individual requirements and that it is therefore your responsibility to ensure that the facilities and functions of the Services meet your requirements;
+16.2.2. due to the nature of the Services the Customer should be competent in the operation of the Services and should undergo a suitable period of familiarisation with the Platform including without limitation adhering to any user manuals or other Documentation which accompanied the Platform on delivery or as is otherwise available from the Company.
+16.3. The Company shall not be liable for a breach of the warranty in Clauses 16.1 and 16.2 if:
+16.3.1. the breach arises because you failed to follow the user manual or other Documentation available from the Company or the Company’s oral or written instructions as to the use of the Platform;
+16.3.2. the breach is caused by improper use of the Platform or use outside its normal application; or
+16.3.3. you alter the Content without the prior written consent of the Company.
+16.4. NOTHING IN THESE TERMS SHALL AFFECT THE CUSTOMER’S STATUTORY RIGHTS.
+17. TERMINATION
+17.1. The Contract may be cancelled at any time by either party giving to the other not less than one month notice in writing.
+17.2. Either party may terminate the Contract at any time by written notice if the other party commits a material breach of any term of the Contract and (if such breach is remediable) fails to remedy that breach within a period of 14 days after being notified in writing to do so.
+17.3. The Company may terminate the Contract if the Customer, being an individual, is the subject of a bankruptcy petition or order.
+17.4. The following Clauses shall continue after termination of these Terms – Clauses 6, 10, 14, 15, 16, 18, 19, 22, 24, 27, 28, 29, 30 and 31 inclusive.
+18. LIMITATION OF LIABILITY – THE CUSTOMER’S ATTENTION IS PARTICULARLY DRAWN TO THIS CLAUSE
+18.1. The following provisions set out the entire financial liability of the Company (including any liability for the acts or omissions of its employees, agents and sub-contractors) to the Customer in respect of:
+18.1.1. any breach of the Contract; and
+18.1.2. any representation, statement or tortious act or omission (including negligence) arising out of or in connection with the Contract.
+18.2. Nothing in these Terms excludes or limits the liability of the Company:
+18.2.1. for death or personal injury caused by the Company’s wilful negligence; or
+18.2.2. for fraud or fraudulent misrepresentation.
+18.3. The Company accepts responsibility under these Terms for its commitment to you. The Company accepts its liability to you for loss or damage sustained by you as a result of the wilful negligence of the Company or its employees.
+18.4. If either you or the Company is in breach of the Contract, neither you nor the Company will be responsible for any losses that the other suffers as a result, except those losses which are a foreseeable consequence of the breach.
+18.5. Subject to Clause 18.2, the Company shall not be liable to You or any third party for any loss or damage to or costs in respect of: (a) Loss of profit, anticipated profits, revenues or anticipated savings, goodwill or business opportunity, or; (b) Loss of data, or; (c) Indirect or consequential loss or damage; regardless of whether any of the matters listed in (a), (b), and (c) above are foreseeable, known, foreseen or otherwise. In addition the Company will not be responsible for any injury, illness, death, loss, damage, expense, cost or other sum or claim of any description whatsoever which results from any of the following:
+18.5.1. the act(s) and/or omission(s) of the person(s) affected; or
+18.5.2. the act(s) and/or omission(s) of a third party not connected with the provision of the Services which were unforeseeable or unavoidable; or
+18.5.3. non-performance or improper performance of the Services which were unforeseeable or unavoidable.
+18.6. Please note that the Company cannot accept any liability for any damage, loss, expense or other sum(s) of any description:
+18.6.1. which on the basis of the information given to the Company by you concerning the Services prior to the Company accepting the Order, the Company could not have foreseen you would suffer or incur if the Company breached the Contract with you; or
+18.6.2. which did not result from any breach of contract or other fault by the Company or its employees. Additionally the Company cannot accept liability for any business or consequential losses;
+18.6.3. in circumstances where there is no breach of a legal duty of care owed to you by the Company or by any of its employees or agents; or
+18.6.4. where such loss or damage is not a reasonably foreseeable result of any such breach.
+18.7. The Company accepts no liability for failure of the Services to attain any suggested or indicative performance figures provided to you by the Company (if any) unless otherwise expressly agreed or guaranteed in writing by the Company.
+18.8. Subject to Clause 18.2, the Company’s total liability in contract, tort (including negligence or breach of statutory duty), misrepresentation, restitution or otherwise, arising in connection with the performance or contemplated performance of the Contract shall be limited to 1.5 times of the aggregate price paid by you in accordance with the Contract during the twelve months preceding the date acknowledged by the Company as being the date of the event giving rise to any liability.
+19. COPYRIGHT, PATENTS, TRADE MARKS AND OTHER INTELLECTUAL PROPERTY RIGHTS
+19.1. You acknowledge that all Intellectual Property Rights created, subsisting or used in or in connection with the Services including all Documentation and manuals applicable to the Services shall remain the sole property of the Company or (as the case may be) third party rights owner. For the avoidance of doubt, you shall not during or at any time after the completion, expiry or termination of the Contract in any way question or dispute such ownership thereof by the Company or third party.
+19.2. In the event that new inventions, designs or processes evolve or are generated in the performance of or as a result of the Contract you acknowledge that the same shall be the property of the Company.
+19.3. In relation to the Services nothing contained in these Terms shall be construed as an assignment of any Intellectual Property Rights in the Services or user manuals or as granting the Customer any rights in any development or enhancement of the Services; and
+19.4. You warrant to the Company that the Customer Materials, and their use by the Company in accordance with the terms of the Contract, will not infringe any person’s Intellectual Property Rights or other legal rights; or give rise to any cause of action against the Company or the Customer or any third party.
+20. ASSIGNMENT
+20.1. You shall not, without the prior written consent of the Company (such consent not to be unreasonably withheld), assign, transfer, charge, sub-contract or deal in any other manner with all or any of the rights or obligations under the Contract.
+20.2. The Company may at any time assign, transfer, charge, sub-contract or deal in any other manner with all or any of its rights or obligations under the Contract.
+21. FORCE MAJEURE
+21.1. Except where otherwise expressly stated in these Terms, the Company shall not be liable and shall not be liable to pay any compensation to you where the performance or prompt performance of its obligations under the Contract are prevented or affected by circumstances beyond the Company’s reasonable control, such circumstances to include acts of God, governmental act, war or threat of war, riot, actual or threatened terrorist activity, fire, flood, explosion or civil commotion, industrial dispute, natural or nuclear disaster, adverse weather conditions and all similar events outside the Company’s control.
+22. CONFIDENTIALITY
+22.1. The Customer shall keep in strict confidence all technical or commercial know-how, specifications, inventions, processes or initiatives which are of a confidential nature and have been disclosed to the Customer by the Company, its employees, agents, consultants or subcontractors and any other confidential information concerning the Company’s business or its products which the Customer may obtain.
+23. NOTICES
+23.1. Any notice required to be given by either party to the other shall be in writing and delivered by hand, first class post or fax and addressed to the recipient at the address set out in the Order or such address or fax number as either party may specify to the other.
+23.2. A notice delivered by hand is deemed to have been received when delivered (or, if delivery is not in business hours, 9.00 am on the first business day following delivery). A correctly addressed notice sent by pre-paid first-class post or recorded delivery post shall be deemed to have been received at the time at which it would have been delivered in the normal course of post. Notices by fax shall be deemed to have been received at the time of transmission.
+24. ENTIRE AGREEMENT
+24.1. It is acknowledged and agreed that these Terms (including the documents and instruments referred to herein) (“the Documents”) shall supersede all prior representations arrangements understandings and agreements between the parties relating to the subject matter hereof and shall constitute the entire complete and exclusive agreement and understanding between the parties hereto;
+24.2. The parties irrevocably and unconditionally waive any right they may have to claim damages for any misrepresentation arrangement understanding or agreement not contained in the Documents or for any breach of any representation not contained in the Documents (unless such misrepresentation or representation was made fraudulently);
+24.3. It is further acknowledged and agreed that no representations arrangements understandings or agreements (whether written or oral) made by or on behalf of any of the other parties have been relied upon other than those expressly set out or referred to in the Documents.
+25. WAIVER
+25.1. Failure or delay by the Company in enforcing or partially enforcing any provision of the Contract will not be construed as a waiver of any of its rights under the Contract.
+26. SEVERANCE
+26.1. If any provisions of these Terms (or part of a provision) are found by any court or administrative body to be invalid, unenforceable or illegal, the other provisions shall remain in force.
+27. THIRD PARTY RIGHTS
+27.1. A person who is not a party to the Contract shall not have any rights under or in connection with it.
+28. GOVERNING LAW AND JURISDICTION
+28.1. These Terms will be governed by Irish law and any disputes will be dealt with by the Irish Courts.
+28.2. If however you entered into the Contract in Scotland or Northern Ireland any disputes may be dealt with in the local courts in Scotland or Northern Ireland and will be subject to the law of those countries.
+29. INDEPENDENT CONTRACTOR STATUS
+29.1. THE COMPANY performs the Services as an independent contractor, not as an employee of Client. Nothing in these Terms and Conditions is intended to construe the existence of a partnership, joint venture, or agency relationship between Client and THE COMPANY.
+30. AUDIT RIGHTS
+30.1. The Company shall have the right to audit Client’s use of the Software and compliance with these Terms and Conditions at Client’s premises from time to time in the Company’s sole discretion.
+30.2. Client agrees to permit the Company to have access to its facilities and personnel during normal business hours for the purpose of conducting such audits. In the event such audit reveals Client is exceeding the scope of use permitted by these Terms and Conditions, then Client shall pay the Company’s additional fees for such use (at the then-current list price) and reimburse the Company for the costs of the audit.
+31. ARBITRATION
+31.1. Subject to the agreement of the parties, if any dispute or difference shall arise between the Company and the Customer on any matter relating to or arising out of the Agreement, such a dispute shall be referred to the arbitration of a single Arbitrator to be agreed upon by the parties or failing agreement to be appointed by the then President of the Law Society of Ireland.
+https://eazysafe.com/terms-conditions/

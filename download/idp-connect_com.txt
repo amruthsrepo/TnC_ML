@@ -1,0 +1,20 @@
+Content is all text, information, data, images, audio or video material in whatever medium or form provided by the Advertiser to IDP Connect or IDP Connect obtains from the Advertiser’s website or prospectus for incorporation in the Website;
+Contract is the Order and these terms and conditions;
+Cost per Application/Enrolment or CPA is the price charged to the Advertiser for:
+(a) each application; and
+(b) for each enrolment
+in either case received by the Advertiser as agreed by the Parties on the Order;
+Cost per Enquiry Model or CPEM is the price charged to the Advertiser for each web click by a user, for each email received by IDP Connect from a user, or other interaction agreed by the Parties on the Order;
+CPA Budget is the total fees for CPA as set out in the Order, which is reduced according to the contracted price for each application or enrolment delivered until the CPA Budget is exhausted;
+CPEM Budget is the total fees for CPEM as set out in the Order, which is reduced according to the contracted price for each click and/or email delivered, and/or each other agreed interaction until the CPEM Budget is exhausted;
+Fees are the fees payable in respect of the Services specified on the Order;
+Go Live Date is the date on which the Advertiser’s advertisement will go live, as specified in the Order or, if the Order does not specify such date, the date falling 30 days after the formation of the Contract in accordance with clause 2 below;
+Enrolment Matching Tool or EMT is the enrolment matching tool the Advertiser runs at the end of the Contract to determine the total number of applications or enrolments the Advertiser received via the Website;
+Learning Provider means educational institutions that provide learning programmes (including bachelors’ degrees, foundation degrees, and higher national diplomas) and postgraduate programmes (including masters’ degrees, master of business administrations, PhDs and doctorates);
+Intellectual Property Rights are all intellectual property rights wherever in the world arising, whether registered or unregistered (and including any application), including copyright, know-how, confidential information, trade secrets, business names and domain names, trade marks, service marks, patents, petty patents, utility models, design rights, semi-conductor topography rights, database rights and all rights in the nature of unfair competition rights or rights to sue for passing off;
+IDP Connect is IDP Connect Ltd (a company incorporated in England and Wales with registered number 02471319 and with its registered office at First Floor Bedford House, 69-79 Fulham High Street, London, SW6 3JW;
+Order is IDP Connect’s advertising order form or order email for the Services or, in respect of the provision of video, the video order summary agreed between the Parties;
+Party means each of the Advertiser and IDP Connect and together the Advertiser and IDP Connect are the Parties;
+Services: means the services set out in the Order to be supplied by IDP Connect to the Advertiser;
+Website: any websites under the control of IDP Connect and/or any third party websites on which IDP Connect places advertising profiles of the Advertiser (or any of IDP Connect’s advertisers).
+https://www.idp-connect.com/terms_conditions_client/

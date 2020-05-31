@@ -1,0 +1,8 @@
+Personal Information
+Contact Person
+The password must consist of at least 8 characters, upper/lower case characters and at least one number.
+Please enter your Siegwerk contact person. This helps us to speed up processing your registration request.
+Customer Number *
+Please enter a valid Siegwerk customer number.
+Please enter at least one valid Siegwerk customer number.
+https://www.siegwerk.com/en/terms-and-conditions.html

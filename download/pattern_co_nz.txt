@@ -1,0 +1,165 @@
+Terms and conditions
+1. INTRODUCTION
+1.1 Terms of Service: These terms of service (Terms) record the terms and conditions on which Pattern Limited, a company incorporated in New Zealand (New Zealand company number 1754517) (Pattern), will provide software design, development, maintenance and/or consulting services and/or deliverables (as described in the Statement of Work) to the Customer.
+1.2 Binding Agreement: These Terms, together with the Statement of Work, constitute a legally binding agreement between Pattern and the Customer (Agreement).
+2. DEFINITIONS AND INTERPRETATION
+2.1 Definitions: In these Terms, unless the context indicates otherwise:
+Acceptance Certificate means, in respect of any Deliverable(s), a written notice given, or deemed to have been given, under clause 4, by the Customer to Pattern, recording that the Acceptance Criteria for the Deliverable(s) have been met;
+Acceptance Criteria means, in respect of any Deliverable(s), the criteria for the Deliverable(s) set out in the Statement of Work or Acceptance Test Plan;
+Acceptance Test Plan means, in respect of any Deliverable(s), the acceptance test plan for the Deliverable(s) set out in the Statement of Work or, where no such acceptance test plan is set out in the Statement of Work, the acceptance test plan prepared by Pattern and approved by the Customer in writing;
+Acceptance Tests means, in respect of any Deliverable(s), the acceptance tests for the Deliverable(s) described in the Statement of Work or Acceptance Test Plan;
+Bill Rate means, in respect of any day of a month, the average 90 day bank bill yield as published in the series B2 – Wholesale Interest Rates on the Reserve Bank of New Zealand website (or any successor page displaying substantially the same information) on the first Business Day of the month in respect of which the rate is to be calculated;
+Business Day means any day excluding a Saturday or Sunday or a statutory public holiday in Auckland, New Zealand; Commencement Date means the commencement date specified in the Statement of Work;
+Confidential Information means any information: (a) relating directly or indirectly to research or development by, accounting for or the marketing of the business of either party or its suppliers or customers; (b) disclosed by either party to the other party on the express basis that such information is confidential; or (c) which might reasonably be expected by either party to be confidential in nature;
+Customer means the person named as the customer in the Statement of Work; Default Rate means the Bill Rate plus 5% per annum;
+Deliverable means any solution, software, design, report, document or other deliverable, material or output provided, or required to be provided, by Pattern to the Customer, as described in the Statement of Work;
+Disbursements has the meaning given to that term in clause 5.2;
+Good Industry Practice means, in relation to any activity, the exercise of degree of skill, diligence, prudence and foresight which would reasonably and ordinarily be expected from a skilled and experienced person engaged in New Zealand in the same type of activity, under the same or similar circumstances;
+GST means goods and services tax under the GST Act, at the rate prevailing at the relevant time; GST Act means the Goods and Services Tax Act 1985;
+Intellectual Property means trade marks, rights in domain names, copyright, patents, registered designs, circuit layouts, rights in computer software, databases and lists, rights in inventions, confidential information, know-how and trade secrets, and operating manuals and training manuals;
+Loss means any loss, damage, cost or expense;
+Project Plan means any project plan set out in the Statement of Work, or prepared by Pattern under the Statement of Work and approved by the Customer in writing;
+Related Company has the meaning given to that term in section 2(3) of the Companies Act 1993, provided that a reference to company in that section will refer to any company or body corporate, notwithstanding the jurisdiction of incorporation or establishment of the relevant company or body corporate;
+Service Fees means the fees or charges payable by the Customer to Pattern for the provision of the Terms of Service 2 Services and Deliverables, as set out in the Statement of Work;
+Services means the services provided, or required to be provided, by Pattern to the Customer, as described in the Statement of Work;
+Statement of Work means the statement of work entered into by the parties which references, and provides that it is governed by, these Terms;
+Term means the period from the Commencement Date to the date of termination of the Agreement; and
+Third Party Intellectual Property has the meaning given to that term in clause 6.4.
+2.2 Interpretation: In these Terms, unless the context indicates otherwise:
+(a) clause and other headings are for ease of reference only and will not affect these Terms' interpretation;
+(b) references to a party are to Pattern or the Customer (as the context requires), and include a party's successors and permitted assignees;
+(c) references to a person include an individual, company, corporation, partnership, firm, joint venture, association, trust, unincorporated body of persons, governmental or other regulatory body, authority or entity, in each case whether or not having a separate legal identity;
+(d) references to any statutory provision are to statutory provisions in force in New Zealand and include any statutory provision which amends or replaces it, and any by-law, regulation, order, statutory instrument, determination or subordinate legislation made under it;
+(e) all monetary amounts are stated exclusive of GST and in New Zealand currency, and all amounts payable by a party under the Agreement are to be paid in that currency. GST is payable at the same time and in the same manner as is any other amount payable under the Agreement, where that amount is subject to GST under the GST Act;
+(f) the term includes or including (or any similar expression) is deemed to be followed by the words "without limitation";
+(g) references to any document (however described) are references to that document as modified, novated, supplemented, varied or replaced from time to time and in any form, whether on paper or in an electronic form; and
+(h) if there is any inconsistency between these Terms and the Statement of Work, these Terms will take precedence (provided that any express variation to these Terms in the Statement of Work will not be considered an inconsistency).
+3. PROVISION OF SERVICES AND DELIVERABLES
+3.1 Pattern to Provide: Pattern must provide the Services and Deliverables to the Customer in accordance with the terms of the Agreement (including the Statement of Work).
+3.2 Performance Requirements: Pattern will:
+(a) provide the Services and Deliverables in accordance with Good Industry Practice;
+(b) comply with the time frames and other requirements, and perform the tasks, set out in the Agreement (including the Statement of Work and Project Plan) which are applicable to Pattern;
+(c) comply with all laws applicable to its performance of the Services and Deliverables; and
+(d) ensure all of its personnel are properly educated, trained, experienced and fully qualified for the Services and/or Deliverables they perform or provide.
+3.3 Customer Obligations: The Customer will:
+(a) comply with the time frames and other requirements (including for the provision of resources and performance of tasks) set out in the Agreement (including the Statement of Work and Project Plan) which are applicable to the Customer; and
+(b) provide Pattern:
+(i) with access to the Customer's premises and facilities; and
+(ii) all information, instructions and assistance, as and when reasonably required by Pattern to enable Pattern to provide the Services and Deliverables in accordance with the Agreement.
+4. ACCEPTANCE TESTING
+4.1 Applicability of Acceptance Tests: This clause 4 will only apply to those Deliverables that the parties have agreed in the Statement of Work will be subject to an acceptance testing process.
+4.2 Acceptance Test Plan: Each party will comply with its obligations set out in the Acceptance Test Plan. Where no acceptance test plan is set out in the Statement of Work, Pattern will prepare, and submit to the Customer for approval (such approval not to be unreasonably withheld or delayed), a draft Acceptance Test Plan.
+4.3 Initial Testing: Pattern will test the relevant Deliverable(s), in the manner described in the Acceptance Test Plan, to determine whether or not the Acceptance Criteria for the Deliverable(s) have been met.
+4.4 Testing Handover Notice: Pattern will, upon successful completion of the testing described in clause 4.3, issue to the Customer a written notice (Testing Handover Notice) confirming that the Acceptance Criteria for the relevant Deliverable(s) are met.
+4.5 Acceptance Tests: The Customer will, within 10 Business Days (or such other timeframe as specified in the Acceptance Test Plan or Project Plan) following receipt by the Customer of the Testing Handover Notice, conduct the Acceptance Tests for the relevant Deliverable(s) in accordance with the Acceptance Test Plan. Pattern will provide such assistance as is reasonably required by the Customer in relation to the Acceptance Tests.
+4.6 Completion of Tests: If the Acceptance Tests:
+(a) demonstrate that the Acceptance Criteria for the relevant Deliverable(s) have been met, the Customer must, within 5 Business Days after completion of the relevant Acceptance Tests, provide to Pattern an Acceptance Certificate for the Deliverable(s); or
+(b) do not demonstrate that the Acceptance Criteria for the relevant Deliverable(s) have been met, the Customer will notify Pattern in writing of such failure within 5 Business Days of completion of the relevant Acceptance Tests, and Pattern will use reasonable endeavours to remedy, as soon as reasonably possible, any relevant failures or deficiencies so that the Acceptance Criteria are met.
+4.7 Repeat Acceptance Tests: Pattern will notify the Customer in writing when it has completed the remedial work under clause 4.6(b) and the Customer will, promptly after receipt of such notification, repeat the Acceptance Tests in accordance clause 4.5.
+4.8 Continued Acceptance Tests: The process set out in clauses 4.6(b) and 4.7 may, at the request of the Customer, be repeated until the Acceptance Tests demonstrate that the Acceptance Criteria for the relevant Deliverable(s) have been met.
+4.9 Deemed Acceptance: The Customer will be deemed to have accepted the relevant Deliverable(s), and to have issued to Pattern an Acceptance Certificate in respect of the Deliverable(s), if the Customer:
+(a) fails to conduct the Acceptance Tests for the relevant Deliverable(s), in accordance with the Acceptance Test Plan, within the timeframe required by clause 4.5;
+(b) fails to provide written notice under either clause 4.6 or 4.6(b) within the timeframe required by those clauses; or
+(c) uses the Deliverable(s) in a live operating environment or otherwise in the conduct of its business.
+5. FINANCIAL
+5.1 Service Fees: The Customer will pay Pattern the Service Fees for the provision of the Services and the Deliverables.
+5.2 Disbursements: In addition to the Service Fees, the Customer will reimburse Pattern for the types of disbursements specified in the Statement of Work, to the extent to which these are reasonably incurred by Pattern in providing the Services and Deliverables (Disbursements).
+5.3 Invoicing: Pattern will invoice the Customer for the Service Fees and Disbursements at the times and in manner provided for in the Statement of Work or, to the extent that the Statement of Work does not specify this, weekly in arrears.
+5.4 Payment: Subject to any express provision to the contrary in the Statement of Work, the Customer must pay each invoice for Services and/or Deliverables provided under the Agreement on or before the 20th day of the month following the month in which those Services and/or Deliverables were provided.
+5.5 Disputed Invoices: If the Customer disputes any portion of any amount appearing as payable on an invoice issued by Pattern to the Customer under the Agreement:
+(a) the Customer will notify Pattern of such dispute at the earliest reasonable opportunity;
+(b) the undisputed portion of the invoice will remain payable on the due date for payment; and
+(c) the Customer will not be obliged to pay the disputed portion of the invoice until the dispute has been resolved by agreement between the parties, or failing agreement, in accordance with clause 11.
+5.6 Default Interest: If any amount falls overdue for payment under the Agreement, the overdue amount will bear default interest from the date on which payment of that amount falls overdue until the date on which payment of the overdue amount is made in full. Default interest will accrue and be calculated on a daily basis (after as well as before judgment) at the Default Rate and will be compounded monthly.
+5.7 Gross Up: If the Customer is required by law to make any deduction or withholding from any amount paid or payable by it under the Agreement, the amount payable by the Customer relating to which the deduction or withholding is required to be made will be increased to the extent necessary to ensure that, after the making of the deduction or withholding, Pattern receives and keeps (free from any liability for any deduction, withholding or payment) a net amount equal to the amount which it would have received and Terms of Service 4 retained if the deduction or withholding had not been made.
+6. INTELLECTUAL PROPERTY
+6.1 Ownership of Intellectual Property: Unless otherwise agreed in writing between the parties:
+(a) all Intellectual Property of a party or its licensors that is not developed, commissioned or created under the Agreement, but is used for the purposes of the Agreement, (Background Intellectual Property) will be owned by that party or its licensors;
+(b) all Intellectual Property in any modifications, adaptations and additions to Background Intellectual Property that are developed, commissioned or created under or in connection with the Agreement will be owned by the owner of the relevant Background Intellectual Property; and
+(c) subject to clause 6.1(b), all new Intellectual Property that is developed, commissioned or created under or in connection with the Agreement will be owned by the Customer upon creation.
+6.2 Customer Licences for Pattern IP: Subject to clause 6.3, Pattern grants to the Customer a royalty-free, perpetual, non-transferable and non-exclusive licence to use, copy, modify and develop such of Pattern's Intellectual Property as is incorporated in the Deliverables or otherwise supplied by Pattern to the Customer under the Agreement, for the internal business and operational purposes of the Customer.
+6.3 Customer Licence Restrictions: The Customer must not, without Pattern's prior written consent:
+(a) use any of Pattern's Intellectual Property to provide software design, development, maintenance and/or consulting services to a third party;
+(b) sub-license, lease, rent or distribute any of Pattern's Intellectual Property; or
+(c) reverse engineer or decompile the whole or any part of any software in respect of which Pattern owns the relevant Intellectual Property rights.
+6.4 Customer Licence for Third Party IP: Where Pattern provides a Deliverable incorporating, or otherwise supplies, any Intellectual Property owned by a third party (Third Party Intellectual Property) to the Customer under the Agreement, Pattern will license, or will procure for the Customer a licence, to use such Third Party Intellectual Property on such terms as are specified in the Statement of Work or otherwise by Pattern in writing.
+6.5 Pattern Licences for Customer IP: The Customer grants to Pattern and its subcontractors a royalty-free, non-transferable and non-exclusive licence to use, during the Term, such of the Customer's Intellectual Property as is necessary to provide the Services and Deliverables to the Customer.
+6.6 Residuals: Nothing in these Terms limits Pattern's right to use any ideas, concepts, methodologies, processes and know-how that are used, developed or created in the course of providing the Services and/or Deliverables, provided that such use does not breach any confidentiality obligation owed by Pattern to the Customer.
+7. CONFIDENTIALITY
+7.1 Confidentiality Obligations: Subject to clause 7.2, each party will maintain as confidential at all times, and will not at any time, directly or indirectly:
+(a) disclose or permit to be disclosed to any person; or
+(b) use for itself, or to the detriment of the other party; any Confidential Information except:
+(c) as required by law or by the listing rules of any relevant stock exchange;
+(d) as is already or becomes public knowledge, otherwise than as a result of a breach, by the party disclosing or using that Confidential Information, of any provision of the Agreement;
+(e) as authorised in writing by the other party;
+(f) to the extent reasonably required by the Agreement (and, without limiting the effect of this clause, a party may disclose Confidential Information only to those of its officers, employees or professional advisers, on a "need to know" basis, as is reasonably required for the implementation of the Agreement); or
+(g) to the extent to which that party, or any shareholder in that party, wishes to enable a prospective investor in, or purchaser of, that party or that party's interests in the Agreement, to conduct due diligence investigations in relation to that party or those interests (provided that the party wishing to disclose Confidential Information in these circumstances must, before doing so, ensure that the person to whom such disclosure will be made enters into a written and legally enforceable undertaking to maintain strict confidentiality in respect of the Confidential Information which is disclosed to it, and to use that Confidential Information only for the purposes of the due diligence investigations referred to in this clause).
+7.2 Own Confidential Information: Nothing in the Agreement will require a party to maintain confidentiality in respect of, or restrict that party's disclosure or use of, any Confidential Information relating exclusively to that party.
+7.3 Announcements: Without limiting the effect of clause 7.1, unless required by law or by the listing rules of any relevant stock exchange, neither party will make any announcements or disclosures as to the subject matter of the Agreement, except in a form and manner, and at a time, previously approved in writing by the other party (such approval not to be unreasonably or arbitrarily withheld). If a party is so required to make any such announcement or disclosure as to the subject matter of the Agreement, that party must first give notice of the requirement to the other party, must consult with the other party and must endeavour to agree with the other party on the form of announcement or disclosure to be made.
+8. WARRANTIES
+8.1 Reciprocal Warranty: Each party (First Party) warrants to the other party that it has full power and capacity to execute, deliver, and perform its obligations under, the Agreement.
+8.2 Pattern Warranties: Pattern warrants to the Customer that:
+(a) the Deliverables provided by Pattern will, as at the time they are provided to the Customer, meet the applicable specifications and requirements set out in the Statement of Work; and
+(b) to the best knowledge and belief of Pattern, the Customer's use of any Intellectual Property (excluding Third Party Intellectual Property) supplied by Pattern to the Customer under the Agreement will not infringe any New Zealand patents or copyright, provided such use is strictly in accordance with any applicable licence terms set out or referred to in clause 6 or the Statement of Work.
+9. LIABILITY
+9.1 Exclusions: A party (First Party) will not be liable to the other party (Second Party) under or in connection with the Agreement (whether in contract, tort or otherwise) in respect of any:
+(a) indirect, consequential or special Loss suffered or incurred by the Second Party as a direct or indirect result of a breach by the First Party of any of its obligations under the Agreement;
+(b) loss of profit, revenue, opportunity or goodwill, in each case whether direct, indirect or consequential; or
+(c) Loss suffered or incurred by the Second Party, to the extent to which this results from any act or omission by the Second Party.
+9.2 Limitation of Liability: The maximum aggregate liability of either party to the other party under or in connection with the Agreement (whether in contract, tort or otherwise) is limited to the total Service Fees paid and/or payable by the Customer to Pattern under the Agreement, provided that this limitation of liability will not apply to:
+(a) any Losses arising as a result of a breach by either party of clause 6 or 7; or
+(b) the Customer's obligation to pay the Service Fees and Disbursements in accordance with the Agreement.
+10. TERM AND TERMINATION
+10.1 Term: The Agreement will take effect on the Commencement Date and, unless terminated earlier in accordance with clause 10.2, will remain in effect for the duration of the term specified in the Statement of Work (Term).
+10.2 Termination for Cause: Either party (First Party) may terminate the Agreement at any time and with immediate effect by written notice to the other party (Second Party) if the Second Party:
+(a) has committed a material breach of the Agreement which is not reasonably capable of being remedied by the Second Party within 20 Business Days, or which has not been remedied by the Second Party within 20 Business Days of the Second Party's receipt of an earlier written notice given by the First Party, requiring that the Second Party remedy that breach;
+(b) has gone into liquidation or a voluntary administrator, receiver or statutory manager has been appointed in respect of the Second Party or any material part of its assets, or the Second Party is subject to any analogous event under the laws of any relevant jurisdiction; or
+(c) makes any assignment to, or enters into any arrangement for the benefit of, its creditors generally (other than for the purposes of a solvent restructuring).
+10.3 Consequences of Termination: On termination of the Agreement for any reason:
+(a) the termination will be without prejudice to either party's rights and remedies in respect of any breach of the Agreement by the other party, where the breach occurred before the termination of the Agreement;
+(b) Pattern may invoice the Customer for all Service Fees and Disbursements for the period up to and including the date of termination, and all outstanding invoices will remain payable by the Customer in accordance with clause 5;
+(c) the provisions of clauses 5, 6, 7, 9, 10.3, 11 and 14.11, together with those other provisions of the Agreement which are incidental to, and required in order to give Terms of Service 6 effect to those clauses, will remain in full force and effect; and
+(d) each party must return, destroy or otherwise deal with the other party's Confidential Information and Intellectual Property in accordance with the other party's reasonable directions.
+11. DISPUTES
+11.1 Dispute Notice: A party may, at any time while there is a genuine dispute relating in any way to the Agreement (Dispute), give written notice (Dispute Notice) to the other party specifying the subject matter of the Dispute and requiring that the parties meet in Auckland, New Zealand within 10 Business Days after delivery of the Dispute Notice, to attempt to resolve the Dispute (Dispute Resolution Meeting).
+11.2 Mediation: If the parties fail to resolve the Dispute at the Dispute Resolution Meeting, or if a party fails or refuses to attend the Dispute Resolution Meeting within the 10 Business Day period referred to in clause 11.1, or at the time and venue agreed in writing between the parties, either party may, by written notice to the other party, submit the Dispute to mediation by a single mediator agreed upon in writing by them or (if they are unable to agree on a mediator within 5 Business Days after the submission to mediation) nominated by the President for the time being of the New Zealand Law Society (Mediation/Mediator). In the event of any submission to Mediation:
+(a) the Mediator will not be acting as an expert or as an arbitrator;
+(b) the Mediator will determine the procedure and timetable for the Mediation;
+(c) the Mediation will take place in Auckland, New Zealand; and (d) the parties will share equally the cost of the Mediation.
+11.3 Arbitration: If the parties fail to resolve the Dispute at the Mediation, or if a party fails or refuses to attend the Mediation at the time and venue determined by the Mediator, either party may, by written notice to the other party, submit the Dispute to arbitration (Arbitration). The Arbitration will be conducted in Auckland, New Zealand under the Arbitration Act 1996 (Arbitration Act) and:
+(a) the arbitrator will be the person agreed upon in writing by the parties or, if the parties are unable to agree on an arbitrator within 5 Business Days of the submission to Arbitration under this clause, nominated by the President for the time being of the New Zealand Law Society; and
+(b) the decision of the arbitrator will be final and binding on the parties.
+11.4 Legal Proceedings: No party may issue any legal proceedings (other than for urgent interlocutory relief) relating to any Dispute, unless that party has first taken all reasonable steps to comply with clauses 11.1 to 11.3.
+12. ASSIGNMENT AND SUBCONTRACTING
+12.1 Assignment to Related Company or Purchaser: Either party (First Party) may assign all or any of its rights under the Agreement to:
+(a) any Related Company of the First Party in connection with a solvent group restructuring; or
+(b) any purchaser of all, or a substantial part of, the First Party’s business and assets, (each an Assignee). If the First Party assigns all or any of its rights under the Agreement to an Assignee pursuant to this clause, the First Party must deliver to the other party a deed of covenant, in a form reasonably acceptable to the other party and validly executed by the Assignee, in which the Assignee agrees to be bound by the Agreement, with effect from the date of the assignment, as though it had entered into the Agreement in place of the First Party.
+12.2 No Other Assignment without Consent: Subject to clause 12.1, neither party will assign or otherwise transfer any of its rights or obligations under the Agreement to any other person without the other party's prior written consent.
+12.3 Subcontracting: Pattern may appoint subcontractors to discharge any of Pattern's obligations under the Agreement. Pattern will at all times remain primarily liable to the Customer for all of Pattern’s subcontractors’ acts and omissions.
+13. NON SOLICITATION
+13.1 During the term of this Agreement and for a period of one (1) year after the expiration or termination of this Agreement for any reason, each party hereto (the “Covenanting Party”) agrees that it shall not:
+(a) directly or indirectly induce any customers or clients of the other party to patroniSe the Covenanting Party or any similar business;
+(b) directly or indirectly request or advise any customer or client of the other party to withdraw, curtail, or cancel such customer's or client's business with the other party;
+(c) directly or indirectly disclose to any other person, partnership, corporation or association, the names or addresses of any of the customers or clients of the other party;
+(d) induce or attempt to induce any employee, agent or former employee or agent of the other party to leave the employ of the other party, or hire any such employee, agent or former employee or agent in any business or capacity; or
+(e) make any statement disparaging the other party, any member, principal, officer, director, shareholder, employee or agent thereof, to any person, firm, corporation or other business organisation whatsoever.
+14. NOTICES
+14.1 Method of Delivery: Any written notice required under the Agreement must be signed by a duly authorised representative of the party giving that notice and (without limiting the means by which notice may be given under the Agreement) will be deemed validly given if:
+(a) delivered by hand to the intended recipient's address as set out in the Statement of Work (or such other address as the recipient may nominate, by written notice to the other party, from time to time) ; or
+(b) sent by email to the intended recipient's email address as set out in the Statement of Work (or such other email address as the recipient may nominate, by written notice to the other party, from time to time) and if the recipient acknowledges receipt (whether by way of an automated message or otherwise).
+14.2 Time of Delivery of Notices: Any notice transmitted by email or delivered after 5.00 pm on a Business Day, or at any time on a non-Business Day, will be deemed received at 9.00 am on the next Business Terms of Service 7 Day (being, in each case, the time of day at the intended place of receipt of that notice).
+15. GENERAL
+15.1 Entire Agreement: The Agreement records the entire understanding and agreement of the parties relating to the matters dealt with in the Agreement. The Agreement supersedes all previous understandings or agreements (whether written, oral or both) between the parties relating to these matters.
+15.2 Amendment: No amendment to the Agreement will be valid unless it is in writing and signed by a duly authorised representative of each party.
+15.3 Copies: Any copy of the Statement of Work that is received by facsimile or via email in PDF or other document reproduction format (including any copy of any document evidencing a party's signature to the Statement of Work) may be relied on by any party as though it were an original copy. The Statement of Work may be entered into on the basis of an exchange of such facsimile, PDF or other document reproduction format copies.
+15.4 Counterparts: The Statement of Work may be signed in counterparts. All executed counterparts together will constitute one document.
+15.5 Costs: Unless otherwise stated in the Agreement, each party will bear its own costs and expenses incurred in connection with the negotiation, preparation and implementation of the Agreement.
+15.6 Further Assurances: Each party will do all things and execute all documents reasonably required to give effect to the provisions and intent of the Agreement.
+15.7 Relationship between Parties: Nothing expressed or implied in the Agreement constitutes either party as the partner, agent, employee or officer of, or as a joint venturer with, the other party. Neither party will make any contrary representation to any other person. The relationship of Pattern to the Customer is that of an independent contractor and its customer.
+15.8 Force Majeure: Neither party (First Party) will be liable for any act, omission or failure by the First Party under the Agreement if that act, omission or failure results directly from an event or circumstances beyond the reasonable control of the First Party, provided that:
+(a) whenever the First Party becomes aware that such a result has occurred or is likely to occur, the First Party will notify the other party accordingly; and
+(b) the First Party will continue to use its best endeavours to perform its obligations under the Agreement.
+15.9 Remedies: The rights powers and remedies provided in the Agreement are cumulative and are in addition to any rights, powers or remedies provided by law.
+15.10 Waiver: Any waiver by a party of any of its rights or remedies under the Agreement will be effective only if it is recorded in writing and signed by a duly authorised representative of that party. If the waiver relates to a breach of any provision of the Agreement, this will not (unless stated otherwise) operate as a waiver of any other breach of that provision. No waiver of any breach, or failure to enforce any provision, of the Agreement at any time by either party will in any way affect limit or waive that party's right to subsequently require strict compliance with the Agreement.
+15.11 Governing Law and Jurisdiction: The Agreement is governed by the laws of New Zealand. Subject to clause 11.3, the parties submit to the exclusive jurisdiction of the New Zealand courts in respect of all matters relating to the Agreement (provided that nothing in this clause will prevent an arbitral award or judgment obtained in the New Zealand courts in relation to the Agreement from being enforced in the courts of any other relevant jurisdiction).
+https://www.pattern.co.nz/terms-and-conditions/

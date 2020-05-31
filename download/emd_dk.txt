@@ -1,0 +1,140 @@
+These general terms and conditions shall apply to purchases of software deliveries and services from EMD International A/S:
+Updated November 2018
+1. SCOPE
+1.1 Any software and/or service delivery from EMD International A/S (“EMD”) is subject to these General Terms and Conditions of Sale (“General Conditions”), being binding on all Deliveries between EMD and the Customer.
+1.2 When these General Conditions apply to an agreement, modifications of or deviations from them must be agreed in writing, i.e. signed by the parties, or by letter, fax or electronic mail.
+1.3 The object(s) to be supplied under these General Conditions is (are) hereinafter referred to as the Deliveries.
+2. DEFINITION
+2.1 “Agreement” means the written agreement / signed license agreement / signed quotation or Purchase Order made and entered into between EMD and the Customer as to EMD’s delivery of software and/or services to the Customer, including these General Conditions.
+2.2 “Customer” means the natural or legal person being a party to the Agreement with EMD as to EMD’s delivery of supplies and services (“Deliveries”) to that party based on these General Conditions.
+2.3 “Deliveries” may comprise – but is not limited to:
+1. Delivery of EMD Software including data services and/or third-party software, Customizing, installation and adaptation of EMD Software,
+2. Consulting services,
+3. Software maintenance and support,
+4. Development of individual software, other deliverables in the Agreement
+2.4 “EMD Software” means the software developed by EMD, forming the basis for EMD’s delivery to the Customer.
+2.5 ”EMD Service” means the services defined in the Agreement or in the appendices to the Agreement, to be delivered by EMD to the Customer.
+2.6 ”Price” means the price for the Deliveries agreed under the Agreement and payable by the Customer to EMD.
+3. SUBJECT – MATTER
+3.1 On the execution of the Agreement, the Customer gains access to the Deliveries as described in the Agreement and/or an appendix to the Agreement.
+3.2 EMD reserves the right by giving notice to the Customer at any time before delivery, to increase the price of the Deliveries to reflect any increase in the cost to EMD which is due to any factor beyond the control of EMD (such as, without limitation, any significant increase in the cost of materials, labour, data or other costs of manufacture), any change in delivery dates, quantities or specifications of the Deliveries which is requested by the Customer, or any delay caused by instructions of the Customer or failure of the Customer to give EMD accurate information or instructions.
+3.4 If the time of delivery mentioned in the quotation cannot be kept due to circumstances occurring before acceptance of the quotation, EMD reserves the right to withdraw from the quotation completely or partially.
+4. PRICES
+4.1 The price stated in the Agreement shall constitute full payment for the Deliveries.
+4.2 EMD’s prices and sums payable are net amounts exclusive of, and the Customer is responsible for the payment of, any type of withholding tax, value-added tax, national or local tax and duties (other than EMD’s taxes on income in Denmark). All prices are exclusive of any bank fees or other types of cost related to the transfer of payment from the Customer to EMD.
+4.3 The Customer shall defend, indemnify and hold EMD harmless from any and all claims and tax liabilities associated with any requirement to collect or pay any such taxes and duties based on the Deliveries or any other services granted, including reasonable out-of-pocket expenses in defending any such claim.
+5. TERMS OF PAYMENT
+5.1 Payment for Deliveries is to be made in advance, unless otherwise explicitly stated in the Agreement.
+5.2 If other payment terms than mentioned above have been agreed between EMD and the Customer, payment shall be made net 30 calendar days at the latest from the date of invoice.
+5.3 Any delay in payment will carry an addition of interest of 1.0% for each month entered into as from the due date (such interest being deemed to accrue from day to day and being compounded on the last day of each calendar month) until payment is made. In the event of non-payment, EMD is entitled to claim EMD’s collection charges to a legal counsel fully covered, and thus not only the maximum charges under the Danish Interest Act.
+5.4 In case of late payment EMD may, after having notified the Customer thereof in writing, suspend the Deliveries and performance of the Agreement, and in addition to interest claim compensation vide Clause 5.3 also claim the Costumer for any loss EMD has suffered.
+5.5 Whatever the means of payment used, payment shall not be deemed to have been effected before EMD’s account has been fully and irrevocably credited.
+5.6 The de facto payment of EMD’s charges and fees is a prerequisite for the Customer’s right to use the Deliveries, cf. Clauses 6.1.1 and 10.1.
+6. INTELLECTUAL PROPERTY RIGHTS
+6.1 Rights Granted
+6.1.1 EMD holds the title of all intellectual property rights in the EMD Software. Subject to the terms and conditions of the Agreement, EMD grants to the Customer a limited, non-exclusive, non-transferable, right to use the EMD Software solely for the Customer’s own internal business purposes according to the Agreement.
+6.1.2 Notwithstanding the use of the term “purchase” in the Agreement, these General Conditions or elsewhere, EMD retains all title, copyrights, trade secrets, patents, trademarks and other proprietary rights in the EMD Software and all modifications, enhancements, and other works deriving from the EMD Software even when such software has been produced specifically for the Customer.
+6.1.3 The Customer is unauthorised to copy the EMD Software. The Customer may not, either directly or through any third party, transfer or sublicense the EMD Software or use the EMD Software in any manner in business operations for the creation of competitive software or services or for providing third party training, commercial timesharing, for rental or subscription purposes or in the interests of any service bureau or other similar revenue-generating services to third parties, and the Customer shall ensure that the same restricted use applies to any other parties.
+6.2 Third Party Infringement
+6.2.1 EMD shall hold the Customer harmless against any claim from a third party, which is based on infringement of copyright or other intellectual property rights existing at the time of delivery.
+6.2.2 EMD shall not, however, be liable for any claim in respect of infringement which is based on:
+Use of the Deliveries by the Customer in a manner or place which has not been agreed and which EMD should not reasonably have foreseen, or
+Combination of the Deliveries with products or services not provided by EMD, or
+Changes to or modifications of the Deliveries undertaken by the Customer.
+6.2.3 Defence against claims of infringement referred to in Clause 6.2.1 shall be for EMD’s account. EMD shall indemnify the Customer against such amounts as the latter is obliged to pay under a settlement approved by EMD or a final award. EMD shall only be liable, however, if the Customer without undue delay notifies EMD in writing of any claim which he receives and lets EMD decide how the claim shall be dealt with in litigation and out of court negotiations.
+6.2.4 If an infringement of intellectual property rights occurs and the conditions under Clause 6.2.3, second paragraph, are fulfilled, EMD shall, within a reasonable time, at his option:
+Provide for the Customer the right to continue to use the Deliveries,
+Change the Deliveries so that the infringement ceases, or
+Replace the Deliveries with other software with an equivalent function, the use of which does not result in an infringement.
+6.2.5 Except as specified in Clauses 6.2.1 to 6.2.4, EMD shall have no liability towards the Customer for any infringement of third parties’ rights caused by the Customer’s use of the Deliveries. This limitation of EMD’s liability shall, however, not apply if he has been guilty of gross negligence.
+6.2.6 EMD’s liability for infringement shall be limited to a maximum amount of DKK 1,000,000 (one million Danish kroner) per claim and in the aggregate per year.
+6.2.7 The Customer shall indemnify and keep EMD indemnified against all costs, expenses, damages and demands incurred by EMD in respect of:
+Any alleged infringement of the patents, trademarks, copyright, design or other industrial property rights used by EMD at the request of the Customer;
+Any alleged breach or infringement of any statute or regulation concerning the preparation, marketing and distribution of theDeliveries;
+Specifications where EMD relies or has relied upon information relating thereto provided by the Customer, and the breach does not arise from the negligence or default of EMD;
+Any claims arising by reason of or in connection with a defect in the Deliveries or in the end product manufactured and/or supplied by the Customer in which the Deliveries are comprised, which defect is attributable either to the compliance by EMD with the instructions given by the Customer or to the Customer’s design of the end product.
+
+7. PRODUCT INFORMATION
+7.1 EMD Software information and data provided in manuals, data sheets, brochures etc. issued by EMD for technological guidance, use and general information is given in its best judgement and knowledge, and EMD reserves the right to implement changes to such information and to the specification of EMD Software without notice.
+8. DELIVERY
+8.1 The terms of delivery are ex works (EXW) Aalborg, Denmark, in accordance with latest INCOTERMS.
+9. CREDIT APPROVAL
+9.1 Sale of Deliveries to the Customer involving a credit line will require a bank guarantee from the Customer or other alternative security for payment.
+10. RETENTION OF TITLE
+10.1 The Deliveries shall remain the property of EMD until paid for in full.
+10.2 The retention of title shall not affect the passing of risk under Clause 8.
+11. WARRANTIES
+11.1 Software
+11.1.1 EMD Software is provided on an “as is” basis without warranty of any kind. EMD does not warrant, guarantee or make any representations regarding the functionality of the software, any results obtained by the use of the software and any software support provided by EMD and their appointed agencies/distributors/partners in terms of correctness, accuracy, reliability, usefulness, or otherwise. The Customer is solely responsible for the selection of the software, for the installation of, use of, and results obtained from the software and software support received. Also excluded is any implied warranty by EMD, such as merchantability, non-infringement and fitness for a particular purpose.
+11.1.2 If the delivered EMD Software proves to be materially defective (i.e. by materially affecting the ability the Customer to utilise the EMD Software), and if EMD is responsible for such defect, EMD shall remedy the defect within reasonable time (being not less than 7 work days) upon notice from Customer. If defects of minor importance are determined in the EMD Software, EMD is not obliged to correct these within a reasonable time, but may instead accumulate these changes and incorporate the alterations in a later service pack or new version of the EMD Software.
+11.1.3 Clause 11.1.2 only applies to the current version of EMD Software. Defects subsequently discovered in former versions of the EMD Software are not subject to remedy.
+11.1.4 EMD may sell or deliver third-party products together with EMD Software. EMD will pass on to the Customer any warranties received from the applicable third-party product manufacturer to the extent that they are transferable, but will not independently give any warranties, whether express or implied, for any third party products supplied with or included in EMD Software.
+11.2 Services
+11.2.1 EMD warrants that all consultancy services performed as well as all associated deliverables will conform to the descriptions provided by EMD in a quotation or a statement of work and will be performed in a good, workmanlike manner consistent with industry standards. EMD’s only obligation under this warranty is to, at its sole discretion and at its expense, either to replace or to repair the work results of the consultancy services that are erroneous or not in compliance with the warranty given above, provided that the error or non-compliance is covered by this warranty and that the Customer informs EMD in writing about the error or non-compliance within the time period of thirty (30) days from completion of the consultancy services.
+11.2.2 If the Customer fails to notify EMD in writing of the error or non-compliance within the time limits set forth in Clause 11.2.1, he loses his right to have the error or non-compliance remedied.
+11.2.3 On receipt of the notice under Clause 11.2.1, EMD shall either, at its sole discretion remedy the error or non-compliance without undue delay at any cost or refund the Customer of such amount of the agreed consultancy fee as is reasonable on a quantum meruit basis.
+11.2.4 The provisions in the Danish “General Conditions for Consulting Services” (ABR 89) shall apply to consultancy services performed by EMD in case the terms and conditions in these General Conditions are inadequate. Deviations from ABR 89 stated in these General Conditions take precedence over ABR 89.
+12. LIABILITIES
+12.1 EMD’s liability follows the general rules of Danish law.
+12.2 As for product liability, EMD is only liable for personal injury or damage to property caused by the Deliveries, provided any such damage or injury is directly caused by a fault/defect in the Deliveries supplied by EMD and then only pursuant to the stipulations in the Danish Product Liability Act, which cannot be departed from by agreement. EMD disclaims any liability for personal injury or damage to property caused by the Deliveries on any other basis. In monetary terms, the Product liability cannot exceed the coverage pursuant to EMD’s product liability insurance.
+EMD is not in any case liable for operating loss, time loss, loss of profit(s) or similar indirect/consequential loss.
+If a personal injury or damage to property caused by the Deliveries occurs, or if there is a risk that such injury or damage will occur, the Customer shall notify EMD in writing without undue delay. The Customer shall immediately notify EMD if any third party makes a claim against the Customer concerning liability pursuant to the Danish Product Liability Act.
+If EMD should be held liable towards any third party, the Customer shall indemnify EMD to the same extent as EMD’s liability is limited in accordance with this Agreement.
+The Customer shall accept to be sued at the court that tries the product liability case against EMD.
+12.3 EMD shall have no liability to the Customer for any loss, damage, costs, expenses or other claims for compensation arising from any input material or instructions supplied by the Customer which are incomplete, incorrect, inaccurate, illegible, out of sequence or in the wrong form or arising from their late arrival or non-arrival or any other fault of the Customer.
+12.4 Any limited warranty included in Section 11 shall not make EMD liable for any loss the Deliverables may cause, including loss of production, data and/or use, loss of profit/contract and/or other indirect, consequential, incidental or punitive loss, damage or expense whatsoever, hereunder claims of this kind raised against Customer by third parties.
+12.5 The foregoing limitations shall apply only if the loss or damage is not attributable to gross negligence or intent of EMD.
+12.6 EMD shall not be liable for any damage to products manufactured and sold by the Customer, or to products of which the Customer’s products form a part.
+12.7 The maximum liability of EMD for actual damages, regardless of the form of action, for supplied EMD Software is limited to and cannot exceed the amount paid to EMD for the software that caused the damages or that is the subject matter of, or is directly related to, the cause of action.
+12.8 The maximum liability of EMD for actual damages, regardless of the form of action, for consultancy services conducted for a Customer is limited to and cannot exceed the total consultancy fee paid to EMD for the consultancy services performed.
+12.9 Any claim pursuant to Clause 12.8 for EMD’s liability for damage in connection with consultancy services conducted for a Customer cannot exceed DKK 5,000,000 (five million Danish kroner) per claim and in the aggregate per year.
+12.10 Any action by the Customer must be brought immediately after the cause of action arose.
+12.11 In the event the Customer violates the terms stipulated in Clause 6.1.1 to 6.1.3, EMD reserves the right to hold the Customer liable for incurred losses and damages and claim compensation for these losses and damages.
+13. DISCLAIMER
+13.1 EMD expressly disclaims any and all representations, warranties, guarantees, conditions and undertakings with respect to Deliveries, and its performance, including – without limitation – all implied warranties of merchantability or fitness for a particular purpose. Subject as expressly provided in these General Conditions all warranties conditions or other terms implied by statute or common law are excluded to the fullest extent permitted by law.
+13.2 EMD accepts no responsibility for, and makes no representations as to, the accuracy or reliability of any communication and/or data encoded or decoded using the EMD Software.
+13.3 EMD assumes no liability for the Customer’s use of the
+Deliveries or the Customer’s designs or any applications assistance provided by EMD.
+13.4 The Customer acknowledges that use of the Deliveries in combination with other functionality, software or protocols may require licenses from third parties and the Customer accepts sole responsibility for obtaining such licenses.
+13.5 Critical Applications. The EMD Software is not designed or intended to be fail-safe, or for use in connection with any application requiring fail-safe performance, such as in life-support or safety devices or systems, Class III medical devices, safety applications, nuclear facilities, or any other applications associated to death, personal injury or severe property or environmental damage (individually or collectively, “Critical Applications”).
+13.6 Prior to any use or distribution of any systems developed by use of EMD Software or incorporating any portion of EMD Software, the Customer agrees to thoroughly test the same for safety purposes. To the maximum extent permitted by applicable law, the Customer assumes the sole risk and liability of any Critical Applications and systems developed by using or incorporating EMD Software.
+14. TERMINATION
+14.1 Either party may (without limiting any other remedy) at any time terminate the Agreement by giving written notice to the other if the other commits any breach of these General Conditions and if capable of remedy fails to remedy the breach within 30 days after being required by written notice to do so, or if the other goes into administration, administrative receivership, receivership, voluntary arrangement or liquidation or in the case of an individual or firm becomes bankrupt, makes a voluntary arrangement with his or its creditors or has a receiver or administrator appointed.
+14.2 The cost of all and any Deliveries completed by EMD up to the date of termination and any costs incurred by EMD as a result of a cancellation by the Customer under clause 14.1 will be payable by the Customer to EMD.
+15. GENERAL TERMS
+15.1 Documentation
+15.1.1 EMD shall not be obliged to provide the source code for EMD Software and/or associated EMD Services unless specifically agreed hereto in the Agreement.
+15.2 Software Updating
+15.2.1 EMD Software is supplied with one year of free software updates and hotline support upon purchase starting from the nearest quarterly date from the delivery date.
+15.2.2 Unless the Customer has accepted and paid separately for program updates and hotline support after the expiry of the one-year period as per Clause 15.2.1, EMD shall not be obliged to provide the Customer with updated versions of EMD Software.
+15.2.3 Future software update and hotline support fees are calculated starting from the date when these services expired (support expiry data) on the specific EMD Software product.
+15.2.4 In the event of subsequent purchase of additional license(s) to a specific EMD Software product, the support expiry date on these will be identical to the support expiry date on the existing license(s) unless a separate support synchronization fee has been paid for the existing license(s) in connection with this purchase.
+15.2.5 If payment of software update and hotline support fee is discontinued on some of the additional licenses it will be considered as a downgrade. If the Customer wishes to have the additional licenses included in the license again upon release of a new software version, the Customer will have to purchase these additional licenses according to the current full rate for additional licenses.
+15.2.6 Any software updating of third party software is not included in Clause 15.2.1, but must be agreed between the Customer and the manufacturer of the product.
+15.3 Force Majeure
+15.3.1 EMD shall not be liable to the Customer or be deemed to be in breach of the Agreement by reason of any delay in performing, or any failure to perform, any of EMD’s obligations in relation to the Deliveries, if the delay or failure was due to any cause beyond EMD’s reasonable control. Without prejudice to the generality of the foregoing, the following shall be regarded as causes beyond EMD’s reasonable control: Act of God, explosion, flood, tempest, fire or accident or other extreme environmental conditions; strikes, lockouts or other industrial actions or trade disputes (whether involving employees of EMD or third parties); War or threat of war, sabotage, insurrection, civil disturbance or requisition; Import or export regulations or embargoes; Difficulties in obtaining labour, material or machinery; Power failure, Internet breakdown, breakdown in machinery, failure in transportation or theft.
+15.3.2 In such a situation, EMD is entitled to postpone the delivery time correspondingly or to terminate the Agreement. As soon as any such hindrance has been removed, each party will be bound by the Agreement, unless the Agreement has previously been terminated by a Party. A hindrance lasting more than 3 months will entitle both parties to terminate the Agreement.
+15.4 Non-Disclosure
+15.4.1 The parties agree to observe confidentiality with respect to each other’s Confidential Information during the term of the Agreement and for a period of three (3) years after termination thereof. Subsequently, the parties’ obligations will survive and continue in respect of any Confidential Information that is a trade secret under applicable law. Unless, if required by law, the parties agree not to make each other’s Confidential Information available in any form to any third party or to use each other’s Confidential Information for any other purpose than for the performance of the Agreement. Either party agrees to take all reasonable steps to ensure that Confidential Information is not disclosed or distributed by its employees or agents in breach of the Agreement.
+15.4.2 Either party’s Confidential Information will not include any information, which (a) is or becomes part of the public domain through no act or omission of the other party; (b) was in the other party’s lawful possession prior to the disclosure and had not been obtained by the other party, either directly or indirectly, from the disclosing party; (c) is lawfully disclosed to the other party by a third party without restriction on disclosure; or (d) is proved to be independently developed by the other party; or (e) is disclosed to comply with the requirements of a governmental agency or operation of law; however, if disclosure is required by law, each party shall, to the extent permitted by law, delay any such disclosure sufficiently to permit the other party to consider the merits of the legal requirement of disclosure, and to give the other party an opportunity, if it so elects, to oppose disclosure.
+15.4.3 The inclusion of a copyright notice of the EMD Software will not cause, or be construed to cause, it to be a published work. If the Customer publishes or uses screenshots showing Deliveries, a visible reference to EMD, either by way of a copyright notice or a visible statement of EMD’s name and logo, must be included.
+15.5 Non-Exclusivity
+15.5.1 Nothing in these General Conditions will restrict EMD’s right to contract with any third party to provide or perform, on its own behalf, Services, Deliveries and related software products similar or identical to the Services, Deliveries and related software products provided by EMD pursuant to these General Conditions, a Statement of Work or PO.
+15.6 Export / Import Licenses
+15.6.1 If export or import licenses are necessary for the purchased Deliveries, the Customer shall at his own expense and risk arrange for all required documentation and licenses.
+15.7 Export Control
+15.7.1 Notwithstanding any other restrictions in these General Conditions, the Customer shall comply with all applicable laws, rules and regulations governing the export, import or re-export or re-import of the Deliveries or any work deriving from the use of the Deliveries (“Export Controls”) and will obtain all necessary licences, permits or similar.
+15.7.2 In case the Deliveries may be subject to Export Controls, the delivery thereof is subject to the granting of the export authorization, if required. EMD rejects all claims in relation hereto.
+15.7.3 The Customer will, if reasonably requested by EMD, provide all necessary or appropriate assistance and information to EMD at all relevant times to allow EMD to comply with all Export Controls, including information regarding the end user and the end use of the Deliveries.
+15.8 Customer References
+15.8.1 The Customer acknowledges that EMD may wish to use its name in press releases, own website and product brochures with a view to indicate that the Customer is a Customer of EMD, and the Customer agrees that EMD may use its name in such a manner.
+15.9 Severability
+15.9.1 In the event of any provision of these General Conditions being deemed invalid or unenforceable, the remaining provisions of these General Conditions will remain in full force.
+15.10 Waiver
+15.10.1 Any waiver by either party of any default or breach of these General Conditions will not constitute a waiver of any other or subsequent default or breach.
+16. GOVERNING LAW AND DISPUTE SETTLEMENT
+16.1 The Agreement of which these General Conditions are made part, and the performance thereof, together with any other documentation referred to in such Agreement, shall be governed by, subject to, and exclusively construed in accordance with, the substantive laws of the Kingdom of Denmark, not taking into account its provisions that may lead to the application of any other substantial law than Danish law.
+16.2 Any dispute, controversy or difference which may arise between the parties, out of or relating to the Agreement of which these General Conditions are made part, or breach, termination or invalidity thereof or the Deliveries, which cannot be settled by the parties themselves, shall be settled by the ordinary Danish courts.
+16.3 The parties hereby irrevocably submit to the City Court of Aalborg, Denmark, as the agreed venue in the first instance.
+16.4 For the sake of convenience only, the Agreement may be translated into other languages than English. In the event of any conflict arising out of the interpretation and/or performance of the Agreement, the version in the English language takes precedence and prevails over any other version in other languages.
+https://www.emd.dk/contact-us/general-terms-conditions-sale/

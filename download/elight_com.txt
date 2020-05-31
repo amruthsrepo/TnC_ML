@@ -1,0 +1,205 @@
+1. COMMENCEMENT AND TERM
+1.1 This Agreement becomes binding on the parties immediately upon its execution by both parties. The terms of this Agreement shall be binding upon the commencement of the Lighting Service in accordance with clause 2.6 below and shall continue thereafter for the remainder of the Term (detailed on the cover page to this Agreement). The Client may terminate this Agreement at any time prior to the end of the Term subject to clause 9.
+2. DESIGN,LIGHTING SERVICE, ACCESS, AND SUBSTITUTION
+2.1 The Company has determined in its discretion the Work Product required to deliver the Lighting Service by way of a physical survey to determine (a) the number and type of existing lighting units in place at the Site at the time of the survey; and (b) the Work Product to be installed at the Site to deliver the Lighting Service.
+2.2 Throughout the Term, the Company shall provide the Lighting Service to the Client in accordance with this Agreement.
+2.3 The Client agrees and undertakes that it shall, with the co- operation of the Company, adhere to and comply with control policy and Schedule 2 designed by the Company for the Site and which pre-determines how the Lighting Service will be provided by the Work Product in response to changes in external and detectable Site conditions (the “Lighting Control Policy”). The Client will not and will procure that any Client tenants or Site users shall not adjust or interfere with Work Product or controls or settings that impact on lux levels provided by the Work Product at the Site.
+2.4 Throughout the Term, the Client shall grant (or procure, including from any tenants at the Site) such access to the Site as the Company, its agents and/or contractors require, or to substitute any or all of the Work Product, which shall be at the Company’s sole discretion throughout the Term.
+2.5 All work at the Site by the Company or its contractors shall be carried out in a good and workmanlike manner and in compliance with all health and safety legislation and other statutory requirements, including any requirements regarding the qualifications of persons that will perform electrical work in relation to the Lighting Services.
+2.6 The Company shall provide the Client with notice in writing, in the form set out in Schedule 1, when the Company is satisfied that the provision of the Lighting Service at the Site has been successfully and conclusively provisioned in accordance with clause 2.2 (a “Completion Notice”). Within 5 days of receipt of the Completion Notice, the Client shall either:
+(a) notify the Company of any issues with the Lighting Service; or
+(b) accept the Lighting Service under this Agreement by
+countersigning the Completion Notice. The Term of this Agreement shall commence upon countersignature (by the Client) of the Completion Notice.
+If no issues are raised by the Client, and the Client fails to countersign the Completion Notice, within the specified 5 day period, then the Client shall be deemed to have accepted the provision of the Lighting Service and the Term shall automatically commence. If any issues are raised by the Client within the specified 5 day period, then the parties will work together in good faith to resolve those issues whereupon the Client will then countersign the Completion Notice. However, if any such issues are not resolved within 6 weeks of the Company issuing a Completion Notice then the Company shall be entitled to cancel this Agreement and the Client agrees to reimburse any costs that the Company has incurred.
+2.7 The Client shall provide the Company with any information in its possession relating to the presence of asbestos-containing materials (ACM) in areas where the Company may undertake work in relation to the provision of the Lighting Services. If the
+Company becomes aware of, or suspects, the presence of ACM that may be disturbed by the Company’s work, it shall promptly suspend work and notify the Client. The Client shall be responsible at its sole expense for addressing the potential for or the presence of ACM in accordance with all applicable laws and addressing the impact of its disturbance before the Company will continue any relevant work. If work is delayed for more than 6 weeks the Company is entitled to cancel this Agreement and the Client agrees to reimburse any costs that the Company has incurred.
+2.8 Following removal of the Client’s Existing Lighting Equipment, the Company or its contractors will take all necessary steps to dispose of this equipment, with any salvage value retained by the Company.
+3. FAILURES AND DAMAGE
+3.1 If, at any time during the Term, the Lighting Service fails, persistently flickers or produces lux levels in a given zone (of the Site) below the Minimum Lux Level or otherwise not in accordance with the Lighting Control Policy and Schedule 2 (a “Lighting Failure”) then the Client shall provide the Company with written notice as soon as possible by email to info@elightgroup.com. The Client may provide the initial notification to the Company by telephone on 0845 226 0737 provided it is subsequently confirmed in writing by email to the foregoing email address (“Failure Notice”). On receipt of a Failure Notice, the Company or its subcontractor shall, if requested by the Client, inspect the Site and determine whether the Lighting Failure was due to a defect in the Lighting Service (“Defect”), or resulted from any Client Damage. Such determination by the Company shall be conclusive. The Parties agree that any Light Failure where there is no evidence of a Defect shall be deemed Client Damage.
+3.2 Following confirmation of a Defect by the Company, the Company shall remedy the Lighting Service.
+3.3 The Client shall at all times (and at its own cost) during the Term be liable to remedy the Lighting Service which is not the result of a Defect.
+3.4.The Client shall give immediate written notice to the Company in the event of any Client Damage.
+3.5 The Client shall at all times, fully and effectively, indemnify the Company, its employees, agents and contractors, against:
+(a) any loss, theft, destruction of or damage to the Lighting Equipment from whatever cause arising and whether or not such loss, theft, destruction or damage results from the Client’s negligence or that of its employees or agents; and (b) all claims, demands, proceedings (civil or criminal), penalties, fines, liabilities, losses, damages, costs (including, without limitation, legal costs) and expenses of whatsoever nature which may be brought against the Company (or the others indemnified by you under this clause) or which the Company (or they) may for whatsoever reason suffer, incur or sustain in connection with this Agreement or by virtue of leasing the Lighting Equipment to the Client.
+3.6 The indemnity contained in clause 3.5 will survive and remain in full force and effect notwithstanding the termination of this Agreement.
+3.7 In the event that the Client submits a Failure Notice to the Company (in accordance with clause 3.1) but the relevant Lighting Service is found to have suffered Client Damage (rather than a Defect), the Client will be responsible for paying a Call Out Charge to the Company.
+3.8 The Client’s obligation to make timely payments of the Service Charges (and other amounts) to the Company (or the Assignee) in accordance with clause 4.2, shall be unaffected by the occurrence of any Client Damage, Defect or if any Work Product is not fit for its intended use.
+3.9 Clause 3.1 shall not apply to any lighting equipment or service which is (or qualifies as) emergency lighting equipment, which the Parties agree are outside of the scope of this Agreement.
+3.10 The Cli ent undertakes to promptly grant access to each Site throughout the Term to enable the Company or its contractors to remedy any Defect in the Lighting Service.
+4. PAYMENTS
+4.1 Throughout the Term and subject always to clause 4.2, the Client shall pay to the Company the monthly Service Charges as set out on the cover page to this Agreement. Acceptance by the Client of the Completion Notice in accordance with clause 2.6 shall be deemed by the Parties to be the Client’s unequivocal acceptance of the Service Charges.
+4.2 The Client shall pay to the Company all Service Charges (and other amounts) due under the Agreement each month by direct debit. The Client’s payment of the Service Charges (and other amounts) for any month during the Term shall be absolute and unconditional and will be made in full by the Client, on the dates they are due, without set-off, restriction, reimbursement or condition and without any defense, deduction or withholding for or on account of any counterclaim (including due to any Defect) or any present or future taxes, levies, duties, charges, fees, deductions or withholdings of any nature, unless the Client is required by law to make any such deduction or withholding.
+If at any time the Company (or an Assignee) is not able to direct debit amounts payable under this Agreement due to the Client revoking the direct debit instruction or otherwise giving contrary instructions to its bank, the Company (or an Assignee) may charge, and the Client shall pay to the Company (or an Assignee) on demand, the relevant Service Charge(s) plus a £[50] handling fee.
+4.3 The Client agrees to complete a Direct Debit Mandate (in favour of the Company and/or an Assignee) and not to revoke the mandate until the end of the Term of the Agreement. Under that mandate the Client agrees that the Company (or any Assignee) will commence deducting the amounts due under this Agreement, 30 days after the commencement of this Agreement as outlined in clause 2.6. For the avoidance of doubt, in the event of any Client Damage, any Call Out Charges will be separately invoiced and collected by the Company.
+4.4 If the Client does not pay all or any portion of any Service Charges or Call Out Charges on or before the date such payment is required under this Agreement (such overdue amount hereinafter referred to as the “Overdue Amount”), commencing on the relevant payment date the Client will pay to the Company interest on that Overdue Amount. The interest shall be calculated per annum on the basis of the Overdue Amount. The interest rate shall be the base lending rate for sterling of Barclays Bank plc applicable from time to time plus 3% per month, or the highest rate allowed by applicable law, whichever is lower.
+4.5 The Client acknowledges and agrees that, other than a genuine processing error in the billing amount, the Client does not have a right to dispute the Service Charges and/or any Termination Payments.
+5. TAX
+5.1 All amounts referred to in this Agreement are exclusive of any applicable VAT.
+5.2 Subject to each party’s obligations relating to VAT, each party shall cause all taxes legally payable by that party arising in connection with this Agreement to be paid.
+6. WORK PRODUCT
+6.1 Throughout the Term, the Company and Client agree that:
+a) the Client shall be prohibited from altering, reconfiguring, moving, repositioning or otherwise interfering with any Work Product in any zone at any Site associated with the Lighting Service, except for keeping such Work Product free from dust, dirt or debris; and
+b) the value of Service Charges due and payable under this Agreement shall be unaffected by any change in lux levels produced by the Lighting Service or substitution of any or all the Work Product (both of which shall be at the full discretion of the Company), subject to the Company producing lux at or above the Minimum Lux Level.
+6.2 The Client acknowledges that the Work Product is owned by the Company and shall take all actions reasonably required by the Company during the Term to confirm, defend or protect the Company’s (or the Assignee’s) ownership thereof.
+6.3 The Client represents, warrants and undertakes to the Company as of the date of this Agreement that:
+(a) the Company (or the Assignee) is the legal and beneficial owner of any Existing Lighting Equipment and it grants the Company full authority to remove that equipment.
+(b) in the event that any of the Sites covered under this Agreement are occupied by the Client under a leasehold arrangement,
+(i) the Client has obtained from the landlord written, signed agreement to both the removal of the Existing Lighting Equipment and the installation of the Lighting Equipment by the Company or its contractors; and
+(ii) the term remaining on any such leasehold arrangement for each and every Site where the Lighting Equipment is located is at least as long as the Term of this Agreement.
+(c) no Site shall be unoccupied or not in use for a period in excess of [30] days during the Term and the Client shall notify the Company (or Assignee) should this ever occur.
+7. CLIENT DAMAGE RISK AND INSURANCE
+7.1 Risk of failure or Defect of the Work Product shall be the responsibility of the Company throughout the Term, provided that such failure or Defect was not the result of or attributable to Client Damage.
+7.2 The Client shall at all times, at its sole cost, maintain insurance with a reputable insurer, such insurance must cover against loss, theft, or destruction for Client Damage or confiscation of, or damage to the Work Product (the “Loss”) and upon request provide a copy of the insurance policy for the to the Company (or the Assignee).
+7.3 The Client shall also maintain third party product liability insurance in respect of accidental injury or damage suffered by any third party or their property arising from the Lighting Service.
+7.4 The Client must notify the Company immediately in the event of any Loss or other damage to any of the Work Product and may not settle any claims without the Company’s prior agreement.
+7.5 In the event of Loss, the insurance proceeds payable to the Client in respect of the Work Product shall be used first to reinstate (by or in accordance with the Company’s instructions) the Lighting Service to the extent required to address the Loss (the “Reinstated Lighting”). If the insurance policy fails to pay or if the insurance policy pays out an insufficient sum then the Client shall make good the deficit out of its own funds and the Client shall take all necessary action to ensure that ownership to any Reinstated Lighting shall pass to the Company (or any Assignee) free from any liens, charges and encumbrances. The Client’s obligation to pay the Service Charges shall continue notwithstanding any Loss or other damage to any of the Lighting Service.
+8. EXPIRY OF THE TERM
+8.1 Upon the expiry of the Term, and subject to the Client paying all outstanding Service Charges in full, the Client’s obligation to pay the Service Charges shall cease and the Client may (at its election):
+(a) continue to use any Work Product located on the Site; and
+(b) following a Lighting Failure remove and safely and correctly dispose of any affected Work Product (on behalf of the Company) in compliance with all relevant laws and regulations.
+9. EARLY TERMINATION
+9.1 Notwithstanding any provision to the contrary in this Agreement, upon termination of this Agreement for any reason (including but not limited to any termination by the Client due to the Company suffering from an Insolvency Event or materially failing to perform its obligations under this Agreement) prior to the expiry of the Term, the Client must pay to the Company (or an Assignee) a termination payment (the “Termination Payment”) which shall comprise:
+(a) all arrears of Service Charges and other sums which have accrued due for payment as at the date of termination, together with any late payment interest on any Overdue Amount or otherwise due thereon;
+(b) a sum equal to all the future or remaining Service Charges which would, but for termination, have fallen due during the Term (assuming continuation of the Agreement for the remaining unexpired period of the Term) less a reduction of 3% in total outstanding Service Charges at the time of termination;
+(c) any costs incurred by the Company (or any Assignee, as applicable) in terminating or replacing any funding arrangements entered into in connection with the provision of the Lighting Service; and
+(d) any taxes and VAT applicable to any of the foregoing amounts.
+The Client agrees that the Termination Payment is fair and reasonable estimate of the Company’s (or an Assignee’s) loss and not a penalty.
+9.2 The occurrence of any of the following events will result in the Company (or any Assignee, as applicable) being able to terminate this Agreement:
+(a) the Client fails to pay any amount due under this Agreement and such failure is not remedied on or before the date which is five (5) Business Days after the due date for such payment;
+(b) an Insolvency Event occurs in respect of the Client;
+(c) theClientceasesorthreatenstoceaseorcarryonbusiness
+or if there is any change in the Client’s direct or indirect ownership, whether legal or beneficial, or in the Control of the Client from that existing at the date of this Agreement that in the opinion of the Company would have an adverse effect on the Client’s ability to fulfil its obligations to the Company. For the purpose of this clause, “Control” has the meaning ascribed to it in the Corporation Tax Act 2010 sections 450 and 451;
+(d) if a Material Adverse Effect occurs in respect of the Client;
+(e) if any of the Work Product becomes a Total Loss;
+(f) if any representation or warranty given by the Client under or in relation to this Agreement is or becomes materially incorrect or misleading;
+(g) the Client tries to sell the Work Product or does anything that affects the Company’s rights in the Work Product, including allowing the Work Product to be taken to settle a debt; or
+(h) the Client fails to perform any obligation, other than payment, in this Agreement provided that, in the case of a breach that is capable of remedy, the Company shall have first given notice to the Client specifying the breach or default and requiring the same to be remedied within 14 days and the Client shall have failed to comply therewith.
+9.3 Upon termination of this Agreement and/ or the provision of the Lighting Service prior to the expiry of the Term, however caused:
+(a) the Company (or an Assignee) may forthwith, by its authorised representatives, without notice and at the Client’s expense, cease the Lighting Service and recover the Work Product and for this purpose may enter any Site or any other premises at which the Work Product is located; and
+(b) without prejudice to any other rights or remedies of the Client, the Client shall forthwith pay to the Company on demand a Termination Payment in accordance with clause 9.1.
+9.4 The Company’s rights under clause 9.3 (a) shall, to the extent not already enforced, automatically extinguish upon payment of the Termination Payment in full by the Client.
+10. FORCE MAJEURE
+10.1 Notwithstanding a Force Majeure Event, the Client shall continue to pay the Fees, in accordance with the terms of this Agreement.
+10.2 The Company shall not be in breach of this Agreement nor liable for delay in performing, or failure to perform, any of its obligations under this Agreement if such delay or failure result from a Force Majeure Event. If the period of delay or non-performance continues for 8 weeks, the party not affected may terminate this Agreement by giving 7 days written notice to the affected party. However, termination of this Agreement for a Force Majeure Event shall result in the Client being liable to pay a Termination Payment in accordance with clause 9.1.
+11. GOVERNING LAW
+11.1 This Agreement and any non-contractual obligations arising from or connected with this Agreement shall be governed by and construed in accordance with the laws of England and Wales.
+11.2 The parties irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this Agreement or its subject matter or formation (including non- contractual disputes or claims).
+12. CONFIDENTIALITY
+12.1 Save as hereinafter provided, each party undertakes that it shall not at any time disclose to any person any confidential information concerning the business, affairs, customers, clients or suppliers of the other party other than:
+(a) disclosures to its employees, affiliates, funders, subcontractors, officers or advisers (provided they are also bound not to disclose such information); and
+(b) disclosures required by law, any court or governmental or regulatory authority. In accordance with the General Data Protection Regulation (“GDPR”), the Company may hold, use, disclose and process Client’s data in accordance with GDPR including, without limitation, for Contractual Necessity (GDPR Article 6(1)(b)) where it is necessary for the performance of the Agreement and for Legitimate Interests (GDPR Article 6(f)) to share the Client’s data with the Company’s professional advisors, Assignees and finance providers as required.
+13. ASSIGNMENT
+13.1 The Company may without the consent of the Client in whole or in part, assign any or all of its rights, title and interest under this Agreement or transfer its right, title and interest in the Lighting Service and associated Work Product (including without limitation, its rights to receive any Service Charges or Termination Payments or other payments which are payable by the Client under the Agreement) to any third party (“Assignee”). The Client consents and agrees to such transfer and assignment to any Assignee by the Company, and agrees to pay the Service Charges, Termination Payments and such other payments to the Assignee as and when applicable in full without any deduction, set-off, counterclaim or withholding whatsoever for any reason. The Client further acknowledges and agrees that the Assignee:
+(a) will not be responsible for the provision of the Lighting Services (or any claims arising there from) or any obligation of the Company under or in connection with this Agreement, which shall remain the sole responsibility of the Company; and
+(b) may appoint a service provider to perform any obligations of the Company under this Agreement where the Company has failed to perform such obligations.
+13.2 The Client may not assign all or any part of this Agreement.
+14. GENERAL
+14.1.1 NOTICES
+Unless otherwise agreed by the parties, any notice, consent, invoice or other communication (notice) required to be given or made under this Agreement or in connection with the matters contemplated by it:
+(a) shall be addressed as provided on the front of this Agreement;
+(b) shall be sent or delivered as follows:
+(i) by personal delivery or express courier service, in which case it shall be deemed to have been given upon delivery at the relevant address; or
+(ii) bye-mail,in which case it shall be deemed to have been given when dispatched, subject to confirmation of receipt by return e-mail, provided that any notice dispatched by e-mail after 17:00 hours local time at the address of the recipient on any day, or on a day which is not a Business Day, shall be deemed to have been received at 08:00 hours at such local time on the next Business Day.
+14.1.2 Any notice given by e-mail shall be followed by a hard copy to be sent or delivered to the relevant address specified on the front of this Agreement, unless otherwise agreed, but without prejudice to the validity of the original notice.
+14.2 RELATIONSHIP OF PARTIES
+Nothing in this Agreement shall be construed as creating an agency relationship, partnership, joint venture, or any similar relationship between the Company on the one hand and the Client on the other hand.
+14.3 RIGHTS OF THIRD PARTIES
+A person who is not a party to this Agreement has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Agreement.
+14.4 VARIATION
+No variation of this Agreement shall be effective unless in writing and signed by or on behalf of each of the parties.
+14.5 ENTIRE AGREEMENT
+This Agreement and the documents referred to in it constitute the whole agreement and understanding of the Parties and supersedes any previous arrangement, understanding or agreement between them relating to the subject matter of this Agreement.
+14.6 SURVIVAL
+Termination of this Agreement for any cause shall not release a party from any liability which at the time of termination has already accrued to another party or which thereafter may accrue in respect of any act or omission prior to such termination.
+14.7 SEVERABILITY
+If any provision of this Agreement (or part of a provision) is found by any court or administrative body of competent jurisdiction to be invalid, unenforceable or illegal, the other provisions shall remain in force. If any invalid, unenforceable or illegal provision would be valid, enforceable or legal if some part of it were deleted, the provision shall apply with whatever modification is necessary to give effect to the commercial intention of the parties.
+14.8 WAIVER
+No delay or omission by a party in exercising any right, power or remedy shall impair or be construed as a waiver of such (or any other) right, power or remedy, and any single or partial exercise of a right, power or remedy shall not preclude any future or other exercise of such (or any other) right, power or remedy.
+14.9 COUNTERPART
+This Agreement may be executed in any number of counterparts, each of which when executed and delivered shall constitute an original but all the counterparts shall together constitute one and the same Agreement.
+14.10 ELECTRONIC SIGNATURE
+The parties agree that this Agreement may be entered into and signed by way of electronic signature or advanced electronic signature, as defined in the Electronic Communications Act 2000 or Articles 3 (10) or 3 (11) of Regulation (EU) No 9101/2014. Any signature made by a party or on the party’s behalf in a way which complies with the Electronic Communications Act 2000 will be effective and binding on the relevant party.
+14.11 EXCLUSION OF LIABILITY
+(a) To the full extent permitted by law, the Company excludes all
+express or implied terms, conditions and warranties other than those set out in this Agreement, and will not be liable for any loss or injury to any person, or any damage to, or loss or destruction of, property, arising from the misuse of the Lighting Service or associated Work Product.
+(b) Notwithstanding paragraph (a) above, nothing in this Agreement is intended to exclude or limit liability for death or personal injury caused by the Company’s negligence, or exclude, restrict or modify any obligation of the Company if that cannot be lawfully excluded.
+(c) To the full extent permitted by law, the Company’s liability in connection with this Agreement (including for breach of a condition or warranty implied or stipulated into this Agreement by law) is limited to 50% of the total Service Charges.
+(d) To the full extent permitted by law and subject to paragraph (c), the liability in damages of the Company in connection with this Agreement shall not include liability for any Excluded Loss.
+14.12 INTELLECTUAL PROPERTY RIGHTS
+All Intellectual Property in respect of this Agreement and/or the Lighting Services remains or becomes vested in the Company (or an Assignee).
+14.13 PRIVACY
+The Company will only use any personal information obtained from the Client as set out in the Privacy Policy (available at www.elightgroup.com/privacy-and-cookies) and applicable law (including the General Data Protection Regulation).
+15. DEFINITIONS AND INTERPRETATION
+15.1 DEFINITIONS
+Unless the context requires otherwise, the following terms in this Agreement shall have the following meanings: “Business Day” means a day, other than a Saturday or Sunday, on which banks in the City of London are normally open for business;
+“Call Out Charge” means the below rates (plus applicable VAT) for site attendance. These rates are subject to periodic review.
+• £250.00 attendance including the two hours
+• £50.00 per hour for every additional hour during normal business hours, and
+• £75.00 per hour for every additional hour outside of normal business hours.
+These charges will be invoiced separately by the Company and due within 30 days;
+“Client Damage” means:
+(a) wiring or other electrical issues, damage (including accidental
+damage or loss), negligence or misuse of the Work Product by the Client, including but not limited to the accumulation of dust and debris;
+(b) temperature and/or voltage limits for the Work Product being exceeded;
+(c) exposure (of the Work Product) to mechanical stresses and strains that are not in accordance with the intended use or manufacturer’s specifications;
+(d) electrical supply conditions, including supply spikes, over- voltage and ripple current control systems that are outside the specified limits of the LED components and those defined by applicable supply standards;
+(e) alteration or repair of the Work Product (other than by or on behalf of the manufacturer or Company), including making any changes that impact on provision of lux by the Work Product in accordance with the Lighting Control Policy and Schedule 2;
+(f) any action or inaction which is inconsistent with the manufacturers’ recommendations for maintenance or otherwise; or
+(g) failures or damage caused by events beyond the reasonable control of the Company and/or the Client (for example lightning strikes, windstorms, sandstorms, natural disasters, acts of war, terrorism, civil disobedience, riots, malicious mischief, vandalism, impacts, fire, prolonged submersion, acts of God or nature).
+“Confidential Information” means:
+(a) this Agreement and any information regarding the terms and
+conditions of this Agreement;
+(b) all communications between the parties and all information
+and other material supplied to, or received by, either party from the other party in connection with this Agreement which is either marked “confidential” or by its nature is intended to be for the knowledge of the recipient; and
+(c) all information concerning the business transactions, strategy, suppliers, clients, contracts, deliveries, technical plans or commercial or financial arrangements or affairs of the parties;
+“Excluded Loss” means any loss or damage suffered by the Client which is indirect; or which results from some special circumstance or supervening event; or which is by way of loss of revenue, loss of profits, loss of production, loss of goodwill or credit, loss of business reputation or future reputation or publicity, loss of use, loss of interest, damage to credit rating, loss or denial of opportunity, loss of anticipated savings, or increased or wasted overhead costs.
+“Existing Lighting Equipment” means all of the existing lighting equipment which at the date of signing this Agreement is or was installed in the Client’s Sites;
+“Fees” means all amounts that Company may charge the Client under this Agreement, including but not limited to, any Service Charges and any Termination Payment;
+“Force Majeure Event” means the occurrence of any event(s) or circumstance(s), or any combination of events or circumstances (or any of the consequences thereof) which is beyond the reasonable control of the affected party and which results in or causes the failure of, or delay in, that Party to perform any of its obligations under this Agreement, including (but subject always to the foregoing):
+(a) act of God, explosion, flood, tempest, fire, accident or lightning;
+(b) war or threat of war, national emergency, sabotage, terrorism, insurrection, protest, riot, epidemic, civil disturbance or requisition;
+(c) Acts, restrictions, regulations, by-laws, prohibitions or measures of any kind on the part of any governmental, parliamentary or local authority;
+(d) import or export regulations or embargoes;
+(e) strikes, lock-outs or other industrial actions or trade disputes
+(whether involving employees of the Company or of a Third Party);
+(f) restraints or delays affecting carriers, or inability or delay in obtaining supplies of adequate or suitable materials;
+(g) power failure or breakdown in machinery; or
+(h) where such Lighting Failure is deemed by the Company not to be the result of a Defect
+“Insolvency Event” means, in relation to any person, that:
+(a) it shall admit its inability to pay its debts as and when they fall due, or is deemed to be unable to pay its debts; or
+(b) any distress, execution or other process is levied or enforced against or possession is taken of any of its property or assets; or
+(c) it begins negotiations with any creditor with a view to the readjustment or rescheduling of any of its indebtedness; or
+(d) any corporate action, legal proceedings or other procedure is commenced or other step is taken in relation to:
+(i) the suspension of payments, a moratorium of any indebtedness, winding-up, dissolution, administration or reorganisation (by way of voluntary arrangement, scheme of arrangement or otherwise) of that person;
+(ii) a composition, compromise, assignment or arrangement with any creditor of that person; or
+(iii) the appointment of a liquidator, receiver, administrative receiver, administrator, compulsory manager or other similar officer in respect of that person or any of its assets; or
+(e) any event occurs which would result in a floating charge crystallising over any of the person’s assets; or
+(f) the value of the person’s assets are at any time less than the amount of its liabilities taking into account its contingent and prospective liabilities; or
+(g) anything analogous to, or having a substantially similar effect to, any of the events specified above occurs in any other relevant jurisdiction.
+“Intellectual Property” means all present and future patents, copyright, trade marks, trade secrets, registered or unregistered design rights, know-how and other intellectual property rights.
+“Lighting Control Policy” means the policy developed by the Company in accordance with clause 2.3 and Schedule 2, as amended by the Company from time to time. The policy can be found online at www.elightgroup.com/controlpolicy
+“Lighting Service” means the provision of light meeting at least the Minimum Lux Level in accordance with the Lighting Control Policy and Schedule 2 by way of the Work Products selected by the Company
+“Material Adverse Effect” means, in respect of any party, an effect which, in the Company’s opinion (acting reasonably), is likely to adversely affect:
+(a) the ability of that party to perform its financial obligations under any agreement to which it is a party; or
+(b) the business, assets, or financial condition of that party. “Minimum Lux Level” means the lux levels specified in Schedule 1 which is taken as an average across a defined zone.
+“Tax” means any present or future tax, levy, impost, duty, charge,
+assessment or fee of any nature (including interest or penalties) that is imposed by any government or other taxing authority directly in respect of any payment or transfer request under this Agreement;
+“Total Loss” means if (in the opinion of the Company) the Work Product becomes irreparably damaged, destroyed, stolen or lost from whatever cause;
+“VAT” means any tax in the nature of goods and services tax, consumption tax, supply or valued added tax , sales tax, turnover tax, business tax (including gross business receipt tax) or any similar tax levied under The Value Added Tax 1994, or any other replacement or subordinate legislation.
+“Work Product” is defined as the work or any other means by which the Company delivers the Lighting Service to the Client at the Site(s).
+15.2 INTERPRETATION
+In this Agreement unless the context otherwise requires:
+(a) references to a statute, treaty or legislative provisions or to a provision of it shall be construed, at any particular time, as including a reference to any modification, extension or re- enactment at any time then in force and to all subordinate legislation made from time to time under it;
+(b) words denoting the singular include the plural and vice-versa;
+(c) a reference to a person includes any natural person, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, unincorporated organisation or government or any agency or political subdivision thereof;
+(d) references to an agreement, deed, instrument, license or other document (including this Agreement), or to a provision contained in any of these, shall be construed, at the particular time, as a reference to it as it may then have been amended, varied, supplemented, modified, suspended, assigned or novated;
+(e) references to clauses, sections, schedules and paragraphs are to clauses, sections, schedules and paragraphs of this Agreement;
+(f) references to times of day are to London time unless otherwise stated;
+(g) a reference to “writing” includes a facsimile transmission and any means of reproducing words in a tangible and permanently visible form;
+(h) a reference to a “day” means a calendar day;
+(i) a reference to a “month” means a calendar month;
+(j) in any reference to a period of days or Business Days after a given day (day “D”), the first day or (as the case may be) Business Day of the period is the day following day “D”.
+(k) “including”, “include” or “includes” means “including without limitation”;
+(l) the index and headings to clauses, sections, schedules and paragraphs are inserted for convenience of reference only and shall not affect the construction of this Agreement; and (m) references to the Company shall include the Assignees and successors in title of the Company.
+Click here to download a copy of our terms and conditions
+https://elight.com/terms-conditions/

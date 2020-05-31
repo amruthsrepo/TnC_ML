@@ -1,0 +1,8 @@
+AlienVault® USM Anywhere™ Creating Cisco ASA Response Action Rules
+Role Availability Role Availability Read-Only Analyst Analyst Manager Manager
+You can create orchestration rules in USM Anywhere that automatically trigger a Cisco ASA response action when , , or match the criteria that you specify.
+After you create a rule, if there are new events, alarms, or vulnerabilities that match the rule conditions will trigger the Cisco ASA response action to create a new incident. The rule does not trigger for existing events, alarms, or vulnerabilities.
+You can create a new rule as follows:
+From the Rules page: The Rules page provides access to all of your orchestration rules. The Orchestration Rules list includes suppression rules, alarm rules, event rules , filtering rules, notification rules, and response action rules. You can create new rules using the specific matching conditions that you define, as well as edit, delete, and enable or disable rules. See Orchestration Rules for more information about managing orchestration rules. Go to Settings > Rules and select Response Action Rules on the left navigation panel. Then click Create Response Action Rule to define the new rule.
+To define a new Cisco ASA response action rule
+https://cybersecurity.att.com/documentation/usm-anywhere/alienapps-guide/cisco-asa/orch-rule-alienapp-cisco-asa.htm

@@ -1,0 +1,170 @@
+Terms and Conditions
+WORDBANKSONLINE TERMS AND CONDITIONS OF USE
+1. AGREEMENT
+ATTENTION: This legal notice applies to the entire contents of the website under the
+domain name wordbanks.harpercollins.co.uk (“Website”) and to any correspondence
+between us (“Collins”, “Us”, “Our”, “We”) and you (“You”, “Yours”). These terms and
+conditions govern the licence granted to You by Us to use the Website (“Agreement”).
+Please read the Agreement carefully before using the Website. By accessing any part of
+the Website, You shall be deemed to have accepted this legal notice in full. If You do not
+accept the terms of this Agreement, do not use the Website. This notice is issued by
+HarperCollins Publishers (SC No. 27389) whose registered office is at Westerhill Road,
+Bishopbriggs, Glasgow G64 2QT, and shall include Collins’ assigns, assignees and
+successors in business. (“Collins”).
+The Website means https://wordbanks.harpercollins.co.uk and all other web pages with a
+URL starting https://wordbanks.harpercollins.co.uk.The Website services means the on-line
+database and associated files of data, (data means any data including text, information and
+statistics, (“Data”)), search and retrieval software marketed as Collins WordbanksOnline
+(“Services”) and all other content.
+2. COPYRIGHT AND YOUR RIGHTS
+(a) The copyright and all other intellectual property in the Website, the Data and the Services
+belong to, or has been licensed to, Collins and shall remain with Collins.
+(b) You may use Data for non-commercial research purposes only. You may publish
+reasonable extracts from the Data in non-commercial research publications but shall not use
+the Data for any commercial or other purposes or sell, publish, reproduce, or otherwise
+make the Data available in any manner or on any media to any third party for any purpose
+(including storing it in any medium by electronic means), unless You have obtained Our prior
+written approval. Any breach of this clause will entitle Collins to immediately terminate this
+Agreement.
+(c) You will acknowledge Collins in all research publications which include Data retrieved or
+derived from the Services.
+3. YOUR OBLIGATIONS: USE OF USER IDS
+Under Your license with Collins, Collins will allocate unique user name and passwords to
+You. (“User ID”).You will maintain a record of the names and contact addresses of the
+individuals to whom User ID(s) and associated passwords are disclosed ("the Other
+Users"). In the case of a licence granted to a company, the Other Users can only be
+directors or employees of the company. In the case of a licence granted to an educational
+establishment, the Other Users can only be staff or students of the educational
+establishment. You warrant that You will ensure that each and every Other User will abide
+by the terms of, and not breach, this Agreement, and You agree that You will be responsible
+for any such breach. You will be responsible for unauthorised use of Your User ID(s)
+howsoever arising (including use of stolen User IDs), and Collins accepts no responsibility
+for any misuse.
+4. AVAILABILITY AND ACCURACY OF INFORMATION
+(a) Collins reserves the right at any time to change the content, amount, presentation, user
+facilities or availability of any part of the Services and make changes in the software used to
+make the Services available at its sole discretion and without notice to You. No such
+change shall entitle You to any refund of the Subscription. Whilst Collins endeavours to
+ensure that the Website is normally available 24 hours a day, You agree that Collins shall
+not be responsible or liable if for any reason the Website is unavailable at any time or for
+any period. Access to the Website may be suspended temporarily and without notice in the
+case of system failure, maintenance or repair or for reasons beyond the Collins’ control.
+(b) Collins makes no representation and gives no warranty express or implied with regard to
+the Data or any part of the databases comprising the Services including but not limited to the
+fitness of the Data or the databases for any purpose whatsoever, the quality, accuracy,
+completeness or correctness of the Data, whether the Data is cleared for inclusion in the
+Services or for use or publication by You or whether the Data is obscene or defamatory.
+You acknowledge that due to the extremely large amount of Data in the Services, it is
+technically impracticable to provide the Services free of faults or defects and Collins does not
+undertake to do so. You accept that the Services are provided on an "as is" basis.
+(c) You are responsible for accessing the Services, including providing all the equipment
+needed to access the Services and paying any Internet or other access charges. Collins
+gives no guarantee that the Services will be available to You at any particular time. Collins
+will not be liable for any such non-availability. You acknowledge that Collins has no control
+over Your access to the Services including access to Your computer terminal, any satellite or
+telecommunications facilities and the Internet over which the Services are carried and that
+Collins has no liability in relation to such facilities or the failure thereof.
+(d) Phone or e-mail assistance provided by Collins to You is provided entirely at Our
+discretion. It may not be available at all times and the facility may be withdrawn. Collins
+does not warrant and shall have no liability for any advice given by such service.
+5. LIMITATION OF LIABILITY
+(a) You agree and acknowledge: (i) that You are in a better position than Collins to predict
+and evaluate any potential damage or loss You may suffer in connection with the Services
+provided to You under this Agreement and its use thereof; (ii) that Collins cannot adequately
+insure its liability to the You; (iii) and that the charges payable under this Agreement have
+been calculated on the basis that Collins shall exclude or limit liability as set out in this
+clause. You warrant and guarantee that you will insure against, or bear Yourself, any loss for
+which Collins has excluded liability.
+(b) This Agreement contains express warranties, undertakings and obligations of Collins.
+All other conditions, warranties, terms, undertakings and obligations of Collins whether
+implied by statute, common law, custom, trade usage or otherwise and all duties of care,
+contractual or otherwise, and all liabilities (if any) of Collins arising therefrom are hereby
+wholly excluded. This does not affect Collins’ liability for death or personal injury arising
+from our negligence, nor Collins liability for fraudulent misrepresentation, nor any other
+liability which cannot be excluded or limited under applicable law.
+(c) Except as otherwise expressly provided herein, Collins shall not be liable for any loss or
+damage (including consequential or indirect loss or damage which shall include but which
+shall not be limited to loss of property, reputation or of profit, business revenue or anticipated
+savings and loss of or damage to data) or for any costs, claims or demands of any nature
+whether asserted against Collins or against the User by any party arising directly or indirectly
+out of the use of, access to or withdrawal of the Services the databases comprising the
+Services or the Data.
+(d) Collins’ liability shall be limited to direct loss suffered by You where such loss arises
+solely from Collins’ negligent acts or omissions of its employees in the provision of the
+Services provided that (save in the event of death or personal injury resulting therefrom)
+Collins’ total liability shall not if any event exceed in respect of any one event or a series of
+two or more connected events an amount equal to the Subscription Charges exclusive of
+VAT payable hereunder by You at the date the claim arises.
+(e) Each provision of this condition excluding or limiting liability shall be construed
+separately, applying and surviving even if for any reason one or other of these provisions is
+held inapplicable or unenforceable in any circumstances and shall remain in force
+notwithstanding the termination of this Agreement howsoever occasioned.
+6. EXCUSABLE EVENTS
+Collins shall not be responsible or liable to You for any breach of this Agreement or failure to
+provide any of the Services due to any cause beyond its reasonable control including,
+without limitation, any act of God, inclement weather, failure or shortage of power supplies,
+flood, drought, lightning or fire, strike, lock-out, trade dispute or labour disturbance, the act or
+omission of Government, highways authorities, public telecommunication operators or other
+competent authority, failure of any satellite or telecommunications facilities over which the
+Services are carried, failure of the Internet, war, military operations, or riot, difficulty, delay or
+failure in production or supply by third parties. If any such event continues for ninety
+consecutive days, either party shall be entitled to terminate this Agreement. You will then be
+entitled to a refund of a pro rata portion of the annual subscription charges.
+7. PAYMENT TERMS
+(a) The subscription charges means the charge for subscription to the Services
+(“Subscription Charges”) which may be varied from time to time and are payable in
+advance of access to the Services and shall be subject to change by Collins at the time of
+any renewal of this Agreement. All Subscription Charges expressed are exclusive of any
+taxes which are or may be applicable.
+(b) All invoices shall be payable within thirty (30) days. Once payment has been received by
+Collins in cleared funds the User IDs will be activated.
+8. TERM AND TERMINATION
+(a) Unless terminated, as set out below, the term of this Agreement will be commencing on
+the date of this Agreement and will terminate on the date agreed between Us and You. You
+can renew the Agreement by returning a renewal notice with the appropriate Subscription
+Charge to Collins. Collins will send You the current price list and this will apply to any
+renewal.
+(b) If You are in breach of any of the terms of this Agreement and in the case of a breach
+capable of remedy (which shall not include any breach of clauses 2(b) or 3) having been
+notified of any such breach has failed to remedy the same within fourteen (14) days to the
+satisfaction of Collins, Collins may forthwith terminate this Agreement without compensation
+to You and without prejudice to its rights in respect of such breach.
+(c) Collins may terminate this Agreement at any time. Collins’ only obligation in this event
+shall be the refund of a pro rata portion of the Subscription Charges.
+9. ASSIGNMENT
+This Agreement is personal to You and neither the benefit of this Agreement nor any rights
+of access to any of the Services nor any right to use the Data may be assigned, licensed or
+otherwise transferred without the prior written consent of Collins.
+10.NOTICES
+Any notice, consent, approval or other communication required to be given under the
+Agreement shall be made in writing in English and shall be delivered by hand or sent by first
+class post to the other party and shall be deemed to have been received (if delivered by
+hand) at the time of delivery, or (if sent by post) 48 hours after posting. Any such
+communication made by Collins shall be sent to Your address as supplied on registration
+and any such communication from You shall be sent to The Corpus Manager, Collins
+Language Division, HarperCollins Publishers, 103 Westerhill Road, Bishopbriggs, Glasgow,
+G64 2QT, United Kingdom or such other addresses which may have been notified under this
+clause.
+11.THIRD PARTY
+Nothing in this Agreement is intended to confer on any third party any benefit or right to
+enforce any term contained in this Agreement.
+12. GENERAL
+(a) This Agreement may be amended by Collins from time to time by updating this posting.
+You should check the Website from time to time to review the then current legal notice,
+because it is binding on you. Certain provisions of this legal notice may be superseded by
+expressly designated legal notices or terms located on particular pages at the Website.
+(b) This Agreement shall be governed by English law. All disputes arising from or in
+connection with this Agreement shall be subject to the exclusive jurisdiction of the English
+Courts and the parties hereby irrevocably submit to this jurisdiction.
+(c) If any term of this Agreement is held to be illegal or unenforceable the validity and
+enforceability of the remainder shall continue in full force and effect. The provision in
+question shall be replaced by a valid and enforceable term which corresponds, so far as
+possible, with the original.
+(d) Failure by either party to exercise any right or remedy under this Agreement does not
+constitute a waiver of that right or remedy.
+(e) You hereby acknowledge and agree that You have not entered into this Agreement in
+reliance upon any oral or written warranty or representation made by Collins and not
+contained in this Agreement and that this Agreement contains the entire understanding of
+the parties governing the provision of the Services. This Agreement replaces all terms and
+conditions previously applicable to the provision of the Services.
+https://www.collinsdictionary.com/wordbanks/terms-and-conditions,70,HCA.html

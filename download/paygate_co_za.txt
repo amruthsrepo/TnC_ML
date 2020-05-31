@@ -1,0 +1,30 @@
+I guarantee that the information provided (in my application) is correct;
+I shall keep my username and password confidential and shall not allow others access thereto or the use thereof;
+I accept that I shall be responsible for all account activity conducted as a result of any access obtained through the use of my userID and password, should I:
+share my access rights with any other person by disclosing or allowing others to gain knowledge of my user number and password; or
+leave my browser unattended while in an active browser session; or
+in any other manner conduct or access my PayGate Online Account carelessly or negligently.
+leave my browser unattended while in an active browser session; or in any other manner conduct or access my PayGate Online Account carelessly or negligently. I acknowledge that my userID is PayGate’s property and may be revoked or suspended at PayGate’s discretion;
+Should I become aware of any breach or attempted breach of PayGate’s data security I shall inform PayGate’s management without delay and in writing;
+I acknowledge and accept that any use of my PayGate Online Account is at my own risk. Without limiting the generality of the aforesaid, I acknowledge that PayGate will not, under any circumstances, be liable to me for any loss or damages (including consequential, direct, indirect, special, punitive or incidental damages) arising from:
+any defect or fault in my hardware and/or software; or
+any failure or fault in connectivity to the Internet; or
+the unavailability of the PayGate website for any reason whatsoever; or
+any failure on the part of PayGate to carry out instructions given online under circumstances where such failure is the result of a cause beyond PayGate’s control.
+NO LIABILITY
+PayGate acts as an intermediary between the Merchant and the Bank, acquires information supplied from the Merchant and the Bank and processes transactions in good faith.
+PayGate does not guarantee the correctness of information acquired or supplied and can in no way be held liable by the Merchant for any damages suffered by the Merchant acting upon such information.
+Any dispute between the Bank and the Merchant howsoever arising, which includes, a dispute regarding:
+The value of reversals of invalid sales;
+Any discount;
+Any refund due to a cardholder;
+Any overpayment;
+The value of any transaction;
+The debiting of any Merchant’s account
+is deemed to be a dispute between the Bank and the Merchant and PayGate is not a party thereto. PayGate will in no way be held liable by the Merchant for any damages suffered by such Merchant pursuant to such dispute.
+BILLING
+Billing will commence on the day the account is activated and invoices will be sent one month in arrears. The service may be terminated with 30 days written notice. The merchant shall be billed to the end of the month in the written notice period expires.
+Any transaction concluded via PayGate’s internet services or any claim that may arise in consequence of the use of PayGate’s internet services shall be subject to the jurisdiction of the Western Cape High Court of South Africa.
+SECURING CARD DATA
+PayGate will maintain Payment Card Industry (PCI) compliance and as such PayGate is responsible for securely storing, processing and transmitting card data to the PCI compliance standard. If/when the Merchant makes use of any PayGate product which results in the Merchant storing, processing or transmitting card data, then the Merchant shall be responsible for securing this data in accordance with the PCI compliance standard.
+https://www.paygate.co.za/terms-and-conditions/

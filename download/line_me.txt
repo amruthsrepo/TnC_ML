@@ -1,0 +1,108 @@
+LINE@ Terms and Conditions of Use﻿
+
+
+The LINE@ Terms and Conditions of Use (the LINE@ Terms of Use) set forth the terms and conditions for use of all LINE@-related services (LINE@) provided by LINE Corporation (LINE Corp.) as the service provider and LINE Plus Corporation and its affiliates as the distributor (Plus) (collectively, LINE). In addition to the LINE@ Terms of Use, the LINE Terms and Conditions of Use (http://terms.line.me/line_terms) and LINE@ Guidelines (https://terms2.line.me/lineat_guideline_oth) established by LINE apply to the use of LINE@. In the event of a conflict between the provisions of the LINE@ Guidelines, the LINE@ Terms of Use, and the LINE Terms and Conditions of Use, the provisions of the LINE@ Guidelines take highest priority followed by the provisions of the LINE@ Terms of Use. The Customer will use LINE@ in accordance with the provisions of the LINE@ Guidelines, the LINE@ Terms of Use, and the LINE Terms and Conditions of Use. The Customer is responsible for compliance with all applicable laws and regulations when using LINE@.
+1. Application for Using LINE@, Acceptance and Rejection of Applications, and Cancellation of Applications.
+The Customer (regardless of whether Customer is an individual or enterprise/corporation) may use of LINE@ by submitting the application specified by LINE. LINE approval, however, is necessary to use an account requiring evaluation by LINE to open (Approved Account). In the event that LINE determines that any of the following items is applicable to the Customer, LINE may reject the application submitted by the Customer:
+1.1. The Customer has provided false information in the application.
+1.2. The Customer does not meet the evaluation criteria of LINE (including, but not limited to, the absence of any outstanding or late payments by the Customer to LINE and the Customer’s ability to make payments by credit card. LINE is not obligated to disclose LINE’s evaluation criteria.).
+1.3. Other instances where the use of LINE@ is not appropriate.
+2. Amendments to the LINE@ Terms of Use
+LINE may amend the LINE@ Terms of Use by providing public notice or direct notice to the Customer. If the Customer continues to use LINE@ after amendment to the LINE@ Terms of Use, the Customer will be deemed to have consented to the modified LINE@ Terms of Use.
+3. Period of Use
+The initial period of use for LINE@ is a period of one month. If the Customer does not cancel its agreement to use LINE@ by the method prescribed by LINE prior to the end of the period of use, the period of use will be extended automatically by an additional one-month period. Subsequent periods of use will be extended automatically in the same manner.
+4. Usage Fees
+4.1. There are free plans and fee-based service plans for use of LINE＠. (There is fee-based service plan for use of LINE@ ID. To use fee-based service for LINE@ ID, the Customer needs to submit an application to LINE separately.) The terms of the fee-based service plan, usage fees, and payment deadlines will be determined by Plus and Plus will provide public notification or direct notification to the Customer. Please confirm the terms of the fee-based service plan at the time of application.
+4.2. LINE may modify a fee-based service plan or offer additional fee-based service plans by providing public notification or direct notification to the Customer.
+4.3. In the event that the Customer cancels LINE@ or selects a different plan for use before the end of the one-month period of use, the Customer will pay the usage fees applicable to the one-month period of use in full and a proportional reduction in the usage fee for the one-month period of use will not apply. In the event that the Customer has prepaid the usage fee and cancels LINE@ or selects a different plan for use, refunds of the prepaid usage fee will not be provided.
+5. Accounts
+5.1. LINE will provide the Customer an account to use LINE@.
+5.2. The Customer will strictly manage its account password at its own risk to prevent fraudulent or other unauthorized use of the account password. LINE may consider any use of a registered password as the act of the Customer holding such password.
+5.3. If requested by the Customer, LINE may assist the Customer operate its account within reasonable limits. In such case, LINE may access the Customer’s account and operate the account to the extent necessary to provide the assistance.
+5.4. If the Customer outsources the operations of the Customer’s account to a third party after obtaining LINE’s consent, LINE will provide the necessary permissions to the third party to operate the Customer’s account. LINE assumes no responsibility for the operations of the Customer’s account by such third party, including instances where the Customer suffers damages due to such operations of the account by the third party.
+5.5. In accordance with the criteria of LINE, LINE may assign country/region code(Code) to the Customer’s account and modify the Code when LINE deems necessary (LINE is not obligated to disclose LINE’s criteria.). The Customer may not modify the Code of its account. The LINE@ Terms of Use and price plans for each the Code apply to the use of LINE@. The LINE@ Terms of Use and price plans may be different for each the Code.
+5.6. In the event of the Customer being an enterprise/corporation, such Customer may apply an account for its subsidiaries, parent companies or affiliated companies (collectively, “Affiliates”), and allow its Affiliates to use such account. In such case, the Customer shall ensure its Affiliates to comply with the LINE@ Terms of Use and shall be responsible for any conducts including breach of the LINE@ Terms of Use by its Affiliates. LINE may deem the Customer’s Affiliates’ conduct as the Customer’s conduct.
+6. Content
+6.1. The “Content” means a content (including but not limited to the Customer’s icon, profile information, and text, images, and video sent by the Customer) sent by Customer or made available for LINE-users to browse through LINE@ by the Customer.
+6.2. With respect to the Content, the Customer represents and warrants to each of the following items:
+6.2.1. The Content do not infringe the rights of any third party (including but not limited to copyright, moral rights, patent rights, trademark rights, design rights, utility model rights, trade secrets, honor rights, portrait rights, privacy rights, and publicity rights).
+6.2.2. The Content does not contrary to public order and morals (including, but not limited to, excessively violent or sexually-explicit content) and does not violate relevant laws and regulations, the LINE@ Terms of Use, or the LINE@ Guidelines.
+6.2.3. In the event of a URL link being included in the Content, such link shall be limited to a link which enables LINE-users to recognize that the Customer will be able to collect information regarding the LINE-users’ access thereto; or the Customer shall take necessary measures to cause LINE-users to recognize the same.
+6.3. In the event that the Content includes information about a third party, the Customer will display an appropriate expression (including but not limited to indication of the origin of the information and indication that the Customer is not the third party) on the Content so that LINE-users will not misunderstand that such information is provided by the third party directly.
+6.4. The Customer agrees that LINE at its sole discretion may confirm the Content from time-to-time to ensure the appropriate operations of LINE@. In the event that LINE deems that Content of the Customer includes inappropriate materials or items, LINE may suspend transmission of, or delete, such Content.
+6.5. In the event that a court, police agency, or other governmental entity requests LINE disclose or provide a copy of Content of the Customer and LINE determines that such request is valid, LINE may disclose or provide a copy of Content of the Customer without the approval of the Customer.
+6.6. LINE may use the Content of the Customer in advertising and promotional activities for LINE@. The Customer grants a perpetual, free-of-charge license to LINE to use the Content to the extent necessary for such purpose without limitation on geographic region.
+7. Notification Obligation
+If the Customer who uses an Approved Account changes its name, corporate name, trade name, representatives, address, or other contact information, the Customer promptly will notify LINE of the change in writing following the notification methodology prescribed by LINE. LINE may request the Customer to provide documentation confirming such change and the Customer will comply with such request by LINE.
+8. Customer Obligations
+8.1. In the event that the Customer is subject to a claim or demand from a third party or is subject to litigation relating or caused by the Customer’s use of LINE@ (the Claim), the Customer will resolve the Claim at its own expense and responsibility and not involve LINE in the resolution of the Claim.
+8.2. In the event that LINE incurs damages or expense (including attorney fees) relating or caused by the Customer’s use of LINE@, the Customer will indemnify LINE for such damages or expense.
+8.3. If you choose to set another user as an administrator, LINE will deem any actions taken by that administrator as your own. LINE will not bear responsibility for any damages or losses caused by additional administrators. Any such issues must be resolved between you and the other administrator.
+9. Information Handling
+9.1. LINE will share Customer Information, including but not limited to personal information, provided by the Customer to LINE Corp. or Plus and use Customer information to handle the administration of LINE@, respond to Customer inquiries, and contact the Customer.
+9.2. LINE will not disclose personal information of the Customer to third parties without the consent of the Customer, except where such disclosure is in accordance with relevant law and regulation.
+9.3. LINE will confirm the Customer’s use status of LINE@ (including types of messages sent, transmission times, and transmission volume) to enable LINE to improve LINE@. The Customer agrees to such confirmation by LINE of the Customer’s use status.
+9.4. The Customer may request LINE to disclose, correct, add, and delete personal information which LINE has collected from the Customer. Personal information will be disclosed in accordance with the proceeding separately set forth by LINE. LINE may charge the Customer a fee for disclosing your requested personal information. Please contact us from the URL below regarding disclosure, correction, addition, and deletion of personal information
+[https://contact.line.me/serviceId/10829 ]
+10. Outsourcing
+10.1. LINE may outsource part of the operations of LINE@ to a group company or a third party.
+10.2. LINE may provide information (excluding personal information) from the Customer’s LINE@ account, such as URL link, to business tie-up partners to enable LINE@ functionality on the website and/or apps of the business tie-up partners. Accordingly, links to the Customer’s LINE@ website may be placed on the websites of business tie-up partners. LINE may display the URL of a website operated by a business tie-up partner on which information about the Customer is posted on Customer’s account page and may link Customer’s account page to the website.
+11. Suspension, Modification, and Termination of the Service
+11.1. LINE may suspend provision of LINE@ for the reasons described below. In the event that LINE suspends LINE@, LINE will not be required to reimburse usage fees during such suspension and will not in any other way be held liable for such suspension.
+11.1.1. Performance of periodic or urgent maintenance on the equipment necessary to provide LINE@.
+11.1.2. The occurrence of a failure in the equipment necessary for the provision of LINE@.
+11.1.3. The occurrence of difficulties to provide LINE@ due to power failure, fire, nature disasters, labor strikes, and other force majeure incidents.
+11.1.4. Where there are significant operational or technological reasons that have an effect on LINE@.
+11.2. LINE may modify or terminate all or part of LINE@ after the provision of public notice or direct notice to the Customer. In the event that LINE modifies or terminates all or part of LINE@, LINE will not in any other way be held liable by the Customer for such modification or termination.
+12. Exemption of Liability
+12.1. LINE does not expressly or impliedly guarantee that LINE@ is free from de facto or legal flaws (including, but not limited to, stability, reliability, accuracy, integrity, effectiveness, fitness for certain purposes, security-related faults, errors, bugs, or infringements of rights).
+12.2. LINE is not responsible for any damages inflicted upon Users in relation to the use of the Service, except where such damages are due to intentional acts or gross negligence, where in such case, LINE will be responsible for direct and normal damages incurred by the Customer and the maximum amount of LINE’s liability will be the amount of the monthly usage fees paid by the Customer to use LINE@ in the particular month of the incident causing the damages.
+13. Prohibited Acts
+In the use by the Customer of LINE@, the Customer may not engage in any of the following acts.
+13.1. Activities that violate the law, court verdicts, resolutions or orders, or administrative measures that are legally binding.
+13.2. Activities that may hinder public order or customs.
+13.3. Activities that infringe intellectual property rights, including copyrights, trademarks and patents, fame, privacy, and all other rights of LINE and/or a third party granted by law or contract.
+13.4. Use of LINE@ as an advertising medium for a third party, including, but not limited to, use of LINE@ to promote the products or services of a third party.
+13.5. Transferring, lending, or sharing of the Customer’s LINE@ account with a third party.
+13.6. Activities that post or transmit violent or sexual expressions; expressions that lead to discrimination by race, national origin, creed, sex, social status, family origin, etc.; expressions that induce or encourage suicide, self-injurious behavior, or drug abuse; or anti-social expressions that include anti-social content or lead to the discomfort of others.
+13.7. Activities that lead to the misrepresentation of LINE and/or a third party, or intentionally spread false information.
+13.8. Use of LINE@ for the purpose of sexual conduct or obscene acts; use of LINE@ for the purpose of meeting a person for sexual encounters; use of LINE@ for the purpose of harassment or libelous attacks against other Customers or individuals; or use of LINE@ for purposes other than those intended by LINE for LINE@.
+13.9. Activities that benefit or collaborate with anti-social groups.
+13.10. Activities that illegally or improperly lead to the collection, disclosure, or provision of other's personal information, registered information, user history, or the like.
+13.11. Activities that interfere with the servers and/or network systems of LINE@.
+13.12. Activities that deliberately use or exploit defects in LINE@.
+13.13. Activities that make unreasonable inquires and/or undue claims to LINE.
+13.14. Activities that interfere with LINE’s operation of LINE@ or with the use of LINE@ by other customers or individuals.
+13.15. Activities that aid or encourage any activity stated in Clauses 13.1 to 13.14
+13.16. Other activities that are deemed by LINE to be inappropriate.
+14. Suspension and Termination of Use of LINE@
+In the event of any of the items in Clauses 14.1 to 14.5 applies to the Customer or LINE determines that there is a risk that any of the items in Clauses 14.1 to 14.5 might apply to the Customer, LINE may suspend the Customer’s use of LINE@ without prior notice, cancel the contractual agreement based on the LINE@ Terms of Use (the Agreement) without formal warning, or terminate the provision of LINE@ to the Customer. In the event that the Customer incurs any damages caused by the suspension or termination of the Customer’s use of LINE@ or the cancellation of the Agreement, LINE is not liable for such damages.
+14.1. Where LINE determines that any of the reasons for rejecting an application set forth in 1.2 applies to the Customer after the Customer has started using LINE@ (regardless of whether it is an Approved Account or not).
+14.2. Violations of the LINE@ Terms of Use or LINE@ Guidelines.
+14.3. Use of LINE@ for improper purposes.
+14.4. Where for reasons not caused by LINE, LINE is unable to contact the Customer.
+14.5. Where the Customer has not accessed to its LINE@ account for more than one year.
+14.6. Where the Customer has engaged in acts that are determined by LINE to be inappropriate.
+15. Confidentiality
+The Customer will maintain the confidentiality of information provided by LINE to the Customer (including information on the customers, products, services, business, technology, know-how, ideas, and concepts, regardless of how such information was disclosed or obtained, where LINE has designated such information as confidential at the time of disclosure) and may not disclose or otherwise leak such confidential information to any third party without the prior written consent of LINE, except where such disclosure is required by law.
+16. Elimination of Anti-Social Forces
+16.1. The Customer represents, warrants and covenants that neither it nor any of its subsidiaries, representatives, officers, employees, persons who substantially have the power to direct its management, agents, contractors, or brokers (collectively, Affiliates) falls, or will fall, under any of the following items now or in the future: an organized crime group, a member of an organized crime group, an associate member, partial member, or unofficial member of an organized crime group, a business affiliate or partner of an organized crime group, a racketeer, extortionist, anarchist, or any other intelligence-driven organized crime group, a person or company who has a close ties to, or aids and abets any of the foregoing (including, but not limited to, funding or otherwise supporting these activities), or any other groups of similar or analogous nature to any of the foregoing, in any jurisdiction (collectively, an Organized Group Group).
+16.2. The Customer represents, warrants, and covenants that neither it nor any of its Affiliates, directly or indirectly commits or will commit, any of the following acts:
+16.2.1. making a demand accompanied by the use or threat of force or arms;
+16.2.2. making an unreasonable demand or engaging in conduct having no legal basis;
+16.2.3. threatening, including without limitation informing another person that it or an Affiliate falls under any of the items prescribed in the preceding paragraph or engaging in violent behavior relating to its business transactions;
+16.2.4. carrying out any act to defame the reputation or interfere with the business of the LINE by spreading rumors, using fraudulent means or resorting to force; or
+16.2.5. engaging in any other acts similar or analogous to any of the foregoing in any jurisdiction.
+16.3. Should Customer violate either of Article 16.1 or Article 16.2, LINE may immediately terminate this Agreement without any prior notification. In the event that LINE terminates this Agreement under this Article, LINE is not liable for any loss, damage, claim, liability, cost, or expense arising out of or related to such termination of this Agreement.
+17. Assignment
+17.1. The Customer will not transfer, assign, provide as security, its rights and obligations arising in connection with the Terms of Use or contractual status under the Agreement to any third party, without prior written approval of the LINE.
+17.2. In the event that LINE intends to transfer all or a portion of the LINE@ service to a group company of LINE or to a third party, LINE may transfer LINE’s contractual status under the Agreement to such other group company of LINE or to a third party after providing public notice or a direct notice to the Customer. By entering into the Agreement, the Customer consents to such transfer in advance.
+18. Severability
+If any of the provisions of the LINE@ Terms of Use is declared to be invalid or unenforceable by the court or any other competent authorities, the invalidity or unenforceability of such provision will have no effect on the validity or enforceability of other provisions or related rules. The provision that is declared to be invalid or unenforceable will be amended only to the extent necessary so that the provision may be deemed valid and enforceable. Such amended provision will be interpreted so as to secure such legal and economic effect that had been the initial intent for such provision as originally provided.
+19. Governing Law, and Jurisdiction
+The laws of Japan, without regard to any choice of law or conflict of laws rules or provisions, is the governing law for these Terms of Use. In the event any dispute arising out of or related to these Terms of Use between LINE and the Customer shall be subject to the exclusive jurisdiction of the Tokyo District Court of Japan.
+END
+Last updated on June 28, 2018
+
+
+https://terms2.line.me/lineat_terms_oth
